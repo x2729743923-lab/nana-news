@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nana新闻推送 - 登录</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="login-page">
+    <main class="login-card">
+      <div class="brand-mark login-mark" aria-hidden="true">
+        <span></span><span></span><span></span><span></span>
+      </div>
+      <p class="eyebrow">Daily Intelligence</p>
+      <h1>Nana新闻推送</h1>
+      <form id="loginForm" class="login-form">
+        <label>
+          访问密码
+          <input id="password" type="password" autocomplete="current-password" autofocus />
+        </label>
+        <button type="submit">进入新闻站点</button>
+        <p id="loginMessage" class="login-message"></p>
+      </form>
+    </main>
+    <script>
+      const form = document.querySelector("#loginForm");
+      const message = document.querySelector("#loginMessage");
+      form.addEventListener("submit", async (event) => {
+        event.preventDefault();
+        message.textContent = "";
+        const password = document.querySelector("#password").value;
+        const response = await fetch("/api/login", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ password }),
+        });
+        if (response.ok) {
+          location.href = "/";
+          return;
+        }
+        message.textContent = "密码不正确，请重新输入。";
+      });
+    </script>
+  </body>
+</html>

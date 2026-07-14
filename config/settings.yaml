@@ -1,0 +1,26 @@
+﻿model:
+  provider: deepseek
+  summary_model: deepseek-v4-flash
+  reasoning_model: deepseek-v4-flash
+
+rules:
+  avoid_paywall: true
+  max_age_hours: 30
+  dedupe_similarity_threshold: 0.86
+  min_relevance_score: 6
+  top_news_threshold: 8
+
+outputs:
+  markdown_dir: reports
+  html_dir: reports
+  database_path: data/news.db
+  feishu:
+    enabled: true
+    send_full_digest: true
+    include_links: true
+
+weekly_report:
+  day: Monday
+  lookback_days: 7
+  include_trend_signals: true
+  include_watchlist: true

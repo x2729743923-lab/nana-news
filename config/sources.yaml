@@ -1,0 +1,252 @@
+﻿profile:
+  timezone: Asia/Shanghai
+  daily_push_time: "08:25"
+  language_policy:
+    primary: zh-CN
+    foreign_sources: bilingual
+  paywall_policy: avoid_paywalled_content
+  digest_limits:
+    total_min: 15
+    total_max: 25
+    top_news_max: 5
+    per_category_min: 3
+    per_category_max: 5
+
+categories:
+  - id: international_politics
+    name: 国际政治
+    priority: 1
+    keywords:
+      - geopolitics
+      - election
+      - diplomacy
+      - conflict
+      - sanctions
+      - 国际关系
+      - 地缘政治
+      - 外交
+      - 制裁
+    sources:
+      - name: BBC English World
+        type: rss
+        language: en
+        url: https://feeds.bbci.co.uk/news/world/rss.xml
+        bilingual: true
+      - name: 联合早报 国际
+        type: rss
+        language: zh-CN
+        url: https://www.zaobao.com.sg/realtime/world/rss.xml
+      - name: New York Times World
+        type: rss
+        language: en
+        url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+        bilingual: true
+        paywall_sensitive: true
+      - name: Reuters World
+        type: rss
+        language: en
+        url: https://feeds.reuters.com/Reuters/worldNews
+        bilingual: true
+      - name: AP Top News
+        type: rss
+        language: en
+        url: https://apnews.com/hub/ap-top-news?output=1
+        bilingual: true
+      - name: Politico
+        type: rss
+        language: en
+        url: https://rss.politico.com/politics-news.xml
+        bilingual: true
+
+  - id: global_economy
+    name: 全球经济最新动态
+    priority: 2
+    keywords:
+      - economy
+      - inflation
+      - interest rates
+      - central bank
+      - trade
+      - supply chain
+      - 全球经济
+      - 通胀
+      - 利率
+      - 央行
+      - 贸易
+    sources:
+      - name: 华尔街见闻
+        type: rss
+        language: zh-CN
+        url: https://wallstreetcn.com/rss
+      - name: 财新
+        type: rss
+        language: zh-CN
+        url: https://www.caixin.com/rss/
+        paywall_sensitive: true
+      - name: FT 中文
+        type: rss
+        language: zh-CN
+        url: https://www.ftchinese.com/rss/news
+        paywall_sensitive: true
+      - name: Reuters Business
+        type: rss
+        language: en
+        url: https://feeds.reuters.com/reuters/businessNews
+        bilingual: true
+
+  - id: ai_industry
+    name: AI行业上下游
+    priority: 3
+    keywords:
+      - artificial intelligence
+      - ai chips
+      - foundation models
+      - data center
+      - llm
+      - agents
+      - AI
+      - 大模型
+      - 算力
+      - 芯片
+      - 数据中心
+      - 智能体
+    sources:
+      - name: 量子位
+        type: rss
+        language: zh-CN
+        url: https://www.qbitai.com/feed
+      - name: 机器之心
+        type: rss
+        language: zh-CN
+        url: https://www.jiqizhixin.com/rss
+      - name: 36氪 AI
+        type: rss
+        language: zh-CN
+        url: https://36kr.com/feed
+      - name: The Verge AI
+        type: rss
+        language: en
+        url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+        bilingual: true
+      - name: TechCrunch AI
+        type: rss
+        language: en
+        url: https://techcrunch.com/category/artificial-intelligence/feed/
+        bilingual: true
+      - name: OpenAI Blog
+        type: rss
+        language: en
+        url: https://openai.com/news/rss.xml
+        bilingual: true
+      - name: Anthropic News
+        type: rss
+        language: en
+        url: https://www.anthropic.com/news/rss.xml
+        bilingual: true
+      - name: Google DeepMind Blog
+        type: rss
+        language: en
+        url: https://deepmind.google/blog/rss.xml
+        bilingual: true
+
+  - id: cybersecurity
+    name: 网络安全
+    priority: 4
+    keywords:
+      - cybersecurity
+      - vulnerability
+      - ransomware
+      - breach
+      - threat intelligence
+      - zero day
+      - 网络安全
+      - 漏洞
+      - 勒索软件
+      - 数据泄露
+      - 威胁情报
+      - 零日
+    sources:
+      - name: 安全客
+        type: rss
+        language: zh-CN
+        url: https://www.anquanke.com/feed
+      - name: 奇安信官网
+        type: website
+        language: zh-CN
+        url: https://www.qianxin.com/news
+      - name: 深信服官网
+        type: website
+        language: zh-CN
+        url: https://www.sangfor.com.cn/news
+      - name: 启明星辰官网
+        type: website
+        language: zh-CN
+        url: https://www.venustech.com.cn/new_type/aqdt/
+      - name: Palo Alto Networks Blog
+        type: rss
+        language: en
+        url: https://www.paloaltonetworks.com/blog/feed/
+        bilingual: true
+      - name: CrowdStrike Blog
+        type: rss
+        language: en
+        url: https://www.crowdstrike.com/blog/feed/
+        bilingual: true
+      - name: Fortinet Blog
+        type: rss
+        language: en
+        url: https://www.fortinet.com/blog/rss.xml
+        bilingual: true
+      - name: FreeBuf
+        type: rss
+        language: zh-CN
+        url: https://www.freebuf.com/feed
+      - name: The Hacker News
+        type: rss
+        language: en
+        url: https://feeds.feedburner.com/TheHackersNews
+        bilingual: true
+      - name: BleepingComputer
+        type: rss
+        language: en
+        url: https://www.bleepingcomputer.com/feed/
+        bilingual: true
+      - name: CISA Advisories
+        type: rss
+        language: en
+        url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+        bilingual: true
+
+  - id: china_globalization
+    name: 国内出海动态
+    priority: 5
+    keywords:
+      - 出海
+      - 跨境
+      - 全球化
+      - 海外市场
+      - 中国企业
+      - ecommerce
+      - globalization
+      - overseas expansion
+    sources:
+      - name: 霞光社
+        type: website
+        language: zh-CN
+        url: https://www.xgstartup.com/
+      - name: 白鲸出海
+        type: rss
+        language: zh-CN
+        url: https://www.baijing.cn/feed
+      - name: 36氪出海
+        type: rss
+        language: zh-CN
+        url: https://36kr.com/feed
+      - name: 品玩 Global
+        type: website
+        language: zh-CN
+        url: https://www.pingwest.com/
+      - name: LatePost
+        type: website
+        language: zh-CN
+        url: https://www.latepost.com/

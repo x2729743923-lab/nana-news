@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nana新闻推送</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand-mark" aria-hidden="true">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <nav class="category-nav" id="categoryNav"></nav>
+      </aside>
+
+      <main>
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Daily Intelligence</p>
+            <h1 id="pageTitle">Nana新闻推送</h1>
+          </div>
+          <div class="actions">
+            <label class="search">
+              <span aria-hidden="true">⌕</span>
+              <input id="searchInput" type="search" placeholder="搜索标题、来源、摘要" />
+            </label>
+            <button id="refreshButton" class="icon-button" type="button" title="重新生成日报" aria-label="重新生成日报">
+              ↻
+            </button>
+          </div>
+        </header>
+
+        <section class="overview-band">
+          <div>
+            <p class="section-label">今日总览</p>
+            <p id="overviewText">正在读取本地日报...</p>
+          </div>
+          <div class="metric-grid">
+            <div><span id="metricCount">0</span><small>入选新闻</small></div>
+            <div><span id="metricTop">0</span><small>重点新闻</small></div>
+            <div><span id="metricEnglish">0</span><small>英文来源</small></div>
+          </div>
+        </section>
+
+        <section class="tabs" id="tabs"></section>
+        <section id="content" class="content"></section>
+      </main>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
