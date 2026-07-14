@@ -71,7 +71,7 @@ async function deriveStream(password, salt, length) {
 }
 
 async function decryptData(password) {
-  const encrypted = await fetch("/data/encrypted-latest.json", { cache: "no-store" }).then((response) => response.json());
+  const encrypted = await fetch("data/encrypted-latest.json", { cache: "no-store" }).then((response) => response.json());
   const salt = base64ToBytes(encrypted.salt);
   const nonce = base64ToBytes(encrypted.nonce);
   const ciphertext = base64ToBytes(encrypted.ciphertext);
