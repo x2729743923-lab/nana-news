@@ -67,6 +67,8 @@ def main() -> None:
 
     index = (WEB_DIR / "index.html").read_text(encoding="utf-8")
     index = index.replace('<script src="/app.js"></script>', '<script src="/static-app.js"></script>')
+    index = index.replace('href="/styles.css"', 'href="styles.css"')
+    index = index.replace('src="/static-app.js"', 'src="static-app.js"')
     (PUBLIC_DIR / "index.html").write_text(index, encoding="utf-8")
     for filename in ["styles.css", "static-app.js"]:
         shutil.copy2(WEB_DIR / filename, PUBLIC_DIR / filename)
