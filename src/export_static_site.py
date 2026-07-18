@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import base64
+import datetime as dt
 import hashlib
 import json
 import os
@@ -15,6 +16,7 @@ from paths import DATA_DIR, ROOT
 
 PUBLIC_DIR = ROOT / "public"
 WEB_DIR = ROOT / "web"
+DAILY_DIR = DATA_DIR / "daily"
 
 
 def _derive_key(password: str, salt: bytes) -> bytes:
@@ -52,6 +54,31 @@ def encrypt_payload(payload: dict, password: str) -> dict:
     }
 
 
+def _payload_date(payload: dict) -> str:
+    if payload.get("date"):
+        return str(payload["date"])
+    today = dt.date.today().isoformat()
+    return today
+
+
+def _load_daily_payloads(latest: dict) -> dict[str, dict]:
+    payloads: dict[str, dict] = {}
+    if DAILY_DIR.exists():
+        for path in sorted(DAILY_DIR.glob("*.json")):
+            try:
+                payload = json.loads(path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                continue
+            date_key = payload.get("date") or path.stem
+            payload["date"] = date_key
+            payloads[str(date_key)] = payload
+
+    latest_date = _payload_date(latest)
+    latest["date"] = latest_date
+    payloads[latest_date] = latest
+    return dict(sorted(payloads.items()))
+
+
 def main() -> None:
     load_dotenv(ROOT / ".env", encoding="utf-8-sig")
     password = os.getenv("NANA_NEWS_PASSWORD", "Nanaonlinenews")
@@ -73,9 +100,34 @@ def main() -> None:
     for filename in ["styles.css", "static-app.js"]:
         shutil.copy2(WEB_DIR / filename, PUBLIC_DIR / filename)
 
+    daily_payloads = _load_daily_payloads(latest)
     encrypted = encrypt_payload(latest, password)
     (PUBLIC_DIR / "data" / "encrypted-latest.json").write_text(
         json.dumps(encrypted, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    dates: list[dict[str, object]] = []
+    for date_key, payload in daily_payloads.items():
+        encrypted_daily = encrypt_payload(payload, password)
+        (PUBLIC_DIR / "data" / f"encrypted-{date_key}.json").write_text(
+            json.dumps(encrypted_daily, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        dates.append(
+            {
+                "date": date_key,
+                "count": payload.get("count", len(payload.get("items", []))),
+                "english_count": sum(
+                    1
+                    for item in payload.get("items", [])
+                    if str(item.get("language", "")).lower().startswith("en") or item.get("summary_en")
+                ),
+            }
+        )
+
+    encrypted_index = encrypt_payload({"dates": dates, "latest": dates[-1]["date"] if dates else None}, password)
+    (PUBLIC_DIR / "data" / "encrypted-index.json").write_text(
+        json.dumps(encrypted_index, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 
