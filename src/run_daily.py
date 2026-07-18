@@ -1,6 +1,7 @@
 ﻿from __future__ import annotations
 
 import argparse
+import datetime as dt
 import json
 
 from ai_process import rank_and_summarize
@@ -31,20 +32,22 @@ def main() -> None:
     else:
         items = rank_and_summarize(raw_items)
 
-    md_path, html_path = write_reports(items, REPORT_DIR)
+    digest_date = dt.date.today()
+    md_path, html_path = write_reports(items, REPORT_DIR, digest_date=digest_date)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    daily_dir = DATA_DIR / "daily"
+    daily_dir.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "date": digest_date.isoformat(),
+        "markdown": str(md_path),
+        "html": str(html_path),
+        "count": len(items),
+        "items": items,
+    }
     latest_path = DATA_DIR / "latest.json"
-    latest_path.write_text(
-        json.dumps(
-            {
-                "markdown": str(md_path),
-                "html": str(html_path),
-                "count": len(items),
-                "items": items,
-            },
-            ensure_ascii=False,
-            indent=2,
-        ),
+    latest_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    (daily_dir / f"{digest_date.isoformat()}.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     print(json.dumps({"markdown": str(md_path), "html": str(html_path), "count": len(items)}, ensure_ascii=False, indent=2))
