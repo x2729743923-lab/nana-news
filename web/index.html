@@ -12,6 +12,11 @@
         <div class="brand-mark" aria-hidden="true">
           <span></span><span></span><span></span><span></span>
         </div>
+        <section class="date-card">
+          <p class="date-label">当前日报</p>
+          <p id="currentDateLabel">正在读取日期...</p>
+          <div id="calendarPanel" class="calendar-panel"></div>
+        </section>
         <nav class="category-nav" id="categoryNav"></nav>
       </aside>
 
@@ -26,9 +31,7 @@
               <span aria-hidden="true">⌕</span>
               <input id="searchInput" type="search" placeholder="搜索标题、来源、摘要" />
             </label>
-            <button id="refreshButton" class="icon-button" type="button" title="重新生成日报" aria-label="重新生成日报">
-              ↻
-            </button>
+            <button id="refreshButton" class="icon-button" type="button" title="重新生成日报" aria-label="重新生成日报">↻</button>
           </div>
         </header>
 
