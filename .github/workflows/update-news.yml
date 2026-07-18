@@ -32,10 +32,16 @@ jobs:
       - run: python src/export_static_site.py
         env:
           NANA_NEWS_PASSWORD: ${{ secrets.NANA_NEWS_PASSWORD }}
+      - name: Commit daily archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily
+          git diff --cached --quiet || git commit -m "Archive daily news data"
+          git push
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
-
   deploy:
     environment:
       name: github-pages
