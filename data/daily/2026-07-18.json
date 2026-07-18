@@ -1,0 +1,428 @@
+{
+  "date": "2026-07-18",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-18.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-18.html",
+  "count": 20,
+  "items": [
+    {
+      "title": "美国连续第七晚轰炸伊朗，伊朗反击打击科威特发电站",
+      "original_title": "US strikes hit Iran for seventh consecutive night",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 10,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "美国对伊朗的军事打击进入第七夜，伊朗对科威特一座发电厂进行了报复性打击，美伊冲突持续升级。",
+      "summary_en": "The US has struck Iran for a seventh consecutive night, and Iran retaliated by hitting a power and water plant in Kuwait, escalating the conflict.",
+      "why_it_matters_zh": "美伊冲突的持续升级可能引发更广泛的中东战争，影响全球能源供应和地缘政治稳定。",
+      "why_it_matters_en": "The escalating US-Iran conflict risks triggering a wider Middle East war, impacting global energy supply and geopolitical stability.",
+      "tags": [
+        "美伊冲突",
+        "中东",
+        "地缘政治",
+        "军事打击"
+      ]
+    },
+    {
+      "title": "乌克兰国防部长被撤引发士兵抗议，前线不满情绪蔓延",
+      "original_title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "乌克兰国防部长费多罗夫被撤职后，士兵和民众爆发抗议，前线士兵批评这一决定，认为可能影响战争努力。",
+      "summary_en": "Protests erupted in Ukraine after Defense Minister Fedorov's removal; troops criticize the decision, fearing it could hamper the war effort.",
+      "why_it_matters_zh": "乌克兰内部的政治动荡可能削弱军队士气和作战效率，对俄乌战争走向产生重要影响。",
+      "why_it_matters_en": "Political turmoil in Ukraine could weaken military morale and efficiency, significantly affecting the course of the war with Russia.",
+      "tags": [
+        "乌克兰",
+        "国防部长",
+        "抗议",
+        "俄乌战争"
+      ]
+    },
+    {
+      "title": "特朗普称中国干预2020大选并质疑中期选举投票安全",
+      "original_title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "特朗普重拾毫无根据的中国干预2020年大选指控，并质疑中期选举投票安全，中国否认，民主党指责特朗普破坏选举公正。",
+      "summary_en": "Trump revived baseless claims of Chinese interference in the 2020 election and questioned voting security; China denied, Democrats accused him of undermining election integrity.",
+      "why_it_matters_zh": "特朗普的指控可能加剧美国国内政治分裂，影响中期选举的公信力及中美关系。",
+      "why_it_matters_en": "Trump's allegations could deepen US political divisions, affect midterm election credibility, and strain US-China relations.",
+      "tags": [
+        "特朗普",
+        "中国干预",
+        "中期选举",
+        "中美关系"
+      ]
+    },
+    {
+      "title": "特朗普威胁对加拿大征收新关税，称加拿大山火将“肮脏空气”吹入美国",
+      "original_title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "特朗普以加拿大山火导致美国空气污染为由，威胁对加拿大加征新关税。加拿大总理卡尼表示两国应共同应对气候变化。",
+      "summary_en": "Trump threatened new tariffs on Canada over wildfire smoke drifting into US cities; Canadian PM Carney said both countries share responsibility for climate change.",
+      "why_it_matters_zh": "美加贸易摩擦可能进一步升级，影响北美经济一体化及跨境环境合作。",
+      "why_it_matters_en": "US-Canada trade tensions could escalate, affecting North American economic integration and cross-border environmental cooperation.",
+      "tags": [
+        "美加关系",
+        "关税",
+        "山火",
+        "气候变化"
+      ]
+    },
+    {
+      "title": "中国GDP增长创三年新低，第二季度低于目标区间",
+      "original_title": "中国GDP增长创3年新低",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110325",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "中国第二季度GDP增速回落至3年低点，低于年度目标区间，月度数据凸显经济下行压力。",
+      "summary_en": "",
+      "why_it_matters_zh": "作为全球第二大经济体，中国经济放缓将影响全球贸易和供应链，引发市场对刺激政策的预期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国经济",
+        "GDP",
+        "增速放缓",
+        "宏观经济"
+      ]
+    },
+    {
+      "title": "美国6月通胀率大幅回落至3.5%，加息预期降温",
+      "original_title": "美国6月通胀率大幅回落至3.5%",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110317",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "美国6月通胀数据因汽油价格回落大幅降温，市场降低加息预期。但中东冲突再次升级可能影响后续能源价格。",
+      "summary_en": "",
+      "why_it_matters_zh": "通胀回落为美联储提供政策空间，但中东局势不确定性仍存，全球金融市场密切关注。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美国通胀",
+        "美联储",
+        "利率",
+        "经济数据"
+      ]
+    },
+    {
+      "title": "习近平宣布中国支持全球人工智能发展重大举措",
+      "original_title": "习近平宣布中国支持全球人工智能发展重大举措",
+      "source": "新华社 / 36氪",
+      "url": "https://36kr.com/newsflashes/3899215060436864",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "习近平在WAIC 2026开幕式上宣布，中国将面向发展中国家提供5000个人工智能培训名额，建设国际AI应用合作中心，并推动气象智能预警方案落地。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国在全球AI治理和合作方面释放积极信号，可能影响国际AI规则制定和发展格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "习近平",
+        "人工智能",
+        "全球治理",
+        "WAIC"
+      ]
+    },
+    {
+      "title": "月之暗面正式推出开源模型Kimi K3，全球首个3万亿参数开源模型",
+      "original_title": "月之暗面正式推出开源模型Kimi K3",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3900449325287305",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "月之暗面发布2.8万亿参数开源模型Kimi K3，原生支持视觉理解，100万token上下文，在Code Arena上超越Claude Fable 5和GPT-5.6 So。",
+      "summary_en": "",
+      "why_it_matters_zh": "Kimi K3是全球首个3万亿级开源模型，标志着中国开源大模型达到新高度，加剧AI竞争。",
+      "why_it_matters_en": "",
+      "tags": [
+        "月之暗面",
+        "Kimi K3",
+        "开源模型",
+        "大模型"
+      ]
+    },
+    {
+      "title": "智谱ARR达到10亿美元，半年增长15倍",
+      "original_title": "智谱ARR达到10亿美元，半年增长15倍",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3900449325287305",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "据多个独立信源，截至2026年7月，智谱ARR已达10亿美元，半年内增长15倍，API调用量增长约400%。",
+      "summary_en": "",
+      "why_it_matters_zh": "智谱的快速增长证明中国AI商业化进入高速增长期，对行业估值和投资方向有重要参考意义。",
+      "why_it_matters_en": "",
+      "tags": [
+        "智谱",
+        "ARR",
+        "AI商业化",
+        "融资"
+      ]
+    },
+    {
+      "title": "谷歌推迟发布Gemini 3.5 Pro，因持续提升模型编程能力",
+      "original_title": "谷歌据悉推迟发布Gemini 3.5 Pro，因持续提升模型编程能力",
+      "source": "36氪（引述新浪财经）",
+      "url": "https://36kr.com/p/3900449325287305",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "知情人士透露，谷歌最强AI模型Gemini 3.5 Pro因提升编程能力而延迟发布，引发内部不满，担心失去领先优势。",
+      "summary_en": "",
+      "why_it_matters_zh": "谷歌AI延迟发布可能影响其在大模型竞赛中的地位，反映AI研发的激烈竞争。",
+      "why_it_matters_en": "",
+      "tags": [
+        "谷歌",
+        "Gemini",
+        "大模型",
+        "AI竞争"
+      ]
+    },
+    {
+      "title": "欧盟要求谷歌开放Android和搜索以符合数字市场法案",
+      "original_title": "Google ordered to open Android and Search to rivals in Europe",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "欧盟裁定谷歌必须向竞争对手开放Android和Google搜索的核心功能，以遵守数字市场法案，这可能削弱谷歌的市场控制力。",
+      "summary_en": "The EU ordered Google to open key parts of Android and Search to rivals under the Digital Markets Act, potentially weakening Google's control.",
+      "why_it_matters_zh": "欧盟此举可能重构移动生态和搜索引擎市场，影响全球科技监管趋势。",
+      "why_it_matters_en": "This EU decision could reshape the mobile ecosystem and search market, influencing global tech regulation trends.",
+      "tags": [
+        "欧盟",
+        "谷歌",
+        "数字市场法案",
+        "反垄断"
+      ]
+    },
+    {
+      "title": "Anthropic据悉计划几周内召开IPO投资者会议",
+      "original_title": "Anthropic据悉计划几周内召开IPO投资者会议",
+      "source": "36氪（引述界面新闻）",
+      "url": "https://36kr.com/p/3900449325287305",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Anthropic正在筹备大规模IPO，估值达9650亿美元，计划最早10月启动，承销银行将安排投资者会议。",
+      "summary_en": "",
+      "why_it_matters_zh": "Anthropic的IPO将创下AI领域估值新高，标志AI独角兽进入资本市场高潮。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI独角兽",
+        "融资"
+      ]
+    },
+    {
+      "title": "第一后空Cookie与Anthropic Claude集成，可自动使用1Password凭证",
+      "original_title": "Claude can now use your 1Password credentials for you",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "1Password推出Claude浏览器集成，允许AI助手安全访问存储的凭证，自动完成预定旅行等任务。",
+      "summary_en": "1Password launched a browser integration for Claude that allows the AI to access stored credentials for tasks like booking travel.",
+      "why_it_matters_zh": "这标志着AI智能体在安全凭证管理方面的重要进展，提升自动化能力但引发安全担忧。",
+      "why_it_matters_en": "This marks a significant step in AI agent credential management, boosting automation but raising security concerns.",
+      "tags": [
+        "1Password",
+        "Claude",
+        "AI集成",
+        "安全"
+      ]
+    },
+    {
+      "title": "xAI起诉利用Grok生成儿童色情深度伪造内容的用户",
+      "original_title": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "马斯克旗下的xAI起诉一名南卡罗来纳州男子，指控其利用Grok聊天机器人生成和传播儿童性虐待材料。",
+      "summary_en": "xAI is suing a man who allegedly used Grok to generate and distribute child sexual abuse material, highlighting AI misuse risks.",
+      "why_it_matters_zh": "此案凸显AI生成内容滥用的法律和安全挑战，可能推动更严格的AI监管。",
+      "why_it_matters_en": "The case underscores legal and safety challenges of AI-generated content abuse, potentially driving stricter regulation.",
+      "tags": [
+        "xAI",
+        "Grok",
+        "CSAM",
+        "AI安全",
+        "诉讼"
+      ]
+    },
+    {
+      "title": "中国国家数据局：全国已建成高质量数据集12万个",
+      "original_title": "国家数据局：全国已建成高质量数据集12万个",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3900807486293892",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "国家数据局表示，截至6月底全国已建成高质量数据集12万个，总数据量超1565PB，较一季度末增长超60%。",
+      "summary_en": "",
+      "why_it_matters_zh": "高质量数据集是AI发展的基础，中国大力建设数据基础设施有助于提升AI竞争力。",
+      "why_it_matters_en": "",
+      "tags": [
+        "国家数据局",
+        "数据集",
+        "AI基础设施"
+      ]
+    },
+    {
+      "title": "京津冀、黄河流域、东北地区上半年外贸创历史新高",
+      "original_title": "三区域外贸上半年创历史新高 京津冀达2.58万亿元",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3900806187075464",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "京津冀、黄河流域和东北地区上半年进出口均创历史同期新高，京津冀达2.58万亿元，同比增长16.2%。",
+      "summary_en": "",
+      "why_it_matters_zh": "外贸数据反映出中国区域经济活力，对判断中国出口走势和全球供应链有参考价值。",
+      "why_it_matters_en": "",
+      "tags": [
+        "外贸",
+        "京津冀",
+        "黄河流域",
+        "经济数据"
+      ]
+    },
+    {
+      "title": "中国恒大清盘人警告普华合伙人不要通过离婚保全财产",
+      "original_title": "中国恒大的清盘人告知普华合伙人不要通过离婚保全财产",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110330",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "恒大清盘人警告普华永道合伙人不要通过离婚等方式转移财产逃避判决执行，此前有报道称部分合伙人正考虑此类做法。",
+      "summary_en": "",
+      "why_it_matters_zh": "恒大清盘事件持续发酵，涉及中介机构责任和资产追索，影响金融市场信心。",
+      "why_it_matters_en": "",
+      "tags": [
+        "恒大",
+        "清盘",
+        "财产保全",
+        "普华永道"
+      ]
+    },
+    {
+      "title": "俄罗斯对异见人士加大打击，一人被罚款另一人被拘留",
+      "original_title": "One anti-war critic fined, another held as Russia clamps down on dissent",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "俄罗斯进一步压制异见，政治家纳杰日丁被禁止参选，博主列梅斯洛被拘留。",
+      "summary_en": "Russia intensified crackdown on dissent: politician Nadezhdin barred from election, blogger Remeslo remanded in custody.",
+      "why_it_matters_zh": "俄罗斯内部政治压制升级，反映战争背景下对反对声音的零容忍。",
+      "why_it_matters_en": "The escalating crackdown on dissent in Russia reflects zero tolerance under war conditions.",
+      "tags": [
+        "俄罗斯",
+        "异见人士",
+        "压制",
+        "政治"
+      ]
+    },
+    {
+      "title": "日本放宽皇室继承规则，但仍禁止女性天皇",
+      "original_title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 6,
+      "relevance_score": 5,
+      "is_top_news": false,
+      "summary_zh": "日本新法律允许将15岁以上男性远亲收养回皇室以确保皇位继承，但仍禁止女性天皇。",
+      "summary_en": "Japan passed a law allowing adoption of male distant relatives over 15 into the imperial family, but still bans female emperors.",
+      "why_it_matters_zh": "该改革只能暂时解决继承危机，但继续排除女性，可能引发社会争议。",
+      "why_it_matters_en": "The reform temporarily addresses succession crisis but still excludes women, potentially sparking societal debate.",
+      "tags": [
+        "日本",
+        "皇室",
+        "女性天皇",
+        "继承"
+      ]
+    },
+    {
+      "title": "英国新任首相伯纳姆就职，IMF警告英国无力增加公共支出",
+      "original_title": "IMF：英国已无力增加公共支出",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110350",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": true,
+      "summary_zh": "安迪·伯纳姆成为英国新任首相，但IMF随即警告英国预算前景充满挑战，任何能源账单资助都需要通过其他领域节省抵消。",
+      "summary_en": "",
+      "why_it_matters_zh": "英国新政府面临巨大财政压力，如何平衡经济刺激和财政纪律将影响英镑和债券市场。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英国",
+        "新首相",
+        "IMF",
+        "财政预算"
+      ]
+    }
+  ]
+}
