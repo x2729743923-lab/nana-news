@@ -1,0 +1,371 @@
+{
+  "date": "2026-07-20",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-20.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-20.html",
+  "count": 17,
+  "items": [
+    {
+      "title": "特朗普称美国为阵亡士兵报复伊朗发动打击",
+      "original_title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 10,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "特朗普称美国为阵亡士兵报复伊朗发动打击，伊朗回应在叙利亚和约旦发动攻击，霍尔木兹海峡两艘船只爆炸。",
+      "summary_en": "Trump says US strikes hit Iran in honor of American soldiers killed; Iran responded with attacks in Syria and Jordan; two ships reportedly exploded in the Strait of Hormuz.",
+      "why_it_matters_zh": "美伊冲突急剧升级，可能导致更大规模中东战争。",
+      "why_it_matters_en": "The US-Iran conflict is escalating rapidly, risking a wider war in the Middle East.",
+      "tags": [
+        "美伊冲突",
+        "中东",
+        "军事打击",
+        "霍尔木兹海峡"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "俄罗斯对乌克兰城市发动大规模弹道导弹袭击",
+      "original_title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "俄罗斯对乌克兰多个城市发动大规模弹道导弹和无人机袭击，造成8人死亡、数十人受伤，乌克兰继续打击俄罗斯基础设施。",
+      "summary_en": "Russia launches major ballistic missile and drone attack on several Ukrainian cities, killing 8 and injuring dozens, while Ukraine continues its own assault on Russian infrastructure.",
+      "why_it_matters_zh": "俄乌战争持续加剧，双方互相打击基础设施，伤亡不断增加。",
+      "why_it_matters_en": "The Russia-Ukraine war continues to intensify with mutual infrastructure strikes.",
+      "tags": [
+        "俄乌战争",
+        "导弹袭击",
+        "基础设施"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "英国国王任命伯纳姆为新一任首相",
+      "original_title": "",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/newsflashes/3903888283830152?f=rss",
+      "language": "zh-CN",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "英国执政党工党新任党首安迪·伯纳姆在白金汉宫与英国国王查尔斯三世会面，获国王任命成为新一任首相，并被授权组建新一届内阁。",
+      "summary_en": "",
+      "why_it_matters_zh": "伯纳姆的任命标志着英国政治新阶段的开始，面临经济和社会多重挑战。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英国政治",
+        "伯纳姆",
+        "首相任命"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "中国AI模型对美国主导地位打出组合拳",
+      "original_title": "China delivers a one-two punch to America’s AI dominance",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "中国领先AI公司月之暗面和阿里巴巴相继发布可对标OpenAI和Anthropic的模型，且成本更低，显示美国在AI前沿的领先优势正在缩小。",
+      "summary_en": "China's leading AI companies Moonshot and Alibaba unveiled models rivaling OpenAI and Anthropic at lower cost, narrowing America's lead.",
+      "why_it_matters_zh": "中国AI模型的快速进步可能重塑全球AI竞争格局，对美国科技霸权构成挑战。",
+      "why_it_matters_en": "China's rapid AI model releases challenge US dominance in the AI frontier.",
+      "tags": [
+        "AI竞争",
+        "月之暗面",
+        "阿里巴巴",
+        "开源模型"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "中国GDP增长创3年新低",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110325",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "中国第二季度GDP增长低于年度目标区间，月度指标凸显经济面临压力。",
+      "summary_en": "",
+      "why_it_matters_zh": "作为全球第二大经济体，中国经济增长放缓影响全球市场信心和政策预期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国经济",
+        "GDP",
+        "增长放缓"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "鲁比奥称美国仍对与伊朗外交持开放态度",
+      "original_title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "美国国务卿鲁比奥表示美国仍对与伊朗的外交持开放态度，伊朗方面称已收到调解方的新提议。",
+      "summary_en": "US Secretary of State Rubio says US is open to diplomacy with Iran; Iran confirms receiving new proposals from mediators.",
+      "why_it_matters_zh": "在冲突升级的同时，外交窗口仍存在，为局势缓和留下可能。",
+      "why_it_matters_en": "Amid escalating conflict, diplomatic channels remain open, offering a potential path to de-escalation.",
+      "tags": [
+        "美伊关系",
+        "外交",
+        "鲁比奥"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "乌克兰征兵困难导致暴力事件增多",
+      "original_title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "乌克兰征兵困难加剧，针对征兵官员的暴力袭击日益增多。",
+      "summary_en": "Ukraine struggles to recruit soldiers, with increasing violent attacks on recruitment officers.",
+      "why_it_matters_zh": "乌克兰兵源不足可能影响其长期作战能力。",
+      "why_it_matters_en": "Ukraine's difficulty in recruiting soldiers may undermine its long-term combat capability.",
+      "tags": [
+        "乌克兰",
+        "征兵",
+        "社会矛盾"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "美国6月通胀率大幅回落至3.5%",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110317",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "美国6月通胀率降至3.5%，汽油价格回落缓解成本压力，但市场担忧中东冲突升级可能再次推高价格。",
+      "summary_en": "",
+      "why_it_matters_zh": "通胀回落可能影响美联储货币政策预期，但地缘风险仍存不确定性。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美国通胀",
+        "经济数据",
+        "加息预期"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "中国氦气出口禁令加剧欧洲供应短缺",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110374",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国氦气出口禁令切断俄罗斯氦气流入欧洲的渠道，加剧卡塔尔生产中断后的供应压力。",
+      "summary_en": "",
+      "why_it_matters_zh": "氦气是半导体和医疗等领域关键原材料，供应短缺可能影响全球产业链。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国出口管制",
+        "氦气",
+        "欧洲供应"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "“全球石油库存濒临耗尽”",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110336",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "石油交易员警告中东重燃战火使市场面临新供应中断风险，而库存不足以缓冲冲击。",
+      "summary_en": "",
+      "why_it_matters_zh": "石油供应风险上升可能推高全球能源价格，加剧通胀压力。",
+      "why_it_matters_en": "",
+      "tags": [
+        "石油",
+        "库存",
+        "中东冲突"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "IMF：英国已无力增加公共支出",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110350",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "IMF提醒新首相伯纳姆英国预算前景充满挑战，任何新支出需通过其他领域节省抵消。",
+      "summary_en": "",
+      "why_it_matters_zh": "英国新政府面临财政紧缩压力，政策空间受限。",
+      "why_it_matters_en": "",
+      "tags": [
+        "IMF",
+        "英国经济",
+        "公共支出"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场",
+      "original_title": "",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "腾讯云正式发布企业级智能体开发平台ADP 4.0海外版，支持LINE、Telegram等海外渠道，已与医疗、运营商等行业客户落地。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国企业级AI平台出海，与海外竞争对手争夺全球企业市场。",
+      "why_it_matters_en": "",
+      "tags": [
+        "腾讯云",
+        "智能体",
+        "出海",
+        "企业级AI"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "Meta与Anthropic洽谈出租算力 潜在价值100亿美元",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110362",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Anthropic提议向Meta租赁算力以应对AI需求增长，已与SpaceX签署类似协议。",
+      "summary_en": "",
+      "why_it_matters_zh": "AI算力争夺战加剧，巨头之间通过租赁模式优化资源分配。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Meta",
+        "Anthropic",
+        "算力租赁",
+        "AI基础设施"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "摩根士丹利成为华尔街AI债务交易头号银行",
+      "original_title": "",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/newsflashes/3903710346790535?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "摩根士丹利崛起为AI基础设施融资主导银行，设计创新债务和股权模式为数据中心建设输送数百亿美元。",
+      "summary_en": "",
+      "why_it_matters_zh": "AI基础设施建设需要大量资本，金融创新工具降低融资门槛。",
+      "why_it_matters_en": "",
+      "tags": [
+        "摩根士丹利",
+        "AI融资",
+        "数据中心"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "TikTok测试AI肖像检测工具",
+      "original_title": "TikTok is testing an AI likeness detection tool",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 5,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "TikTok开始测试AI肖像检测工具，允许用户举报AI生成的仿冒内容。",
+      "summary_en": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company.",
+      "why_it_matters_zh": "AI深度伪造内容日益泛滥，平台积极推出治理工具。",
+      "why_it_matters_en": "Platforms are introducing tools to combat AI-generated deepfakes and protect user likeness.",
+      "tags": [
+        "TikTok",
+        "AI检测",
+        "肖像保护"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "中企巴基斯坦铜金矿项目警告可能因安全风险暂停运营",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110328",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 6,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中资山达克铜金矿致信巴基斯坦能源部称俾路支省治安状况影响物资运输，可能暂停运营。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国海外矿业投资面临安全挑战，影响一带一路项目推进。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国企业",
+        "海外投资",
+        "巴基斯坦",
+        "安全风险"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "巴拿马官员赴北京，寻求化解船舶扣留争端",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110345",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 6,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国加大扣留巴拿马籍船舶后，巴拿马官员赴北京协商，大批船舶退出巴拿马船籍。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国与巴拿马的船舶争端影响全球航运和两国关系。",
+      "why_it_matters_en": "",
+      "tags": [
+        "巴拿马",
+        "船舶",
+        "中国",
+        "外交争端"
+      ],
+      "paywall_risk": true
+    }
+  ]
+}
