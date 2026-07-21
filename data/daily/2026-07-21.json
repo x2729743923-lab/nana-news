@@ -1,0 +1,365 @@
+{
+  "date": "2026-07-21",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-21.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-21.html",
+  "count": 17,
+  "items": [
+    {
+      "title": "美国对伊朗发动新一轮打击，特朗普警告将报复士兵死亡",
+      "original_title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 10,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "美国对伊朗发动新一轮军事打击，伊朗称已击中霍尔木兹海峡的两艘船只以及巴林和约旦境内的目标。特朗普警告将报复美国士兵的死亡。",
+      "summary_en": "The US launched fresh strikes on Iran. Iran says it hit two ships in the Strait of Hormuz and targets in Bahrain and Jordan. Trump warns of retaliation.",
+      "why_it_matters_zh": "美伊冲突急剧升级，中东局势面临扩大化风险，可能影响全球能源供应与地缘稳定。",
+      "why_it_matters_en": "Escalation of US-Iran conflict risks a wider war in the Middle East, threatening global energy supply and stability.",
+      "tags": [
+        "美国",
+        "伊朗",
+        "中东",
+        "军事打击"
+      ]
+    },
+    {
+      "title": "特朗普对加拿大加征50%关税，卡尼誓言“加强”贸易谈判",
+      "original_title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "美国对加拿大商品加征50%关税，加拿大总理卡尼誓言加强贸易谈判。此举标志着北美邻国间贸易紧张局势的重大升级。",
+      "summary_en": "The US imposes 50% tariffs on Canadian goods. Canadian PM Carney vows to intensify trade talks, marking a major escalation in North American trade tensions.",
+      "why_it_matters_zh": "美加贸易战急剧升级，可能冲击北美供应链及全球经济，影响中美贸易格局。",
+      "why_it_matters_en": "Sharp escalation of US-Canada trade war could disrupt North American supply chains and the global economy.",
+      "tags": [
+        "美国",
+        "加拿大",
+        "关税",
+        "贸易战"
+      ]
+    },
+    {
+      "title": "也门胡塞武装宣布对沙特实施‘海上封锁’",
+      "original_title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "胡塞武装宣布立即对沙特实施海上封锁，以回应沙特对也门港口和机场的封锁。此举可能开辟中东冲突新战线。",
+      "summary_en": "Houthis announce an immediate maritime embargo on Saudi Arabia in response to the Saudi blockade of Yemeni ports and airports.",
+      "why_it_matters_zh": "胡塞武装封锁红海航运，可能影响全球贸易航道，进一步扩大美伊冲突范围。",
+      "why_it_matters_en": "Houthi blockade of Red Sea shipping could disrupt global trade routes and widen US-Iran conflict.",
+      "tags": [
+        "也门",
+        "胡塞武装",
+        "沙特",
+        "红海封锁"
+      ]
+    },
+    {
+      "title": "俄罗斯在黑海加剧对商船攻击，致10人死亡",
+      "original_title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "俄罗斯对黑海商船的袭击造成10人死亡，7月对敖德萨地区的袭击已累计致死28人。",
+      "summary_en": "Russian attacks on merchant ships in the Black Sea kill ten people. July attacks on Odesa region have killed 28.",
+      "why_it_matters_zh": "黑海航运安全受严重威胁，影响乌克兰粮食出口及全球粮食价格。",
+      "why_it_matters_en": "Threat to Black Sea shipping endangers Ukraine grain exports and global food prices.",
+      "tags": [
+        "俄罗斯",
+        "乌克兰",
+        "黑海",
+        "商船攻击"
+      ]
+    },
+    {
+      "title": "哈马斯任命哈利勒·哈亚为新的最高领导人",
+      "original_title": "Hamas names Khalil al-Hayya as new overall leader",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "哈马斯任命其驻卡塔尔首席谈判代表哈利勒·哈亚为新的政治领导人，接替2024年被以军打死的叶海亚·辛瓦尔。",
+      "summary_en": "Hamas appoints its Qatar-based chief negotiator Khalil al-Hayya as new political leader, replacing Yahya Sinwar who was killed in 2024.",
+      "why_it_matters_zh": "哈马斯领导层变动将影响巴以冲突走向及加沙停火谈判进程。",
+      "why_it_matters_en": "Hamas leadership change may affect the Israel-Palestine conflict and Gaza ceasefire talks.",
+      "tags": [
+        "哈马斯",
+        "巴以冲突",
+        "领导层变更"
+      ]
+    },
+    {
+      "title": "中国考虑收紧对人工智能模型和芯片的出口管控",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110389",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "北京方面已开始与领先的本土AI和芯片制造企业商讨如何防止西方得到中国的先进技术及明星初创企业。",
+      "summary_en": "",
+      "why_it_matters_zh": "此举将重塑全球AI技术供应链，加剧中美科技脱钩，影响中国AI企业出海与国际合作。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "AI",
+        "芯片",
+        "出口管制"
+      ]
+    },
+    {
+      "title": "中国“国家队”出手护盘，购入近90亿美元股票",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110375",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国国新控股和中国诚通宣布购入近600亿元人民币股票，在周一其他亚洲市场下跌之际支撑了中国股指。",
+      "summary_en": "",
+      "why_it_matters_zh": "国家队护盘显示中国政府对金融市场稳定的重视，短期提振市场信心。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "国家队",
+        "护盘",
+        "股票"
+      ]
+    },
+    {
+      "title": "全球石油库存濒临耗尽",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110336",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "石油交易员警告，中东重燃战火使市场面临新的供应中断风险，但不像冲突早期阶段那样拥有充足库存来避免更广泛的经济危机。",
+      "summary_en": "",
+      "why_it_matters_zh": "石油库存紧张叠加地缘冲突，可能推高油价并冲击全球经济复苏。",
+      "why_it_matters_en": "",
+      "tags": [
+        "石油",
+        "库存",
+        "中东冲突",
+        "能源危机"
+      ]
+    },
+    {
+      "title": "一文读懂英国新首相就任演讲透露的核心信息",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110383",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "英国新首相安迪·伯纳姆就任后发表演讲，其愿景已逐渐清晰。本文逐节解析核心主题，包括减税、经济改革等。",
+      "summary_en": "",
+      "why_it_matters_zh": "英国新政府的政策方向将影响英国经济复苏及与欧美贸易关系。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英国",
+        "新首相",
+        "伯纳姆",
+        "经济政策"
+      ]
+    },
+    {
+      "title": "美国施压欧盟消除“贸易壁垒”",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110363",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "美欧达成协议降低特朗普关税一周年之际，美国敦促欧盟公开承诺拿出详细计划，撤销让美方不满的进口规则和法规。",
+      "summary_en": "",
+      "why_it_matters_zh": "美欧贸易摩擦可能加剧，影响全球贸易体系稳定。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美国",
+        "欧盟",
+        "贸易壁垒",
+        "关税"
+      ]
+    },
+    {
+      "title": "Meta与Anthropic洽谈出租算力 潜在价值100亿美元",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110362",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "据悉Anthropic在6月提议与Meta洽谈价值100亿美元的算力租赁交易，旨在寻找新算力提供商以满足增长需求。该公司已与SpaceX签署类似数据中心协议。",
+      "summary_en": "",
+      "why_it_matters_zh": "显示AI军备竞赛加剧，算力成为核心资源，大型科技公司竞相锁定算力供应。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Meta",
+        "Anthropic",
+        "算力租赁",
+        "AI"
+      ]
+    },
+    {
+      "title": "中国AI公司双拳出击挑战美国主导地位",
+      "original_title": "China delivers a one-two punch to America’s AI dominance",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "月之暗面和阿里巴巴相继发布声称能与OpenAI和Anthropic媲美但成本更低的AI模型，显示中国在AI前沿的追赶加速。",
+      "summary_en": "Moonshot and Alibaba unveiled AI models they claim can compete with OpenAI and Anthropic at lower cost, indicating China's rapid catch-up in AI.",
+      "why_it_matters_zh": "中国AI模型开源和低成本策略可能重塑全球AI竞争格局。",
+      "why_it_matters_en": "China's open-source and low-cost AI models could reshape global AI competition.",
+      "tags": [
+        "中国",
+        "AI",
+        "模型开源",
+        "月之暗面",
+        "阿里巴巴"
+      ]
+    },
+    {
+      "title": "国家超算互联网上线Kimi K3 API服务",
+      "original_title": "",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/newsflashes/3905144193042309",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "国家超算互联网上线Kimi K3模型API，支持2.8万亿参数开源大模型调用，兼容OpenAI与Anthropic接口规范。",
+      "summary_en": "",
+      "why_it_matters_zh": "降低企业和开发者使用大型模型的壁垒，推动AI应用生态发展。",
+      "why_it_matters_en": "",
+      "tags": [
+        "国家超算",
+        "Kimi",
+        "API",
+        "开源模型"
+      ]
+    },
+    {
+      "title": "阿里千问发布Qwen-Image-3.0",
+      "original_title": "",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/newsflashes/3905041899243398",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "阿里千问大模型推出Qwen-Image-3.0图像生成模型，支持多国语言和10px小字精准渲染。",
+      "summary_en": "",
+      "why_it_matters_zh": "表明中国AI图像生成能力持续提升，与国际模型竞争加剧。",
+      "why_it_matters_en": "",
+      "tags": [
+        "阿里",
+        "千问",
+        "图像生成",
+        "Qwen"
+      ]
+    },
+    {
+      "title": "PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
+      "original_title": "",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3905176863721349",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "字节旗下XR业务PICO创始人周宏伟因个人规划离任，李晓凯接任负责人。新一代MR产品计划今年发布。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国XR头部企业管理层变动，可能影响其MR产品战略和市场格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "PICO",
+        "VR",
+        "MR",
+        "管理层变动"
+      ]
+    },
+    {
+      "title": "巴拿马官员赴北京，寻求化解船舶扣留争端",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110345",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "中国加大对巴拿马籍船舶的扣留力度，大批船舶退出巴拿马船籍。巴拿马官员赴北京协商，中方称扣留均与安全问题相关。",
+      "summary_en": "",
+      "why_it_matters_zh": "影响全球航运注册秩序和中国与巴拿马的外交关系，涉及海上安全执法。",
+      "why_it_matters_en": "",
+      "tags": [
+        "巴拿马",
+        "船舶扣留",
+        "航运",
+        "外交"
+      ]
+    },
+    {
+      "title": "中国氦气出口禁令加剧欧洲供应短缺",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110374",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "北京方面的氦气出口禁令切断了俄罗斯氦气流入欧洲的渠道，加剧了卡塔尔生产中断后的供应压力。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国出口管制影响全球氦气供应链，可能对半导体等高科技产业造成冲击。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "氦气",
+        "出口禁令",
+        "供应链"
+      ]
+    }
+  ]
+}
