@@ -1,0 +1,493 @@
+{
+  "date": "2026-07-25",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-25.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-25.html",
+  "count": 24,
+  "items": [
+    {
+      "title": "俄罗斯袭击基辅附近无人机展览致10人死亡",
+      "original_title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "乌克兰国防工业知名人士参加的一场无人机展览遭到俄罗斯弹道导弹袭击，造成至少10人死亡。",
+      "summary_en": "A drone exhibition attended by prominent members of the Ukrainian defence industry was hit by Russian ballistic missiles, killing at least 10 people.",
+      "why_it_matters_zh": "这是俄乌冲突中针对军工相关平民活动的严重袭击，标志冲突进一步升级。",
+      "why_it_matters_en": "This attack on a civilian defense industry event marks a significant escalation in the Russia-Ukraine war.",
+      "tags": [
+        "俄乌战争",
+        "无人机",
+        "导弹袭击"
+      ]
+    },
+    {
+      "title": "美国对数十个国家实施新一波关税",
+      "original_title": "US hits dozens of countries with new wave of tariffs",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "global_economy",
+      "importance_score": 9,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "美国以强迫劳动为由对数十个国家实施新关税，取代此前被最高法院否决的临时全球关税。",
+      "summary_en": "The US has imposed new tariffs on dozens of countries citing forced labour concerns, replacing a temporary global duty struck down by the Supreme Court.",
+      "why_it_matters_zh": "此举将重塑全球贸易格局，引发多国反制，影响供应链和贸易成本。",
+      "why_it_matters_en": "These new tariffs will reshape global trade dynamics, trigger retaliations, and affect supply chains and costs worldwide.",
+      "tags": [
+        "美国关税",
+        "贸易战",
+        "强迫劳动"
+      ]
+    },
+    {
+      "title": "伊朗支持的胡塞武装声称对沙特发动导弹袭击",
+      "original_title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "胡塞武装声称对沙特发动导弹袭击，同时美军称拦截了一艘试图规避对伊朗港口封锁的油轮。",
+      "summary_en": "The Iran-backed Houthis claimed a missile attack on Saudi Arabia, while the US military said it disabled a tanker trying to evade the American blockade on Iranian ports.",
+      "why_it_matters_zh": "中东冲突风险加剧，可能进一步推高油价并威胁全球航运安全。",
+      "why_it_matters_en": "This escalation in the Middle East risks pushing oil prices higher and threatening global shipping lanes.",
+      "tags": [
+        "胡塞武装",
+        "沙特",
+        "中东冲突",
+        "油价"
+      ]
+    },
+    {
+      "title": "特朗普誓言调查欧盟对美国科技公司的罚款",
+      "original_title": "Trump vows to investigate EU over fining of US tech companies",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "特朗普表示欧盟对谷歌、苹果、Meta和亚马逊的罚款应“完全撤销”，并威胁调查欧盟。",
+      "summary_en": "President Trump said fines against Google, Apple, Meta, and Amazon should be \"entirely reversed\", and vowed to investigate the EU.",
+      "why_it_matters_zh": "美欧贸易与技术监管冲突升级，可能影响全球数字市场规则。",
+      "why_it_matters_en": "This escalates US-EU tensions over tech regulation, potentially reshaping global digital market rules.",
+      "tags": [
+        "特朗普",
+        "欧盟",
+        "科技公司",
+        "罚款"
+      ]
+    },
+    {
+      "title": "ICC首席检察官因性行为不端指控被免职",
+      "original_title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "国际刑事法院首席检察官卡里姆·汗否认与一名初级女职员存在不当性关系并试图阻止其投诉的指控。",
+      "summary_en": "Karim Khan denies allegations of an improper sexual relationship with a junior ICC staff member and seeking to stop her complaint.",
+      "why_it_matters_zh": "此事件严重动摇ICC的公信力，影响其正在进行的战争罪等调查。",
+      "why_it_matters_en": "This scandal undermines the ICC's credibility and its ongoing investigations into war crimes.",
+      "tags": [
+        "ICC",
+        "性行为不端",
+        "国际司法"
+      ]
+    },
+    {
+      "title": "泽连斯基试图解决国防部长被撤职引发的危机",
+      "original_title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "乌克兰总统泽连斯基撤换国防部长引发持续抗议，部分评论家认为他政治上受损。",
+      "summary_en": "Protests continue over Zelensky's dismissal of Defence Minister Mykhailo Fedorov, with commentators saying he has been politically damaged.",
+      "why_it_matters_zh": "乌克兰战时政治稳定性出现裂痕，可能影响西方援助和前线士气。",
+      "why_it_matters_en": "Political instability in wartime Ukraine could affect Western aid and frontline morale.",
+      "tags": [
+        "乌克兰",
+        "泽连斯基",
+        "政治危机"
+      ]
+    },
+    {
+      "title": "红海冲突再起，油价重返每桶100美元",
+      "original_title": "Red sea conflict pushes oil above $100",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110417",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "也门胡塞武装声称袭击两艘红海沙特油轮，市场担忧其与伊朗协调封锁曼德海峡，油价重返100美元。",
+      "summary_en": "",
+      "why_it_matters_zh": "油价突破100美元将加剧全球通胀压力，并冲击依赖进口石油的经济体。",
+      "why_it_matters_en": "",
+      "tags": [
+        "油价",
+        "红海",
+        "胡塞武装",
+        "能源安全"
+      ]
+    },
+    {
+      "title": "欧洲天然气价格再次逼近伊战初期高点",
+      "original_title": "European gas prices near war highs",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110401",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "欧洲天然气基准价格过去一个月飙升近50%，热浪和储气担忧使市场对霍尔木兹海峡关闭格外敏感。",
+      "summary_en": "",
+      "why_it_matters_zh": "欧洲能源成本急剧上升可能引发工业衰退和民众生活成本危机。",
+      "why_it_matters_en": "",
+      "tags": [
+        "欧洲天然气",
+        "能源危机",
+        "热浪"
+      ]
+    },
+    {
+      "title": "大众汽车大幅下调年度营收预期",
+      "original_title": "大众汽车大幅下调年度营收预期",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110429",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "大众汽车下调营收预期，对CEO奥博穆构成压力，迫使其推进包括创纪录裁员在内的成本削减措施。",
+      "summary_en": "",
+      "why_it_matters_zh": "大众是德国工业象征，其困境反映欧洲汽车业在电动化转型和全球竞争中的艰难。",
+      "why_it_matters_en": "",
+      "tags": [
+        "大众汽车",
+        "营收预期",
+        "裁员",
+        "德国经济"
+      ]
+    },
+    {
+      "title": "中国面向“全球南方”推进AI外交",
+      "original_title": "中国面向“全球南方”推进AI外交",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110428",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国提出AI治理新提议，是构建替代西方体系全球秩序的最雄心举措之一，旨在争取“全球南方”国家。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国试图通过AI治理影响全球技术标准制定，与西方竞争数字影响力。",
+      "why_it_matters_en": "",
+      "tags": [
+        "AI外交",
+        "全球南方",
+        "中国影响力"
+      ]
+    },
+    {
+      "title": "中国考虑收紧对人工智能模型和芯片的出口管控",
+      "original_title": "中国考虑收紧对人工智能模型和芯片的出口管控",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110389",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "北京与领先AI和芯片企业商讨如何防止西方获取中国先进技术及明星初创企业。",
+      "summary_en": "",
+      "why_it_matters_zh": "这将进一步加剧中美科技脱钩，影响全球AI供应链。",
+      "why_it_matters_en": "",
+      "tags": [
+        "AI出口管制",
+        "中美科技战",
+        "半导体"
+      ]
+    },
+    {
+      "title": "中国“国家队”出手护盘，购入近90亿美元股票",
+      "original_title": "中国“国家队”出手护盘，购入近90亿美元股票",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110375",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "中国国新控股和中国诚通宣布购入近600亿元人民币股票，在亚洲市场下跌时支撑股指。",
+      "summary_en": "",
+      "why_it_matters_zh": "国家队出手显示政府对股市稳定的决心，但长期效果待观察。",
+      "why_it_matters_en": "",
+      "tags": [
+        "国家队",
+        "A股",
+        "救市"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Opus 5，性能接近Fable 5但成本减半",
+      "original_title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "Anthropic发布新旗舰模型Claude Opus 5，在编程、Agent任务等能力上接近高端Fable 5，但API价格维持Opus 4.8水平。",
+      "summary_en": "Anthropic releases Claude Opus 5, which approaches Fable 5's performance in coding and agent tasks at half the cost.",
+      "why_it_matters_zh": "这表明AI模型竞争进入性价比阶段，可能加速企业大规模采用。",
+      "why_it_matters_en": "This signals AI competition shifting to cost-efficiency, potentially accelerating enterprise adoption.",
+      "tags": [
+        "Claude Opus 5",
+        "Anthropic",
+        "AI模型"
+      ]
+    },
+    {
+      "title": "OpenAI黑客事件是警告还是炒作?",
+      "original_title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "Hugging Face称此次黑客攻击由AI以超人类速度执行，几乎无人参与。",
+      "summary_en": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "why_it_matters_zh": "AI驱动的攻击预示新型网络威胁，可能重塑网络安全范式。",
+      "why_it_matters_en": "AI-powered attacks represent a new class of cyber threats that could reshape cybersecurity paradigms.",
+      "tags": [
+        "OpenAI",
+        "黑客",
+        "AI安全"
+      ]
+    },
+    {
+      "title": "黄仁勋力挺中国AI开源模型",
+      "original_title": "黄仁勋力挺中国AI开源模型",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3909160840451465?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "英伟达CEO黄仁勋称中国开源AI模型非常出色，美国不应惧怕，同时注册X账号发文支持开源。",
+      "summary_en": "",
+      "why_it_matters_zh": "黄仁勋表态反映开源AI生态的全球影响力变化，中国模型正在崛起。",
+      "why_it_matters_en": "",
+      "tags": [
+        "黄仁勋",
+        "中国AI",
+        "开源"
+      ]
+    },
+    {
+      "title": "SK集团与英伟达达成5000亿美元以上战略合作",
+      "original_title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "SK集团与英伟达宣布建立超5000亿美元合作伙伴关系，涵盖AI工厂建设和下一代HBM内存共同开发。",
+      "summary_en": "",
+      "why_it_matters_zh": "这是AI基础设施领域的历史性投资，显示全球对算力的巨大需求。",
+      "why_it_matters_en": "",
+      "tags": [
+        "SK集团",
+        "英伟达",
+        "AI工厂",
+        "HBM"
+      ]
+    },
+    {
+      "title": "Meta与Anthropic洽谈出租算力，潜在价值100亿美元",
+      "original_title": "Meta与Anthropic洽谈出租算力 潜在价值100亿美元",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110362",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Anthropic提议从Meta租赁算力，价值约100亿美元，以跟上快速增长的需求。",
+      "summary_en": "",
+      "why_it_matters_zh": "反映出AI公司算力饥渴，大型科技公司间算力租赁成为新商业模式。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Meta",
+        "Anthropic",
+        "算力租赁"
+      ]
+    },
+    {
+      "title": "腾讯混元合并大语言模型与多模态团队",
+      "original_title": "腾讯混元合并大语言模型与多模态团队，成立基础模型部",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3910351337821318?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "腾讯将混元多模态和语言模型部门合并为基础模型部，由姚顺雨管理，探索全模态智能。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国科技巨头整合AI研发资源，意图加速多模态大模型突破。",
+      "why_it_matters_en": "",
+      "tags": [
+        "腾讯",
+        "混元",
+        "多模态"
+      ]
+    },
+    {
+      "title": "美国白宫宣布向AI科学研究拨款50亿美元",
+      "original_title": "美政府宣布向人工智能科学研究领域拨款50亿美元",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3909160840451465?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "美国多个联邦机构承诺向“创世纪使命”倡议拨款超50亿美元，利用AI加速基础科学研究。",
+      "summary_en": "",
+      "why_it_matters_zh": "美国大规模政府投入AI科研，可能引发全球AI研发竞赛升级。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美国政府",
+        "AI科研",
+        "创世纪使命"
+      ]
+    },
+    {
+      "title": "西岸枪击事件致4名巴勒斯坦人和2名以色列人丧生",
+      "original_title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "巴勒斯坦人称村民遭以色列定居者袭击，以军则称一名巴勒斯坦人偷窃武器向徒步者开火。",
+      "summary_en": "Palestinians say villagers were attacked by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "why_it_matters_zh": "该事件是西岸数月来最致命的暴力事件之一，可能引发更大规模冲突。",
+      "why_it_matters_en": "One of the deadliest incidents in the West Bank in months, it risks sparking wider violence.",
+      "tags": [
+        "巴以冲突",
+        "西岸",
+        "枪击"
+      ]
+    },
+    {
+      "title": "印度学生抗议运动获得部分让步",
+      "original_title": "India’s Student Protesters Win Some Concessions From Government",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/07/24/world/asia/india-genz-student-movement-cockroach-janta-party.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "印度政府代表同意赔偿考试泄密影响的学生家庭，但抗议者继续要求教育部长辞职。",
+      "summary_en": "Government representatives agreed to compensate families affected by a major exam leak, but protesters press for the education minister's resignation.",
+      "why_it_matters_zh": "这场Z世代主导的运动正在挑战莫迪政府，显示印度青年政治力量的崛起。",
+      "why_it_matters_en": "This Gen Z-led movement challenges the Modi government, showing rising youth political power in India.",
+      "tags": [
+        "印度",
+        "学生抗议",
+        "莫迪"
+      ]
+    },
+    {
+      "title": "孟加拉国总统辞职",
+      "original_title": "Bangladesh’s President Resigns Amid Uncertainty Over Ex-Leader’s Plans",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/07/24/world/asia/bangladesh-president-resigns.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 6,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "总统穆罕默德·沙哈布丁辞职，外界猜测其前盟友谢赫·哈西娜可能从印度返回。",
+      "summary_en": "President Mohammed Shahabuddin resigned as speculation swirls over the possible return of his onetime ally Sheikh Hasina.",
+      "why_it_matters_zh": "孟加拉国政局不确定性增加，可能影响南亚区域稳定。",
+      "why_it_matters_en": "Political uncertainty in Bangladesh increases, potentially affecting regional stability in South Asia.",
+      "tags": [
+        "孟加拉国",
+        "总统辞职",
+        "政治动荡"
+      ]
+    },
+    {
+      "title": "美国新一代AI芯片合作：三星电子与博通达成2000亿美元协议",
+      "original_title": "三星电子与博通达成价值2000亿美元的半导体供应合作协议",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/newsflashes/3910562246645128?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "据报道三星电子与博通达成价值2000亿美元的半导体供应合作协议。",
+      "summary_en": "",
+      "why_it_matters_zh": "巨额合作协议显示AI芯片供应链整合加速，博通巩固网络芯片地位。",
+      "why_it_matters_en": "",
+      "tags": [
+        "三星",
+        "博通",
+        "半导体"
+      ]
+    },
+    {
+      "title": "中国脑机接口实现千人同步采集",
+      "original_title": "中国脑机接口重要突破，首次实现跨地域上千人同步脑电信号采集",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3909160840451465?f=rss",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "我国科研团队发布新型脑电信号采集装置，首次实现跨地域超千人同步采集，可用于训练神经大模型。",
+      "summary_en": "",
+      "why_it_matters_zh": "这一技术突破为脑机接口产业化奠定了数据基础，可能开启人机交互新纪元。",
+      "why_it_matters_en": "",
+      "tags": [
+        "脑机接口",
+        "脑电信号",
+        "神经大模型"
+      ]
+    }
+  ]
+}
