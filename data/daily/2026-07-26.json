@@ -1,0 +1,393 @@
+{
+  "date": "2026-07-26",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-26.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-07-26.html",
+  "count": 18,
+  "items": [
+    {
+      "title": "柏林Pride游行汽车撞人事件：嫌疑人逃逸，警方疑似恐袭",
+      "original_title": "Car plows into crowd at Berlin Pride event in suspected terror attack",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 10,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "周六晚，柏林Pride活动中一辆汽车冲入人群，造成至少1人死亡、16人受伤。警方正在追捕嫌疑人，怀疑与伊斯兰极端组织有关，定性为恐怖袭击。",
+      "summary_en": "A car rammed into a crowd at a Pride event in Berlin on Saturday night, killing at least one person and injuring 16. Police suspect a terror attack linked to Islamic extremism and are searching for the perpetrator.",
+      "why_it_matters_zh": "此次事件加剧了德国乃至欧洲对恐怖主义威胁的担忧，并可能影响大型公共活动的安全部署。",
+      "why_it_matters_en": "The attack raises concerns about terrorism threats in Germany and Europe, potentially impacting security measures for public events.",
+      "tags": [
+        "Berlin",
+        "Pride",
+        "terror attack",
+        "Germany"
+      ]
+    },
+    {
+      "title": "法国西班牙野火肆虐，超34万人被疏散",
+      "original_title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "法国和西班牙持续遭遇严重野火，目前已有超过34万人被疏散，消防员正努力控制火势，大火已逼近马德里和波尔多。",
+      "summary_en": "Massive wildfires in France and Spain have forced over 340,000 people to evacuate. Firefighters are battling blazes nearing Madrid and Bordeaux.",
+      "why_it_matters_zh": "大规模野火造成巨大的人员疏散和财产损失，凸显欧洲气候变化带来的极端天气风险。",
+      "why_it_matters_en": "The widespread wildfires underscore the extreme weather risks linked to climate change in Europe, causing massive evacuations and damage.",
+      "tags": [
+        "wildfires",
+        "France",
+        "Spain",
+        "evacuation",
+        "climate change"
+      ]
+    },
+    {
+      "title": "美国对数十个国家实施新一轮关税",
+      "original_title": "US hits dozens of countries with new wave of tariffs",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "美国政府以强迫劳动为由，对数十个国家实施新一轮关税，取代此前被最高法院否决的临时全球关税，贸易紧张局势进一步升级。",
+      "summary_en": "The US has imposed a new wave of tariffs on dozens of countries citing forced labor concerns, replacing a previous global duty struck down by the Supreme Court, escalating trade tensions.",
+      "why_it_matters_zh": "此举可能引发报复性关税，冲击全球供应链和国际贸易秩序。",
+      "why_it_matters_en": "This move could provoke retaliatory tariffs, disrupting global supply chains and international trade order.",
+      "tags": [
+        "tariffs",
+        "US trade policy",
+        "forced labor",
+        "global economy"
+      ]
+    },
+    {
+      "title": "俄罗斯导弹袭击基辅附近无人机展，致10人死亡",
+      "original_title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "乌克兰基辅附近一场无人机展览遭俄罗斯弹道导弹袭击，造成包括国防工业人士在内的10人死亡，袭击发生在白天，引发强烈谴责。",
+      "summary_en": "A ballistic missile strike hit a drone exhibition near Kyiv, killing 10 people including defense industry figures. The attack occurred in daylight, drawing widespread condemnation.",
+      "why_it_matters_zh": "此次袭击显示俄乌冲突仍在激烈进行，民用和军工活动持续面临高风险。",
+      "why_it_matters_en": "The attack highlights the ongoing intensity of the Russia-Ukraine war, with civilian and defense events remaining high-risk targets.",
+      "tags": [
+        "Russia-Ukraine war",
+        "missile strike",
+        "Kyiv",
+        "drone exhibition"
+      ]
+    },
+    {
+      "title": "特朗普威胁调查欧盟对美国科技公司罚款",
+      "original_title": "Trump vows to investigate EU over fining of US tech companies",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "美国总统特朗普表示，欧盟对谷歌、苹果、Meta和亚马逊的罚款应当“完全逆转”，并誓言对此展开调查，可能引发新一轮美欧贸易摩擦。",
+      "summary_en": "President Trump vows to investigate EU fines on Google, Apple, Meta, and Amazon, calling for them to be 'entirely reversed', risking new trade tensions.",
+      "why_it_matters_zh": "美欧在科技监管和数字税上的分歧加剧，可能影响跨大西洋贸易关系和全球科技行业格局。",
+      "why_it_matters_en": "Escalating disputes over tech regulation and digital taxes between the US and EU could reshape transatlantic trade and the global tech industry.",
+      "tags": [
+        "EU",
+        "US tech",
+        "fines",
+        "Trump",
+        "trade"
+      ]
+    },
+    {
+      "title": "红海再起冲突，油价重返每桶100美元高位",
+      "original_title": "Red Sea conflict reignites, oil prices return to $100 per barrel",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110417",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "也门胡塞武装声称袭击了两艘在红海航行的沙特油轮，市场担心该组织与伊朗协调封锁曼德海峡，进一步推高能源价格。油价重回每桶100美元上方。",
+      "summary_en": "",
+      "why_it_matters_zh": "红海航运通道是国际原油运输的关键水道，冲突升级可能导致全球能源供应紧张并加剧通胀压力。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Red Sea",
+        "oil prices",
+        "Houthis",
+        "energy crisis"
+      ]
+    },
+    {
+      "title": "大众汽车大幅下调年度营收预期",
+      "original_title": "Volkswagen sharply cuts annual revenue forecast",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110429",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "大众汽车大幅下调年度营收预期，给CEO奥博穆带来巨大压力，不得不推进包括创纪录规模裁员在内的新成本削减措施。",
+      "summary_en": "",
+      "why_it_matters_zh": "大众作为全球最大汽车制造商之一，业绩下滑反映传统车企面临的电动化转型和市场竞争压力。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Volkswagen",
+        "revenue forecast",
+        "restructuring",
+        "automotive"
+      ]
+    },
+    {
+      "title": "欧洲天然气价格再次逼近伊战初期高点",
+      "original_title": "European gas prices near early Iran war highs",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110401",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "欧洲基准天然气价格在过去一个月飙升近50%，热浪及对冬季储气目标的担忧令市场对霍尔木兹海峡再次关闭格外敏感。",
+      "summary_en": "",
+      "why_it_matters_zh": "天然气价格高企将推高欧洲家庭能源成本和工业生产成本，加剧通胀压力和经济放缓风险。",
+      "why_it_matters_en": "",
+      "tags": [
+        "natural gas",
+        "Europe",
+        "energy crisis",
+        "Iran"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Opus 5，性能接近Fable 5价格减半",
+      "original_title": "Anthropic releases Opus 5 with 'close' to Fable 5's capabilities",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "Anthropic发布最新旗舰模型Claude Opus 5，声称在许多领域接近更高端Fable 5的性能，但API价格仅为后者的一半。模型在编程、Agent任务和复杂推理上显著提升。",
+      "summary_en": "Anthropic released Claude Opus 5, claiming it approaches the capabilities of the more advanced Fable 5 at half the price. It shows significant improvements in coding, agent tasks, and complex reasoning.",
+      "why_it_matters_zh": "高性价比的旗舰模型进一步加剧AI大模型价格战，降低企业部署前沿AI的门槛。",
+      "why_it_matters_en": "A cost-effective flagship model intensifies the AI price war, lowering the barrier for enterprises to deploy cutting-edge AI.",
+      "tags": [
+        "Anthropic",
+        "Claude Opus 5",
+        "AI model",
+        "pricing"
+      ]
+    },
+    {
+      "title": "OpenAI向所有美国用户推出ChatGPT Health",
+      "original_title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "OpenAI宣布向所有美国用户开放ChatGPT Health功能，允许用户连接医疗记录和健康追踪信息，声称模型推理能力已达到“优于临床医生水平”。",
+      "summary_en": "OpenAI rolled out ChatGPT Health to all US users, allowing connection of medical records and health data. It claims the model's reasoning ability exceeds clinician level.",
+      "why_it_matters_zh": "AI进入医疗健康领域可能改变患者问诊和健康管理方式，但也涉及重大隐私和准确性问题。",
+      "why_it_matters_en": "AI entering healthcare could transform patient consultation and health management, but raises significant privacy and accuracy concerns.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Health",
+        "healthcare",
+        "AI in medicine"
+      ]
+    },
+    {
+      "title": "特朗普政府拨款50亿美元推动AI基础科学研究",
+      "original_title": "Trump administration unveils $5 billion AI science grants under 'Genesis Mission'",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "美国白宫宣布通过“创世纪使命”向数百个AI驱动科研项目拨款超50亿美元，被称为堪比曼哈顿计划的科研投资，重点加速AI在基础科学中的应用。",
+      "summary_en": "The White House announced over $5 billion in grants for AI-driven science projects under the 'Genesis Mission', described as comparable to the Manhattan Project in urgency and ambition.",
+      "why_it_matters_zh": "大规模政府投资将极大推动AI在物理、化学、生物等领域的突破性研究，影响全球AI科研竞争格局。",
+      "why_it_matters_en": "Massive government investment will significantly boost AI-driven breakthroughs in sciences, reshaping global AI research competition.",
+      "tags": [
+        "AI funding",
+        "Genesis Mission",
+        "science research",
+        "Trump administration"
+      ]
+    },
+    {
+      "title": "宇树科技CEO王兴兴登上《时代》杂志封面",
+      "original_title": "Unitree CEO Wang Xingxing on Time magazine cover",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3910351337821318",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "宇树科技创始人兼CEO王兴兴与其载人机甲产品登上《时代》杂志封面，标题为《机器人时代来临》。这是8年来首次有中国企业家登上该封面。",
+      "summary_en": "",
+      "why_it_matters_zh": "标志着中国机器人企业在全球舞台上的影响力达到新高度，具身智能备受国际关注。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Unitree",
+        "Wang Xingxing",
+        "Time magazine",
+        "humanoid robot",
+        "China"
+      ]
+    },
+    {
+      "title": "中国具身大脑公司眸深智能完成近亿元Pre-A轮追加融资",
+      "original_title": "Motion Brain completes nearly 100 million yuan Pre-A extension round",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3911162147640456",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "眸深智能（Motion Brain）获近亿元Pre-A轮追加融资，由瑾悦投资等领投，半年内估值增长超10倍。公司专注于以动作Token为核心的具身大模型，已实现营收并适配国产算力。",
+      "summary_en": "",
+      "why_it_matters_zh": "具身智能赛道持续火热，中国初创团队在“大脑”技术上取得突破，并实现商业化落地，显示国产替代和产业应用加速。",
+      "why_it_matters_en": "",
+      "tags": [
+        "embodied AI",
+        "Motion Brain",
+        "funding",
+        "China",
+        "venture capital"
+      ]
+    },
+    {
+      "title": "Meta升级AI聊天机器人为生产力助理",
+      "original_title": "Meta is making its AI chatbot more like an assistant",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "Meta宣布升级其AI聊天机器人，新增日历集成、每日简报和深度研究功能，旨在与Gemini、ChatGPT和Claude竞争。更新后的Meta AI可执行更复杂的任务。",
+      "summary_en": "Meta upgraded its AI chatbot with calendar integration, daily briefings, and in-depth research features, competing with Gemini, ChatGPT, and Claude.",
+      "why_it_matters_zh": "Meta将AI助手定位为生产力工具，标志着AI聊天机器人从简单问答向深度工作辅助转型。",
+      "why_it_matters_en": "Meta positions its AI as a productivity tool, signifying a shift from simple Q&A to deep work assistance.",
+      "tags": [
+        "Meta",
+        "AI assistant",
+        "productivity",
+        "chatbot"
+      ]
+    },
+    {
+      "title": "中国脑机接口首次实现跨地域上千人同步脑电采集",
+      "original_title": "China achieves cross-regional synchronous EEG collection from thousands of people",
+      "source": "36氪 AI",
+      "url": "https://36kr.com/p/3909160840451465",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "中国科研团队发布新型脑电信号采集装置，全球首次实现跨地域上千人同步脑电信号采集，攻克了设备小型化和网络延迟难题，可训练神经基础模型。",
+      "summary_en": "",
+      "why_it_matters_zh": "该突破为脑机接口通用技术和大规模神经模型训练奠定了关键数据基础，推动AI与神经科学融合。",
+      "why_it_matters_en": "",
+      "tags": [
+        "brain-computer interface",
+        "EEG",
+        "neural model",
+        "China tech"
+      ]
+    },
+    {
+      "title": "美参议院法案或将使梅赛德斯-奔驰在美遭遇禁售令",
+      "original_title": "US Senate bill could ban Mercedes-Benz sales in US",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110414",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "因梅赛德斯-奔驰20%股份由中资企业持有，超过《联网汽车安全法案》划定的15%红线，可能被禁止在美国销售。该法案旨在限制中国汽车技术影响。",
+      "summary_en": "",
+      "why_it_matters_zh": "该法案若通过，将严重影响奔驰在美国的业务，并进一步收紧中美汽车产业技术脱钩的力度。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Mercedes-Benz",
+        "US Senate",
+        "connected car",
+        "China investment",
+        "trade"
+      ]
+    },
+    {
+      "title": "印度教育部长辞职，蟑螂政党抗议运动取得胜利",
+      "original_title": "India's education minister resigns after cockroach protest",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "印度教育部长在持续数周的“蟑螂党”抗议活动后辞职，该运动是近年来对莫迪政府最突出的公众愤怒表达，由年轻人主导。",
+      "summary_en": "India's education minister resigned after weeks of 'Cockroach Party' protests, the most visible expression of public anger against PM Modi's government in recent years, driven by youth.",
+      "why_it_matters_zh": "这一胜利显示印度年轻一代的政治动员能力，可能影响莫迪政府未来的政策方向。",
+      "why_it_matters_en": "This victory demonstrates the political mobilization of India's youth, potentially influencing future policy directions of Modi's government.",
+      "tags": [
+        "India",
+        "protests",
+        "education minister",
+        "Modi",
+        "young voters"
+      ]
+    },
+    {
+      "title": "伊朗支持胡塞武装声称对沙特发动导弹攻击",
+      "original_title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "伊朗支持的胡塞武装声称对沙特发动导弹攻击，美军表示已拦截一艘试图规避美国对伊朗港口封锁的油轮，中东紧张局势再度升级。",
+      "summary_en": "Houthis claim missile attacks on Saudi Arabia; US military says it intercepted a tanker attempting to evade the American blockade on Iranian ports, escalating Middle East tensions.",
+      "why_it_matters_zh": "中东局势动荡直接影响全球能源市场稳定，特别是霍尔木兹海峡的通行安全。",
+      "why_it_matters_en": "Tensions in the Middle East directly impact global energy market stability, especially the security of the Strait of Hormuz.",
+      "tags": [
+        "Houthis",
+        "Saudi Arabia",
+        "Iran",
+        "missile attack",
+        "oil"
+      ]
+    }
+  ]
+}
