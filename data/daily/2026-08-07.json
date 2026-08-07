@@ -1,0 +1,828 @@
+{
+  "date": "2026-08-07",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-07.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-07.html",
+  "count": 41,
+  "items": [
+    {
+      "title": "Meta因儿童安全案被罚5.67亿美元，创社媒平台同类罚款纪录",
+      "original_title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "Meta在一起儿童安全案件中被判5.67亿美元罚款，加上此前已被责令支付的3.75亿美元，总额达9.42亿美元。这是针对社交媒体公司的最大规模儿童安全处罚。",
+      "summary_en": "Meta has been fined $567m in a child safety case, bringing total penalties to $942m. It is the largest child safety ruling against a social media company.",
+      "why_it_matters_zh": "该判决对全球社交平台的儿童保护责任形成重大法律压力，可能影响平台内容审核与合规成本。",
+      "why_it_matters_en": "The ruling raises legal pressure on social media platforms regarding child safety compliance and content moderation.",
+      "tags": [
+        "Meta",
+        "儿童安全",
+        "监管罚款"
+      ]
+    },
+    {
+      "title": "特朗普签署新行政令，再次尝试限制美国出生公民权",
+      "original_title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "特朗普签署新的行政令，禁止“生育旅游”，并扩大“其子女不具备美国出生公民权资格”的人员定义。这是继此前尝试后的又一次政策推进。",
+      "summary_en": "Trump signed new executive orders banning birth tourism and expanding the definition of people whose children are not eligible for US birthright citizenship.",
+      "why_it_matters_zh": "此举试图改变美国宪法第十四修正案所确立的出生地原则，可能引发重大宪法与移民政策争议。",
+      "why_it_matters_en": "The orders challenge the constitutional principle of birthright citizenship and could trigger major legal and immigration policy battles.",
+      "tags": [
+        "特朗普",
+        "出生公民权",
+        "美国移民"
+      ]
+    },
+    {
+      "title": "乌克兰袭击俄罗斯境内两座炼油厂",
+      "original_title": "Ukraine hits two oil refineries deep in Russian territory",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "乌克兰对俄罗斯境内纵深地区的两座炼油厂发动袭击。乌方总统称，打击旨在限制俄罗斯“用于资助战争”的收入。",
+      "summary_en": "Ukraine struck two oil refineries deep inside Russian territory. President Zelensky said the strikes aim to limit revenues Russia uses to finance its war.",
+      "why_it_matters_zh": "此类纵深打击显示乌克兰有能力攻击俄罗斯能源基础设施，可能进一步影响全球能源市场与俄乌战局。",
+      "why_it_matters_en": "The strikes show Ukraine's capability to hit Russian energy infrastructure, with potential implications for energy markets and the war's trajectory.",
+      "tags": [
+        "俄乌冲突",
+        "炼油厂",
+        "能源设施"
+      ]
+    },
+    {
+      "title": "特朗普否认美国武器短缺，称泄密者正被“追捕”",
+      "original_title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "特朗普否认美国存在武器短缺问题，并表示泄密者正在被追查。但公开信息显示，美国已消耗大量难以制造的武器。",
+      "summary_en": "Trump denied a US weapons shortage and said leakers are being hunted down, while public data suggests many hard-to-manufacture weapons have been depleted.",
+      "why_it_matters_zh": "关于武器库存的分歧直接影响美国对外军事援助能力及盟友对安全承诺的信心。",
+      "why_it_matters_en": "The dispute over US weapons stockpiles directly affects military aid commitments and allies' confidence in US security guarantees.",
+      "tags": [
+        "美国",
+        "武器库存",
+        "泄密"
+      ]
+    },
+    {
+      "title": "Doge被指夸大“节省1100亿美元”的说法",
+      "original_title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "监督机构审查发现，此前负责削减政府开支的机构在计算上存在多个问题，其宣称节省1100亿美元的说法被夸大。",
+      "summary_en": "A watchdog review found multiple issues with calculations by the body formerly tasked with cutting government spending, overstating $110bn in savings.",
+      "why_it_matters_zh": "该结论削弱了政府效率改革的核心政绩叙事，也引发对联邦支出审计可信度的质疑。",
+      "why_it_matters_en": "The finding undermines the administration's efficiency reform narrative and raises questions about the credibility of federal spending audits.",
+      "tags": [
+        "Doge",
+        "政府效率",
+        "审计"
+      ]
+    },
+    {
+      "title": "特朗普对关键芯片材料征收15%关税以应对中国",
+      "original_title": "Trump imposes 15% tariff on key chip material to counter China",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "特朗普对一种关键芯片材料征收15%关税，旨在保护美国企业免受中国芯片产业日益激烈的竞争影响。",
+      "summary_en": "Trump imposed a 15% tariff on a key chip material to protect US firms from increasing competition from China's chip industry.",
+      "why_it_matters_zh": "此举是中美科技战的最新升级，直接影响全球半导体供应链成本与芯片产业格局。",
+      "why_it_matters_en": "The tariff is the latest escalation in US-China tech competition, directly affecting global semiconductor supply chains.",
+      "tags": [
+        "中美科技战",
+        "半导体",
+        "关税"
+      ]
+    },
+    {
+      "title": "胡塞武装袭击致也门政府军至少30人死亡",
+      "original_title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "胡塞武装称对也门马里卜和哈德拉毛省中部地区的“沙特军事集结地”发射了导弹和无人机，袭击造成至少30名也门政府军死亡。",
+      "summary_en": "The Houthis said they launched missiles and drones at Saudi military build-ups in Marib and Hadramawt, killing at least 30 Yemeni government forces.",
+      "why_it_matters_zh": "也门冲突再度升级可能破坏脆弱的停火协议，并影响红海航运安全与地区稳定。",
+      "why_it_matters_en": "Renewed escalation in Yemen threatens the fragile truce and could affect Red Sea shipping security and regional stability.",
+      "tags": [
+        "也门",
+        "胡塞武装",
+        "中东局势"
+      ]
+    },
+    {
+      "title": "美国参议院委员会投票认定福奇藐视国会",
+      "original_title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "美国参议院一委员会投票决定认定安东尼·福奇藐视国会，理由是他拒绝回答有关其处理新冠疫情的问题。委员会将将其移交可能的起诉。",
+      "summary_en": "A Senate committee voted to hold Fauci in contempt for refusing to answer questions about his Covid-19 pandemic handling, referring him for possible prosecution.",
+      "why_it_matters_zh": "福奇案已成为美国新冠政策政治化的重要焦点，可能进一步加剧公共卫生议题的党派对立。",
+      "why_it_matters_en": "The case reflects the politicization of Covid-19 policy in the US and could deepen partisan divisions over public health.",
+      "tags": [
+        "福奇",
+        "国会调查",
+        "新冠"
+      ]
+    },
+    {
+      "title": "伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段",
+      "original_title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "伊朗称与阿曼就霍尔木兹海峡管理达成的协议已进入最后阶段，但美国和阿曼尚未就这一关键水道的拟议协议发表评论。",
+      "summary_en": "Iran said a deal with Oman on the Strait of Hormuz is in final stages, but neither the US nor Oman have commented on the proposed agreement.",
+      "why_it_matters_zh": "霍尔木兹海峡是全球最重要的石油运输通道，相关协议可能影响全球能源市场与地缘政治格局。",
+      "why_it_matters_en": "The Strait of Hormuz is the world's most critical oil chokepoint; any agreement could reshape energy markets and geopolitics.",
+      "tags": [
+        "伊朗",
+        "霍尔木兹海峡",
+        "能源安全"
+      ]
+    },
+    {
+      "title": "以色列以过失杀人罪起诉一名定居者，涉杀害巴勒斯坦活动人士",
+      "original_title": "Israeli Settler Charged in Death of Activist Awdah Hathaleen",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "以色列当局对一名以色列定居者提出过失杀人罪指控，涉及巴勒斯坦活动人士Awdah Hathaleen之死。这是以色列当局罕见地对以色列人杀害巴勒斯坦人提起公诉。",
+      "summary_en": "Israeli authorities indicted an Israeli settler for reckless manslaughter in the death of Palestinian activist Awdah Hathaleen, a rare prosecution of an Israeli for killing a Palestinian.",
+      "why_it_matters_zh": "此案是约旦河西岸司法实践中的罕见案例，可能对以巴冲突中的问责机制产生影响。",
+      "why_it_matters_en": "The rare indictment could affect accountability mechanisms in the Israeli-Palestinian conflict.",
+      "tags": [
+        "以色列",
+        "巴勒斯坦",
+        "司法"
+      ]
+    },
+    {
+      "title": "美国财政部历史性出手支撑日元",
+      "original_title": "美国财政部历史性出手支撑日元",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110502",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 9,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "日元汇率逼近1美元兑164日元的40年低点后，纽约联储代表美国财政部进行了卖出欧元以买入日元的不寻常操作。这是美国财政部历史上首次以这种方式干预外汇市场。",
+      "summary_en": "",
+      "why_it_matters_zh": "美国财政部直接入市干预汇市极为罕见，表明美日对日元过度贬值的担忧已达到政策临界点，可能影响全球汇率市场与利率预期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "日元",
+        "汇率干预",
+        "美国财政部"
+      ]
+    },
+    {
+      "title": "EasyJet同意美国公司57亿英镑收购",
+      "original_title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo",
+      "language": "en",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "在竞争对手退出后，英国廉价航空公司易捷航空同意接受美国公司Apollo的57亿英镑收购要约。",
+      "summary_en": "EasyJet agreed to a £5.7bn takeover by US firm Apollo after a rival suitor dropped out.",
+      "why_it_matters_zh": "该交易将重塑欧洲低成本航空市场格局，并反映美国资本对欧洲航空业的并购兴趣上升。",
+      "why_it_matters_en": "The deal reshapes Europe's budget airline market and reflects rising US capital interest in European aviation.",
+      "tags": [
+        "EasyJet",
+        "并购",
+        "航空业"
+      ]
+    },
+    {
+      "title": "中国对离岸资本利得税展开倒查追缴行动",
+      "original_title": "中国对离岸资本利得税展开倒查追缴行动",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110529",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "财政压力迫使中国对欠税展开追缴行动，并显著扩大了对出境资本流动的控制。税务机关开始倒查离岸资本利得税。",
+      "summary_en": "",
+      "why_it_matters_zh": "该行动显示中国财政压力加大，可能对跨境投资、企业海外架构及资本流动产生深远影响，是观察中国资本管控方向的重要信号。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国税务",
+        "离岸资本",
+        "资本管制"
+      ]
+    },
+    {
+      "title": "中国加强无人机对美出口管制",
+      "original_title": "中国加强无人机对美出口管制",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110544",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国针对美国近期行动采取反制措施，收紧无人机对美出口管制，并对数家美国公司实施了新制裁。",
+      "summary_en": "",
+      "why_it_matters_zh": "无人机出口管制是中美科技与贸易摩擦的新战线，将影响全球无人机供应链及中国相关企业出口业务。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美贸易",
+        "无人机",
+        "出口管制"
+      ]
+    },
+    {
+      "title": "苹果市值首次突破5万亿美元",
+      "original_title": "苹果市值首次突破5万亿美元",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110460",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "苹果市值首次突破5万亿美元，成为继英伟达之后第二家达到这一里程碑的公司，突显其在AI和半导体概念股遭到抛售之际成为科技股投资者的避风港。",
+      "summary_en": "",
+      "why_it_matters_zh": "苹果市值里程碑反映资金在AI板块波动中的再配置，也是全球科技股估值与市场情绪的重要指标。",
+      "why_it_matters_en": "",
+      "tags": [
+        "苹果",
+        "市值",
+        "科技股"
+      ]
+    },
+    {
+      "title": "世行：AI对发展中经济体利大于弊",
+      "original_title": "世行：AI对发展中经济体利大于弊",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110526",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "世界银行最新报告称，AI将在未来几年提升发展中经济体劳动者的产出，由此带来的收益将超过工作岗位被这项技术取代所造成的损失。",
+      "summary_en": "",
+      "why_it_matters_zh": "该报告为发展中国家制定AI政策提供国际机构层面的判断依据，影响全球南方对AI技术的采用态度。",
+      "why_it_matters_en": "",
+      "tags": [
+        "世界银行",
+        "AI",
+        "发展中经济体"
+      ]
+    },
+    {
+      "title": "美国经济第二季度年化增长1.5%",
+      "original_title": "美国经济第二季度年化增长1.5%",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110483",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "美国经济第二季度年化增长1.5%，低于首季的2.1%。政府支出减少及出口和企业投资增速放缓拖累增长，但消费者支出大幅上升，显示经济状况依然稳健。",
+      "summary_en": "",
+      "why_it_matters_zh": "该数据直接反映美国经济动能并影响美联储货币政策路径，是全球经济与市场定价的关键输入。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美国经济",
+        "GDP",
+        "美联储"
+      ]
+    },
+    {
+      "title": "中国PMI五个月来首次下降",
+      "original_title": "中国PMI五个月来首次下降",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110489",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国制造业PMI五个月来首次下降，非制造业商务活动指数为49%，为2022年12月以来最弱水平，其中建筑业商务活动指数降至仅47%。",
+      "summary_en": "",
+      "why_it_matters_zh": "PMI走弱显示中国经济复苏动能边际放缓，尤其是建筑业的萎缩信号值得关注，影响市场对中国增长前景与政策刺激预期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国经济",
+        "PMI",
+        "建筑业"
+      ]
+    },
+    {
+      "title": "ChatGPT免费版史诗升级：GPT-5.6无限文本对话开放",
+      "original_title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "OpenAI宣布从下周开始，ChatGPT免费版和Go版用户将获得无限文本聊天次数，此前这两个层级存在速率限制。免费用户还将获得新的“思考”按钮以处理复杂查询。",
+      "summary_en": "OpenAI announced that free and Go tier ChatGPT users will get unlimited text chats starting next week, with a new 'think' button for complex queries.",
+      "why_it_matters_zh": "这是ChatGPT商业模式的重要转变，将极大降低普通用户使用门槛，加剧AI助手市场竞争并可能改变行业定价逻辑。",
+      "why_it_matters_en": "It's a major shift in ChatGPT's business model that lowers usage barriers, intensifies AI assistant competition, and could reshape industry pricing.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "免费模式"
+      ]
+    },
+    {
+      "title": "OpenAI与Jony Ive合作的首款AI设备曝光：冰球大小智能音箱",
+      "original_title": "Jony Ive's first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "据彭博社Mark Gurman报道，OpenAI与前苹果设计师Jony Ive合作开发的AI设备实际上是一款无屏幕、电池供电、甜甜圈形状的智能音箱，大小与冰球相当。预计2027年发布，售价超过300美元，可能介于300-400美元之间。",
+      "summary_en": "Bloomberg reports OpenAI's device with Jony Ive is essentially a battery-powered, display-less smart speaker the size of a hockey puck, launching in 2027 at over $300.",
+      "why_it_matters_zh": "这是OpenAI进军消费硬件的标志性产品，可能开启AI原生生硬件的新品类竞争。",
+      "why_it_matters_en": "It marks OpenAI's entry into consumer hardware and could spark a new category of AI-native devices.",
+      "tags": [
+        "OpenAI",
+        "智能音箱",
+        "Jony Ive"
+      ]
+    },
+    {
+      "title": "Jeff Dean等谷歌顶级AI研究员离职创业",
+      "original_title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "谷歌传奇高管Jeff Dean与其他多位即将离职的谷歌高管共同创办新公司，目标是利用AI推动科学发现进程。此前谷歌已宣布其最大规模AI组织架构调整。",
+      "summary_en": "Jeff Dean and other top Google AI researchers are leaving to launch a startup focused on using AI to advance scientific discovery, following Google's largest AI org shakeup.",
+      "why_it_matters_zh": "Jeff Dean是谷歌AI的奠基性人物，其离职创业标志着谷歌AI人才梯队发生历史性变动，可能重塑AI基础研究竞争格局。",
+      "why_it_matters_en": "Jeff Dean's departure is a historic shift in Google's AI leadership and could reshape the competitive landscape of AI research.",
+      "tags": [
+        "谷歌",
+        "Jeff Dean",
+        "AI创业"
+      ]
+    },
+    {
+      "title": "Anthropic组建自研AI芯片设计团队",
+      "original_title": "Anthropic is hiring an AI chip design team",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "Anthropic正在组建自研AI芯片的设计团队，称将采用硬件与模型协同设计的方式，使Claude运行更快、更高效。",
+      "summary_en": "Anthropic is building an AI chip design team, saying it will co-design hardware and models to make Claude run faster and more efficiently.",
+      "why_it_matters_zh": "Anthropic自研芯片意味着AI模型厂商开始向上游硬件延伸，可能改变AI芯片市场与英伟达的主导地位。",
+      "why_it_matters_en": "Anthropic's move into chip design signals AI model makers integrating upstream, potentially challenging Nvidia's dominance.",
+      "tags": [
+        "Anthropic",
+        "AI芯片",
+        "自研硬件"
+      ]
+    },
+    {
+      "title": "亚马逊完成对OpenAI的500亿美元投资",
+      "original_title": "亚马逊完成对OpenAI的500亿美元投资",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110501",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "亚马逊已完成对OpenAI的500亿美元投资，在这家预计将于明年上市的ChatGPT开发商中持股约5%。亚马逊还投资了Claude模型开发商Anthropic。",
+      "summary_en": "",
+      "why_it_matters_zh": "亚马逊同时押注OpenAI与Anthropic，显示云计算巨头在AI模型生态中的战略卡位，将深刻影响AI云竞争格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "亚马逊",
+        "OpenAI",
+        "AI投资"
+      ]
+    },
+    {
+      "title": "蚂蚁集团开源多智能体协作基础设施Avernet",
+      "original_title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线。该项目旨在让人与智能体像组织一样高效协作。",
+      "summary_en": "",
+      "why_it_matters_zh": "该开源项目反映中国大厂在多智能体系统领域的布局，可能降低智能体协作技术的使用门槛，影响AI应用生态。",
+      "why_it_matters_en": "",
+      "tags": [
+        "蚂蚁集团",
+        "多智能体",
+        "开源"
+      ]
+    },
+    {
+      "title": "阿里视频大模型Wan 3.0开启公测：文档、PPT也能变视频",
+      "original_title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测，支持将文档、PPT等输入内容转化为视频。",
+      "summary_en": "",
+      "why_it_matters_zh": "Wan 3.0公测标志着中国视频生成大模型进入新的能力阶段，多模态输入或将重塑内容生产方式。",
+      "why_it_matters_en": "",
+      "tags": [
+        "阿里",
+        "视频生成",
+        "多模态"
+      ]
+    },
+    {
+      "title": "Google Maps新增智能体功能，支持点餐与酒店预订",
+      "original_title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "谷歌地图推出新的智能体功能，支持用户在应用内完成点餐和酒店预订。这反映了谷歌将地图从导航工具转变为能帮助用户完成现实世界任务的助手的战略。",
+      "summary_en": "Google Maps launched agentic features including food ordering and hotel bookings, reflecting its ambition to transform from navigation tool to real-world task assistant.",
+      "why_it_matters_zh": "Google Maps向智能体平台演进，意味着AI助手正在深入本地生活服务，可能改变在线预订与本地搜索竞争格局。",
+      "why_it_matters_en": "Google Maps' evolution into an agentic platform signals AI assistants moving into local services, potentially reshaping local search and booking competition.",
+      "tags": [
+        "谷歌地图",
+        "AI智能体",
+        "本地服务"
+      ]
+    },
+    {
+      "title": "AI被用于设计全新病毒，科学家成功制造16种",
+      "original_title": "Artificial Intelligence used to design brand new viruses",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "科学家使用人工智能设计病毒基因代码，并成功制造出16种完整病毒。该研究引发对AI双用途风险的关注。",
+      "summary_en": "Scientists made 16 successful viruses with genetic code designed by AI, raising concerns about the dual-use risks of AI in biosecurity.",
+      "why_it_matters_zh": "AI设计病毒的能力触及生物安全红线，可能推动国际社会对AI与生物技术交叉领域提出更严格监管。",
+      "why_it_matters_en": "AI-designed viruses raise biosecurity concerns that could drive stricter international governance at the intersection of AI and biotechnology.",
+      "tags": [
+        "AI安全",
+        "生物安全",
+        "双用途研究"
+      ]
+    },
+    {
+      "title": "OpenAI请求法院驳回苹果商业秘密诉讼，称指控“烂到根子里”",
+      "original_title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "OpenAI已请求联邦法官驳回苹果提出的商业秘密盗窃诉讼，称其指控“毫无根据”，并认为苹果误解了员工行为和“通用”产品开发信息。OpenAI还称苹果自身的安全实践削弱了其主张。",
+      "summary_en": "OpenAI asked a federal judge to dismiss Apple's trade secrets lawsuit, calling the claims meritless and arguing Apple's own security practices undermine its case.",
+      "why_it_matters_zh": "该案是AI行业与大型科技公司之间最受关注的法律纠纷之一，判决结果可能影响AI人才流动与企业保密管理规则。",
+      "why_it_matters_en": "The case is one of the most-watched legal disputes between AI and big tech; its outcome could affect talent mobility and trade secret practices in AI.",
+      "tags": [
+        "OpenAI",
+        "苹果",
+        "商业秘密诉讼"
+      ]
+    },
+    {
+      "title": "Suno宣布将对AI生成音乐添加水印以遏制垃圾内容",
+      "original_title": "Suno shares plans to combat spammy AI music",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "Suno宣布将采用新的水印技术和下载政策，以限制垃圾AI音乐传播并提高透明度。该公司正面临多项法律诉讼。",
+      "summary_en": "Suno announced new watermarking technology and download policies to limit spammy AI tracks and increase transparency amid ongoing legal battles.",
+      "why_it_matters_zh": "Suno的水印计划是AI音乐行业在监管与版权压力下建立行业标准的重要尝试。",
+      "why_it_matters_en": "Suno's watermarking initiative is a key attempt to establish industry standards for AI music amid copyright and regulatory pressure.",
+      "tags": [
+        "Suno",
+        "AI音乐",
+        "水印"
+      ]
+    },
+    {
+      "title": "中国加强无人机对美出口管制",
+      "original_title": "中国加强无人机对美出口管制",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110544",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国针对美国近期的行动采取反制措施，收紧无人机对美出口管制，并对数家美国公司实施了新制裁。",
+      "summary_en": "",
+      "why_it_matters_zh": "这标志着中美科技脱钩向无人机领域延伸，将影响中国无人机企业的海外市场布局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美科技战",
+        "无人机出口",
+        "反制措施"
+      ]
+    },
+    {
+      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州“双雄”战略合体",
+      "original_title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467487.html",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "DeepSeek投资1.4亿元支持宇树科技IPO，双方将在模型、算力、数据中心等领域展开合作。这是杭州两家明星AI公司的战略绑定。",
+      "summary_en": "",
+      "why_it_matters_zh": "DeepSeek与宇树的深度绑定代表着中国AI大模型与具身智能产业链的整合趋势，也体现国产AI资本运作的新模式。",
+      "why_it_matters_en": "",
+      "tags": [
+        "DeepSeek",
+        "宇树科技",
+        "具身智能"
+      ]
+    },
+    {
+      "title": "三家国产公司联手冲刺全球首个100万小时具身数据",
+      "original_title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467486.html",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "三家中国公司联手推进具身智能数据领域，目标冲刺全球首个100万小时具身数据，覆盖采集、仿真、训练和评测环节。",
+      "summary_en": "",
+      "why_it_matters_zh": "具身数据是机器人智能化的关键瓶颈，中国公司的规模化数据布局可能在全球具身智能竞赛中形成先发优势。",
+      "why_it_matters_en": "",
+      "tags": [
+        "具身智能",
+        "数据",
+        "国产机器人"
+      ]
+    },
+    {
+      "title": "GOP众议员Andy Ogles在田纳西初选中落败",
+      "original_title": "GOP Rep. Andy Ogles ousted in Tennessee primary",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/08/06/ogles-loses-tennessee-house-primary-01028492",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 6,
+      "relevance_score": 5,
+      "is_top_news": false,
+      "summary_zh": "共和党众议员Andy Ogles在田纳西州初选中落败，成为本周第二位失去初选的特朗普支持候选人。",
+      "summary_en": "Rep. Andy Ogles lost his Tennessee primary, becoming the second Trump-endorsed candidate to lose a primary this week.",
+      "why_it_matters_zh": "显示特朗普背书在共和党初选中并非无往不利，反映党内政治生态变化。",
+      "why_it_matters_en": "The loss shows Trump's endorsement is not always decisive in Republican primaries, reflecting shifting intra-party dynamics.",
+      "tags": [
+        "美国初选",
+        "特朗普背书",
+        "共和党"
+      ]
+    },
+    {
+      "title": "反特朗普保守派酝酿组建第三方运动",
+      "original_title": "Anti-Trump conservatives Tucker Carlson, MTG, Massie huddle about launching third-party movement",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/08/05/tucker-carlson-mtg-thomas-massie-joe-kent-trump-01025860",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "塔克·卡尔森、玛乔丽·泰勒·格林等反特朗普保守派人士集会讨论发起第三方政治运动。格林称特朗普“背叛了我们所有人”。",
+      "summary_en": "Tucker Carlson, MTG and other anti-Trump conservatives met to discuss launching a third-party movement; Greene said Trump has 'betrayed us all.'",
+      "why_it_matters_zh": "若形成实质性的第三方运动，可能重塑美国右翼政治版图并影响2028年大选格局。",
+      "why_it_matters_en": "A concrete third-party movement could reshape the US right and affect the 2028 presidential race.",
+      "tags": [
+        "美国政治",
+        "第三方运动",
+        "特朗普"
+      ]
+    },
+    {
+      "title": "智元机器人下架首席科学家罗剑岚页面，高管生变",
+      "original_title": "智元下架了首席科学家罗剑岚",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467730.html",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "智元机器人下架了首席科学家罗剑岚的相关页面，显示公司高管团队发生变动。具体原因目前信息有限。",
+      "summary_en": "",
+      "why_it_matters_zh": "智元是国内头部人形机器人创业公司，核心科学家变动可能影响其技术路线与团队稳定性。",
+      "why_it_matters_en": "",
+      "tags": [
+        "智元机器人",
+        "人事变动",
+        "人形机器人"
+      ]
+    },
+    {
+      "title": "穆尼黑汽车冲撞案凶手被判终身监禁",
+      "original_title": "Driver in Munich Car Ramming Attack Given Life in Prison",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/08/06/world/europe/munich-car-attack-driver-sentence.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 6,
+      "relevance_score": 5,
+      "is_top_news": false,
+      "summary_zh": "2025年慕尼黑汽车冲撞案的司机被判终身监禁。该案是德国近年来多起由移民背景者实施的袭击之一，动摇了公众的安全感。",
+      "summary_en": "The driver in the 2025 Munich car ramming attack was sentenced to life in prison; the case shook public confidence in security.",
+      "why_it_matters_zh": "该判决是德国社会对移民与安全问题激烈辩论的一个焦点案例。",
+      "why_it_matters_en": "The sentencing is a focal point in Germany's heated debate over migration and public safety.",
+      "tags": [
+        "德国",
+        "汽车冲撞",
+        "判决"
+      ]
+    },
+    {
+      "title": "法国消防员流媒体死亡案两人被判刑",
+      "original_title": "Two people convicted in relation to death of French streamer",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 5,
+      "relevance_score": 5,
+      "is_top_news": false,
+      "summary_zh": "两名与法国流媒体主播Raphaël Graven死亡案相关的人员被定罪。Graven于2025年8月去世，死亡过程在流媒体平台Kick上直播。",
+      "summary_en": "Two people were convicted in relation to the death of French streamer Raphaël Graven, whose death was live broadcast on Kick in August 2025.",
+      "why_it_matters_zh": "该案凸显直播平台内容监管与法律责任问题。",
+      "why_it_matters_en": "The case highlights content moderation and legal responsibility issues for livestreaming platforms.",
+      "tags": [
+        "法国",
+        "流媒体",
+        "平台责任"
+      ]
+    },
+    {
+      "title": "澳大利亚航空机组完成南极洲隆冬救援任务",
+      "original_title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 4,
+      "relevance_score": 3,
+      "is_top_news": false,
+      "summary_zh": "澳大利亚航空机组在完全黑暗和零下43摄氏度的条件下降落在南极麦克默多站，成功撤离一名患者。",
+      "summary_en": "An Australian aviation crew evacuated a patient from McMurdo Station after landing in total darkness at -43°C.",
+      "why_it_matters_zh": "这是一次罕见的技术与勇气成就，但地缘/经济影响有限。",
+      "why_it_matters_en": "A remarkable technical and human achievement, though with limited geopolitical or economic impact.",
+      "tags": [
+        "南极",
+        "救援",
+        "澳大利亚"
+      ]
+    },
+    {
+      "title": "美国公共养老基金反对废除气候披露规则",
+      "original_title": "美国公共养老基金反对废除气候披露规则",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110554",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "美国证交会提议废除拜登时代出台的气候风险披露规则，称其逾越了该监管机构的职权。此举受到大型商界团体支持，但一些公共投资者表示反对。",
+      "summary_en": "",
+      "why_it_matters_zh": "气候披露规则的存废将直接影响上市公司ESG信息披露义务与机构投资者的气候风险管理能力。",
+      "why_it_matters_en": "",
+      "tags": [
+        "SEC",
+        "气候披露",
+        "ESG"
+      ]
+    },
+    {
+      "title": "美财长：霍尔木兹海峡即将重新开放",
+      "original_title": "美财长：霍尔木兹海峡即将重新开放",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110525",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "美国财政部长贝森特称，与伊朗的谈判仍在进行中，霍尔木兹海峡有可能“在今天或明天达成协议”。据悉伊朗与阿曼已商定管理海峡航运的临时安排。",
+      "summary_en": "",
+      "why_it_matters_zh": "霍尔木兹海峡若重新开放将直接影响全球油价与能源运输成本，是当前全球经济的最大变量之一。",
+      "why_it_matters_en": "",
+      "tags": [
+        "霍尔木兹海峡",
+        "美伊谈判",
+        "油价"
+      ]
+    },
+    {
+      "title": "朝鲜潜艇试射导弹后，股市下跌",
+      "original_title": "North Korean submarine missile test sends stocks lower",
+      "source": "The Times",
+      "url": "https://www.thetimes.com/business/markets/article/north-korean-submarine-missile-test-sends-stocks-lower-c6n8bqz7f",
+      "language": "en",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "朝鲜进行潜艇导弹试射后，市场避险情绪上升，股市下跌。具体市场数据目前信息有限。",
+      "summary_en": "North Korean submarine missile test triggered risk-off sentiment and weighed on stock markets. Specific market data is limited at this time.",
+      "why_it_matters_zh": "朝鲜军事动作再度扰动市场情绪，显示地缘政治风险仍是全球资产定价的关键变量。",
+      "why_it_matters_en": "North Korea's military action reasserts geopolitical risk as a key variable in global asset pricing.",
+      "tags": [
+        "朝鲜",
+        "地缘风险",
+        "股市"
+      ]
+    }
+  ]
+}
