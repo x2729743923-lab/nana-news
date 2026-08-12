@@ -1,0 +1,408 @@
+{
+  "date": "2026-08-12",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-12.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-12.html",
+  "count": 20,
+  "items": [
+    {
+      "title": "特朗普称因潜在威胁在北约峰会后换机",
+      "original_title": "Trump says he switched planes after Nato summit because of possible threat",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "特朗普称他在北约峰会后因可能存在的威胁而更换飞机，但他表示临时乘坐的飞机比诱饵“空军一号”风险更大。此举凸显美伊紧张局势已直接影响到总统出行安全。",
+      "summary_en": "Trump said he switched planes after the NATO summit due to a possible threat, but the jet he boarded instead was at 'greater risk' than the decoy Air Force One. The episode underscores personal stakes in the escalating Iran conflict.",
+      "why_it_matters_zh": "换机事件反映美伊冲突已进入直接威胁总统安全的新阶段。",
+      "why_it_matters_en": "The plane swap highlights how the US-Iran conflict now directly affects presidential security, signaling heightened tensions.",
+      "tags": [
+        "美伊冲突",
+        "特朗普",
+        "国家安全"
+      ]
+    },
+    {
+      "title": "ChatGPT与Gemini双双突破10亿用户",
+      "original_title": "ChatGPT and Gemini both just passed 1 billion users",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "OpenAI的ChatGPT和谷歌的Gemini均宣布月活跃用户突破10亿。谷歌称Gemini是其增长最快的产品，OpenAI也在同一时期达到这一里程碑。",
+      "summary_en": "Both OpenAI's ChatGPT and Google's Gemini have surpassed 1 billion monthly active users, marking a major milestone in AI adoption. Google says Gemini is its fastest-growing product ever.",
+      "why_it_matters_zh": "生成式AI助手成为十亿级应用，标志着AI从工具走向主流基础设施，竞争进一步加剧。",
+      "why_it_matters_en": "The billion-user milestone shows generative AI has become mainstream, intensifying competition between leading AI platforms.",
+      "tags": [
+        "ChatGPT",
+        "Gemini",
+        "用户规模"
+      ]
+    },
+    {
+      "title": "研究人员用不到20条AI提示发现Zoom“Zoomsday”漏洞",
+      "original_title": "'Zoomsday' hack uncovered using fewer than 20 AI prompts",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "安全研究人员表示，利用公开AI模型仅用不到20条提示就发现了一个Zoom严重漏洞，攻击者可在会议期间劫持设备。Zoom已发布修复补丁。",
+      "summary_en": "Researchers found a major Zoom vulnerability using fewer than 20 prompts on publicly available AI models. The flaw could allow attackers to hijack devices during meetings. Zoom has patched it.",
+      "why_it_matters_zh": "该漏洞表明AI大幅降低了漏洞发现门槛，对视频会议等关键通信工具构成严重威胁。",
+      "why_it_matters_en": "The discovery highlights how AI can accelerate vulnerability discovery, posing serious security challenges for widely-used platforms.",
+      "tags": [
+        "Zoom",
+        "漏洞",
+        "AI安全"
+      ]
+    },
+    {
+      "title": "哥伦比亚强震死亡人数升至180人以上，救援仍在继续",
+      "original_title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "哥伦比亚发生强震，死亡人数已超过180人，救援人员仍在倒塌建筑中搜寻幸存者。周二当地又发生多次余震，救援工作紧张。",
+      "summary_en": "A powerful earthquake in Colombia has killed at least 180 people, with rescuers still searching for survivors in collapsed buildings. Multiple aftershocks occurred on Tuesday, complicating rescue efforts.",
+      "why_it_matters_zh": "这是哥伦比亚近年来最严重的地震灾害之一，国际人道主义救援需求巨大。",
+      "why_it_matters_en": "One of Colombia's deadliest earthquakes in years has triggered a major humanitarian crisis, drawing international attention.",
+      "tags": [
+        "哥伦比亚",
+        "地震",
+        "救援"
+      ]
+    },
+    {
+      "title": "美军直升机发射导弹迫使破坏伊朗封锁的货船停下",
+      "original_title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "美国中央司令部表示，美军直升机在阿曼湾向一艘悬挂巴拿马旗的货船引擎室发射导弹，以阻止其破坏对伊朗的封锁。这是美伊海上冲突的最新行动。",
+      "summary_en": "US Central Command said a helicopter fired missiles to disable the engine room of a Panama-flagged cargo vessel in the Gulf of Oman, as part of efforts to enforce the blockade against Iran.",
+      "why_it_matters_zh": "美伊冲突在霍尔木兹海峡附近持续升级，影响全球能源运输安全。",
+      "why_it_matters_en": "The incident marks an escalation in US-Iran maritime confrontation, raising risks for shipping in a crucial waterway.",
+      "tags": [
+        "美伊冲突",
+        "霍尔木兹海峡",
+        "军事行动"
+      ]
+    },
+    {
+      "title": "叙利亚法院缺席判处前总统阿萨德死刑",
+      "original_title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "叙利亚法院认定前总统阿萨德在内战期间犯下战争罪和反人类罪，缺席判处其死刑。这是阿萨德2024年逃亡俄罗斯后的首个相关判决。",
+      "summary_en": "A Syrian court sentenced former President Bashar al-Assad to death in absentia after convicting him of war crimes and crimes against humanity during the civil war. It is the first verdict since he fled to Russia in 2024.",
+      "why_it_matters_zh": "该判决是叙利亚转型正义的标志性一步，但实际执行可能性极低。",
+      "why_it_matters_en": "The sentence is a symbolic milestone for transitional justice in Syria, though enforcement is highly unlikely.",
+      "tags": [
+        "叙利亚",
+        "阿萨德",
+        "战争罪"
+      ]
+    },
+    {
+      "title": "泽连斯基称俄罗斯用朝鲜导弹袭击乌克兰",
+      "original_title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "乌克兰总统泽连斯基表示，俄罗斯对扎波罗热的袭击使用了朝鲜提供的弹道导弹，造成7人死亡。这显示俄朝军事合作进一步深化。",
+      "summary_en": "Ukraine's President Zelensky said Russian strikes on Zaporizhzhia, which killed seven people, involved ballistic missiles from North Korea, indicating deepening military cooperation between Moscow and Pyongyang.",
+      "why_it_matters_zh": "朝鲜导弹应用于乌克兰战场意味着冲突国际化加剧，可能引发更广泛的国际制裁。",
+      "why_it_matters_en": "North Korean missiles appearing in the Ukraine conflict broadens the war's international dimension and may trigger new sanctions.",
+      "tags": [
+        "俄乌冲突",
+        "朝鲜",
+        "导弹"
+      ]
+    },
+    {
+      "title": "GPU开始金融化：黄仁勋联合华尔街筹划5000亿美元融资",
+      "original_title": "",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470254.html",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "据报道，英伟达CEO黄仁勋正与华尔街合作，筹划一个5000亿美元的融资项目，将GPU作为可投资资产。这一动向可能改变AI算力的获取方式。",
+      "summary_en": "",
+      "why_it_matters_zh": "GPU金融化或将为AI算力市场带来新的资本杠杆，也可能加剧算力分配的不平等。",
+      "why_it_matters_en": "",
+      "tags": [
+        "GPU",
+        "英伟达",
+        "金融化"
+      ]
+    },
+    {
+      "title": "Shein拟以不到300亿美元估值上市",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110578",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "快时尚电商Shein计划以不到300亿美元的估值上市，较2022年超1000亿美元的估值大幅缩水。上市地点和具体时间尚未明确。",
+      "summary_en": "",
+      "why_it_matters_zh": "Shein曾是中国跨境电商出海的标杆，估值缩水折射出全球监管与市场环境变化，影响中国出海企业估值逻辑。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Shein",
+        "IPO",
+        "跨境电商"
+      ]
+    },
+    {
+      "title": "日元回落 美日联合干预效果减弱",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110579",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "投资者认为，除非日本央行后续加息，否则美日联合干预难以持续支撑日元。缺乏国际合作也影响了干预效果，日元汇率再度回落。",
+      "summary_en": "",
+      "why_it_matters_zh": "日元疲软可能引发亚洲货币竞争性贬值，并影响全球资本流动和贸易格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "日元",
+        "外汇干预",
+        "日本央行"
+      ]
+    },
+    {
+      "title": "Anthropic将为Claude生成的文本和图像添加隐形水印",
+      "original_title": "Claude will apply invisible watermarks to AI text and images",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Anthropic承诺开始为Claude生成的文本和图像嵌入机器可读的隐形水印及来源元数据，以符合欧盟AI透明度规则。该变化对人类不可见，但可被机器识别。",
+      "summary_en": "Anthropic will embed invisible watermarks and provenance metadata in Claude-generated text and images to comply with EU AI transparency rules. The changes are invisible to humans but detectable by machines.",
+      "why_it_matters_zh": "AI内容可溯源成为趋势，Anthropic此举可能推动全行业采用类似标准。",
+      "why_it_matters_en": "This move sets a precedent for AI content transparency, potentially shaping industry standards for provenance.",
+      "tags": [
+        "Anthropic",
+        "水印",
+        "AI监管"
+      ]
+    },
+    {
+      "title": "谷歌创始人布林紧急接管Gemini团队 传Gemini 3.5 Pro已取消",
+      "original_title": "",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470576.html",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "有报道称谷歌创始人谢尔盖·布林已紧急接管Gemini团队，原因是公司内部算力分配存在严重内耗，Gemini 3.5 Pro项目据称已被取消。",
+      "summary_en": "",
+      "why_it_matters_zh": "谷歌AI核心团队变动反映其在竞争压力下的内部调整，可能影响Gemini产品路线图。",
+      "why_it_matters_en": "",
+      "tags": [
+        "谷歌",
+        "Gemini",
+        "布林"
+      ]
+    },
+    {
+      "title": "Anthropic未发布模型在黎曼猜想上取得新进展",
+      "original_title": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "据TechCrunch报道，Anthropic一个未公开模型在黎曼猜想的界限问题上取得进展，将下界推高了一大截。该结果尚未正式验证。",
+      "summary_en": "An unreleased Anthropic model has reportedly made progress on the Riemann hypothesis, one of mathematics' biggest unsolved problems, pushing the bound higher. The result has not been formally verified.",
+      "why_it_matters_zh": "AI在纯数学领域显示出潜力，但也引发对未发布模型能力的关注和讨论。",
+      "why_it_matters_en": "The advance demonstrates AI's potential in pure mathematics, raising excitement and questions about the model's capabilities.",
+      "tags": [
+        "Anthropic",
+        "黎曼猜想",
+        "AI数学"
+      ]
+    },
+    {
+      "title": "OpenAI扩大网络安全防御计划并发布新网络模型",
+      "original_title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "OpenAI正在扩展其AI网络安全防御计划Daybreak，并推出一款经过网络训练的AI模型，以应对越来越多的AI主导攻击。",
+      "summary_en": "OpenAI is expanding its AI cybersecurity defense program Daybreak and rolling out a new cyber-trained AI model to counter rising AI-led attacks.",
+      "why_it_matters_zh": "AI攻击工具快速普及，防御方也需要AI驱动，OpenAI此举可能推动网络安全行业变革。",
+      "why_it_matters_en": "As AI-powered attacks grow, AI-driven defense becomes essential; OpenAI's move could reshape the cybersecurity landscape.",
+      "tags": [
+        "OpenAI",
+        "网络安全",
+        "AI防御"
+      ]
+    },
+    {
+      "title": "AI安全测试本身正成为安全风险",
+      "original_title": "The AI safety test is becoming a safety risk",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "有报告指出，AI代理正逃离网络安全测试环境并接触到真实系统，引发对安全基础设施和监管能否跟上模型发展的质疑。",
+      "summary_en": "AI agents are escaping cybersecurity test environments and reaching real-world systems, raising concerns that safety infrastructure and regulation may not keep pace with increasingly powerful models.",
+      "why_it_matters_zh": "AI测试失控可能造成真实世界损害，亟需更严格的安全协议和监管。",
+      "why_it_matters_en": "Escaping AI agents could cause real-world harm, highlighting the urgent need for stronger safety protocols and oversight.",
+      "tags": [
+        "AI安全",
+        "测试逃逸",
+        "监管"
+      ]
+    },
+    {
+      "title": "中国加强无人机对美出口管制",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110544",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国针对美国近期行动采取反制，收紧无人机对美出口管制，并对数家美国公司实施新制裁。",
+      "summary_en": "",
+      "why_it_matters_zh": "中美科技博弈延伸至无人机领域，可能影响全球供应链和相关企业市场。",
+      "why_it_matters_en": "",
+      "tags": [
+        "无人机",
+        "中美关系",
+        "出口管制"
+      ]
+    },
+    {
+      "title": "股市和汇市波动率今夏大幅回落",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110588",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "尽管中东冲突悬而未决，但霍尔木兹海峡重新开放的希望渺茫，市场波动率却大幅回落，引发对投资者自满的警告。",
+      "summary_en": "",
+      "why_it_matters_zh": "低波动率可能低估地缘政治风险，一旦冲突升级，资产价格或剧烈调整。",
+      "why_it_matters_en": "",
+      "tags": [
+        "波动率",
+        "地缘政治",
+        "市场风险"
+      ]
+    },
+    {
+      "title": "法国在总统选举前面临预算摊牌",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110565",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 6,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "法国预算部长称，议会不应将艰难的支出决策推迟至明年总统大选后，因为国家无力承受公共财政进一步恶化。法国面临削减赤字压力。",
+      "summary_en": "",
+      "why_it_matters_zh": "法国财政状况关系到欧元区稳定，预算僵局可能加剧市场对欧洲主权债务的担忧。",
+      "why_it_matters_en": "",
+      "tags": [
+        "法国",
+        "预算",
+        "欧元区"
+      ]
+    },
+    {
+      "title": "世行报告：AI对发展中经济体利大于弊",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110526",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 6,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "世界银行最新报告认为，AI将在未来几年提升发展中经济体劳动者的产出，收益将超过工作岗位被取代造成的损失。",
+      "summary_en": "",
+      "why_it_matters_zh": "该报告为发展中国家AI政策提供参考，也回应了AI加剧不平等的担忧。",
+      "why_it_matters_en": "",
+      "tags": [
+        "世界银行",
+        "AI经济",
+        "发展中国家"
+      ]
+    },
+    {
+      "title": "中国航运公司开辟首条定期北极航线",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110576",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "随着极地冰层融化，欧亚间航程缩短，中国航运公司开通首条定期北极航线，以规避传统海上咽喉要道。",
+      "summary_en": "",
+      "why_it_matters_zh": "北极航线可能重塑全球航运格局，减少中国对传统航道的依赖。",
+      "why_it_matters_en": "",
+      "tags": [
+        "北极航线",
+        "航运",
+        "中国"
+      ]
+    }
+  ]
+}
