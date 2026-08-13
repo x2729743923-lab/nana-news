@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-13",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-13.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-13.html",
+  "count": 20,
+  "items": [
+    {
+      "title": "诺贝尔和平奖得主：普京已无法再宣称在乌克兰获胜",
+      "original_title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "诺贝尔和平奖得主、《新报》联合主编穆拉托夫在接受BBC专访时表示，战争已进入第五年，克里姆林宫领导人只能“摧毁乌克兰，而非征服它”。他认为普京已无法宣称在乌克兰获胜。",
+      "summary_en": "Nobel Peace Prize winner Dmitry Muratov tells the BBC that the Kremlin leader can only \"destroy Ukraine, not conquer it,\" with the war now in its fifth year.",
+      "why_it_matters_zh": "这是俄罗斯知名舆论人物对克里姆林宫战争叙事的公开否定，对俄乌战局评估具有重要信号意义。",
+      "why_it_matters_en": "A prominent Russian voice publicly rejects the Kremlin's framing of the war, underscoring Russia's failure to achieve its stated goals.",
+      "tags": [
+        "俄乌战争",
+        "普京",
+        "诺贝尔和平奖"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "乌克兰袭击俄主要粮食出口码头，黑海粮食运输战升级",
+      "original_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "乌克兰对黑海港口的攻击击中了俄罗斯主要粮食出口码头。由于俄乌双方互相袭击对方航运设施和港口，两国的粮食出口量都在下降，全球粮食供应面临进一步压力。",
+      "summary_en": "Ukrainian strikes hit major Russian grain export terminals in a Black Sea port, as grain exports from both Russia and Ukraine fall amid mutual attacks on shipping facilities and ports.",
+      "why_it_matters_zh": "黑海粮食出口是全球粮价的关键变量，双方互袭港口将加剧国际粮食供应链风险。",
+      "why_it_matters_en": "Escalating attacks on Black Sea grain infrastructure threaten global food supplies and grain prices.",
+      "tags": [
+        "俄乌战争",
+        "黑海粮食走廊",
+        "全球粮食安全"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "ChatGPT与Gemini双双突破10亿月活用户",
+      "original_title": "ChatGPT and Gemini both just passed 1 billion users",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "谷歌CEO皮查伊宣布Gemini月活用户已达10亿，成为谷歌历史上增长最快的产品；OpenAI的ChatGPT据报也刚刚跨过同一门槛。谷歌还透露63%的Gemini用户使用语音功能，平台每日生成超1.5亿张图像。",
+      "summary_en": "Google CEO Sundar Pichai says a billion people use Gemini monthly, making it Google's fastest-growing product ever; OpenAI's ChatGPT has also reportedly passed 1 billion users, with Gemini generating over 150 million images daily.",
+      "why_it_matters_zh": "两大头部AI助手同时进入10亿用户时代，标志AI应用全面大众化，AI竞争与商业化将再度加速。",
+      "why_it_matters_en": "Both leading AI assistants hitting 1 billion users marks a tipping point for mainstream AI adoption and competitive intensity.",
+      "tags": [
+        "ChatGPT",
+        "Gemini",
+        "10亿用户"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "朱镕基逝世，享年97岁：曾推动中国入世及市场化改革",
+      "original_title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "china_globalization",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "据BBC报道，中国前总理朱镕基逝世，享年97岁。他在任内推动中国加入世界贸易组织（WTO），并主导了一系列促进增长的经济改革，帮助中国成为全球贸易大国。",
+      "summary_en": "Former Chinese premier Zhu Rongji, who brought China into the WTO and championed reforms that fuelled growth, has died at 97.",
+      "why_it_matters_zh": "朱镕基是塑造中国经济开放与全球化路径的关键人物，其离世引发对中国改革开放历程的回顾与评价。",
+      "why_it_matters_en": "Zhu's death prompts reflection on the reform era that integrated China into the global trading system.",
+      "tags": [
+        "朱镕基",
+        "中国入世",
+        "改革开放"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "世卫组织总干事：埃博拉疫情恐成史上最致命一次",
+      "original_title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "世卫组织总干事表示，5月15日宣布的这轮埃博拉疫情已造成超过2000人死亡，另有数千例报告病例，按当前趋势将成为史上最致命的埃博拉疫情。",
+      "summary_en": "The WHO chief says the outbreak, declared on 15 May, has caused more than 2,000 deaths with thousands more cases, and is on track to be the deadliest ever.",
+      "why_it_matters_zh": "若疫情持续失控，可能演变为跨国公共卫生危机，对非洲及全球防疫体系构成重大考验。",
+      "why_it_matters_en": "A worsening Ebola outbreak risks becoming a cross-border public health emergency with global implications.",
+      "tags": [
+        "埃博拉",
+        "公共卫生",
+        "世卫组织"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "美国7月通胀率降至3.4%，回落但仍具粘性",
+      "original_title": "",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110598",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "美国7月通胀率降至3.4%，低于6月的3.5%，符合经济学家预期。但市场人士指出，数据表明美国通胀仍“具有粘性”，可能影响美联储后续政策节奏。",
+      "summary_en": "",
+      "why_it_matters_zh": "通胀粘性直接决定美联储降息路径，是影响全球资产定价的核心变量。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美国通胀",
+        "美联储",
+        "宏观经济"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "OpenAI开始在ChatGPT中测试广告，免费版商业模式迎来转变",
+      "original_title": "Testing ads in ChatGPT",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "OpenAI宣布开始在ChatGPT中测试广告，以支持免费访问的可持续运营。公司承诺广告将有清晰标识、不干预回答独立性，并强调隐私保护与用户控制。",
+      "summary_en": "OpenAI begins testing ads in ChatGPT to support free access, pledging clear labeling, answer independence, strong privacy protections, and user control.",
+      "why_it_matters_zh": "这是OpenAI商业化模式从订阅制向广告延伸的关键信号，将影响整个AI行业的商业模式走向。",
+      "why_it_matters_en": "OpenAI experimenting with ads signals a major shift in AI business models, with implications across the industry.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "广告"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "Shein拟以不到300亿美元估值上市，较峰值大幅缩水",
+      "original_title": "",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110578",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "快时尚电商Shein计划以不到300亿美元的估值上市，较其在2022年一轮私募融资后超过1000亿美元的估值大幅缩水，反映资本市场对跨境电商监管与合规风险的重新定价。",
+      "summary_en": "",
+      "why_it_matters_zh": "Shein估值缩水近七成，揭示中国出海企业面临的地缘政治与监管压力正深刻影响其融资与上市前景。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Shein",
+        "IPO",
+        "跨境电商"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "日本抗议普京访问日俄争议岛屿",
+      "original_title": "Japan protests against Putin visit to disputed islands",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "据俄罗斯官方媒体称，普京首次访问了千岛群岛（日本称北方四岛）。日本政府已就此提出抗议，此举可能进一步影响日俄关系及和平条约谈判前景。",
+      "summary_en": "Putin visited the Kuril islands, which Japan claims as the Northern Territories, for the first time, according to state media; Japan has protested the move.",
+      "why_it_matters_zh": "俄领导人首次踏上争议岛屿，标志日俄领土争端显著升级。",
+      "why_it_matters_en": "A first-ever visit by the Russian leader to the disputed islands escalates the long-standing Japan-Russia territorial dispute.",
+      "tags": [
+        "日俄关系",
+        "北方四岛",
+        "普京"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "以色列定居者围困约旦河西岸巴勒斯坦家庭",
+      "original_title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "据报道，以色列安全部队已从约旦河西岸一处村庄撤出，约十几名定居者仍留守现场，自上周日以来持续围困两户巴勒斯坦家庭。事件凸显约旦河西岸定居者暴力问题不断恶化。",
+      "summary_en": "Israeli security forces have reportedly withdrawn from a West Bank village, leaving about a dozen settlers besieging two Palestinian families since Sunday, highlighting growing settler violence.",
+      "why_it_matters_zh": "约旦河西岸失控风险上升，以色列军方无力约束定居者暴力，可能进一步激化巴以局势。",
+      "why_it_matters_en": "The siege highlights the army's inability to curb settler violence and the erosion of security for Palestinians in the occupied West Bank.",
+      "tags": [
+        "巴以冲突",
+        "约旦河西岸",
+        "以色列定居者"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "股市与汇市波动率今夏大幅回落，投资者或对中东风险掉以轻心",
+      "original_title": "",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110588",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "今夏股市和汇市波动率大幅回落，但鉴于霍尔木兹海峡迅速重新开放的希望日益渺茫，分析师警告投资者已对中东冲突悬而未决可能带来的新一轮市场扰乱掉以轻心。",
+      "summary_en": "",
+      "why_it_matters_zh": "低波动率可能掩盖地缘政治风险，一旦中东局势再度恶化，市场调整将更为剧烈。",
+      "why_it_matters_en": "",
+      "tags": [
+        "市场波动率",
+        "霍尔木兹海峡",
+        "地缘政治"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "日元回落，美日联合干预效果减弱",
+      "original_title": "",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110579",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "日元汇率再度回落，投资者认为除非日本央行后续采取加息行动，否则此次美日联合干预不太可能提供持久支撑；缺乏国际合作也削弱了干预效果。",
+      "summary_en": "",
+      "why_it_matters_zh": "日元走势反映主要央行政策分化与汇率干预的局限，直接影响亚太资本市场和套息交易。",
+      "why_it_matters_en": "",
+      "tags": [
+        "日元",
+        "汇率干预",
+        "日本央行"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "法国在总统选举前面临预算摊牌",
+      "original_title": "",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110565",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "法国预算部长警告，议会不应把艰难的支出决策推迟至明年总统大选之后，因为国家无力承受公共财政进一步恶化。法国的财政整顿与政治周期矛盾再度凸显。",
+      "summary_en": "",
+      "why_it_matters_zh": "法国的预算困境是欧洲财政纪律与选举周期博弈的缩影，可能影响欧元区政策信心。",
+      "why_it_matters_en": "",
+      "tags": [
+        "法国财政",
+        "欧元区",
+        "预算"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "Anthropic将为AI生成文本添加水印，引发用户争议",
+      "original_title": "Anthropic says it will watermark text generated by its AI models",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Anthropic将把AI生成文本的水印支持扩展到旧版模型。部分Claude用户则抱怨，新水印可能让他们在工作、上课等场景中被发现使用了AI，围绕透明度与隐私的争论升温。",
+      "summary_en": "Anthropic will extend support for watermarking AI-generated text to older models as well; some Claude users complain the watermarks could expose their AI use at work or in classes.",
+      "why_it_matters_zh": "AI内容溯源与可检测性是全球监管的核心议题，Anthropic的举措可能推动行业标准，同时引发用户隐私担忧。",
+      "why_it_matters_en": "Watermarking AI text is becoming a key compliance battleground; Anthropic's move could set industry norms while raising privacy concerns.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "AI水印"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "亚马逊默认将Twitch主播内容用于AI训练，用户可选退出",
+      "original_title": "Amazon will train on Twitch streamers' content by default, unless they opt out",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Twitch将默认允许亚马逊使用主播的直播、回放、片段、聊天记录及频道图文内容训练生成式AI，用户可在设置中选择退出。Twitch CPO坦言“如果设成选择加入，没人会选”，此举引发主播群体批评。",
+      "summary_en": "Twitch will by default let Amazon train generative AI on streamers' content—streams, VODs, clips, chat, and channel text—with an opt-out setting; the CPO acknowledged an opt-in model would get no participation.",
+      "why_it_matters_zh": "平台默认将创作者内容用于AI训练正成为普遍做法，创作者的知情权与数据收益分配问题再度成为焦点。",
+      "why_it_matters_en": "Default AI training on user-generated content raises key questions about consent and creator rights across platforms.",
+      "tags": [
+        "Twitch",
+        "亚马逊",
+        "AI训练数据"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "OpenAI网络安全模型Daybreak上线AWS Bedrock",
+      "original_title": "Daybreak models are now available on AWS",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "OpenAI与AWS宣布通过Amazon Bedrock提供Daybreak网络安全模型能力，以支持企业安全工作流。前沿AI模型正在进入企业安全基础设施的商用管道。",
+      "summary_en": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "why_it_matters_zh": "AI安全能力从实验室走向规模化商用，正在重塑企业级威胁检测与响应的技术路径。",
+      "why_it_matters_en": "Frontier AI models are being embedded into enterprise security workflows, signaling commercialization of AI-driven defense.",
+      "tags": [
+        "OpenAI",
+        "AWS",
+        "AI安全"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "OpenAI发布网络安全专用模型GPT-5.6-Cyber，扩大Daybreak生态",
+      "original_title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "OpenAI推出网络安全专用模型GPT-5.6-Cyber，通过Daybreak Red向获授权的漏洞研究、漏洞验证和安全测试场景开放，并批准更多可信合作伙伴使用其前沿网络模型提供受治理的安全服务。",
+      "summary_en": "OpenAI debuts GPT-5.6-Cyber, a cybersecurity-specific model available through Daybreak Red for authorized vulnerability research and testing, and expands access for approved partners.",
+      "why_it_matters_zh": "攻击性AI能力正以“受控商用”方式落地，安全防御与AI武器化的边界将成为监管焦点。",
+      "why_it_matters_en": "Controlled release of offensive AI cyber capabilities raises both opportunities for defense and governance challenges.",
+      "tags": [
+        "OpenAI",
+        "网络安全",
+        "GPT-5.6-Cyber"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "中国航运公司开辟首条定期北极航线",
+      "original_title": "",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110576",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国航运公司开辟首条定期北极航线。随着极地冰层融化缩短欧亚航程，船舶也在寻求避开海上咽喉要道，北极航线正作为传统航线的替代选择进入视野。",
+      "summary_en": "",
+      "why_it_matters_zh": "北极航线常态化运营将改变全球航运版图，并牵动中俄合作与极地治理议题。",
+      "why_it_matters_en": "",
+      "tags": [
+        "北极航线",
+        "中国航运",
+        "全球贸易"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "中国加强无人机对美出口管制并制裁多家美国公司",
+      "original_title": "",
+      "source": "FT中文网",
+      "url": "https://www.ftchinese.com/story/001110544",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国针对美国近期的行动采取反制措施，收紧无人机对美出口管制，并对数家美国公司实施新制裁。中美科技与贸易摩擦进一步升级。",
+      "summary_en": "",
+      "why_it_matters_zh": "无人机是中美科技博弈中的关键筹码，出口管制升级将影响全球无人机供应链和相关企业。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美关系",
+        "无人机",
+        "出口管制"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "OpenAI长期COO布拉德·莱特卡普离职创业",
+      "original_title": "Brad Lightcap, OpenAI's longtime COO, is leaving to 'start something new'",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "OpenAI任职八年的长期高管、前COO及现任特别项目负责人布拉德·莱特卡普宣布离职，在内部备忘录中表示将“开启新的方向”。这是OpenAI近期又一位高管出走。",
+      "summary_en": "Brad Lightcap, OpenAI's special projects lead and former COO, is leaving after eight years to \"start something new,\" marking another high-profile executive departure.",
+      "why_it_matters_zh": "核心高管的持续流失可能影响OpenAI的运营稳定性与外部信任，也反映AI顶级人才的流动方向。",
+      "why_it_matters_en": "Another senior departure raises questions about OpenAI's management continuity as competition for AI talent intensifies.",
+      "tags": [
+        "OpenAI",
+        "高管离职",
+        "AI人才"
+      ],
+      "paywall_risk": false
+    }
+  ]
+}
