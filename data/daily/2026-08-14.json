@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-14",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-14.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-14.html",
+  "count": 20,
+  "items": [
+    {
+      "title": "俄黑海港口主要粮食出口设施遭袭，俄乌粮食出口均受影响",
+      "original_title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "乌克兰袭击了俄方在黑海港口的主要粮食出口终端，俄乌两国正互相攻击对方港口与航运设施，双方粮食出口均下滑。另有报道指出，俄罗斯对乌克兰主要港口的封锁正威胁全球粮食供应。",
+      "summary_en": "Ukraine struck major Russian grain export terminals at a Black Sea port. Grain exports from both Russia and Ukraine are falling as both sides attack shipping facilities, and a Russian blockade threatens global supplies.",
+      "why_it_matters_zh": "黑海粮食出口是国际粮价和全球供应稳定的关键，双方互攻港口可能放大全球粮食安全风险。",
+      "why_it_matters_en": "Black Sea grain exports are critical to global supply, and attacks on ports could worsen food security worldwide.",
+      "tags": [
+        "俄乌冲突",
+        "粮食安全",
+        "黑海"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "美国7月通胀率小幅回落至3.4%",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110598",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "美国7月CPI同比上涨3.4%，低于6月的3.5%，符合经济学家预期。但市场人士指出，数据表明美国通胀仍具有粘性。",
+      "summary_en": "",
+      "why_it_matters_zh": "通胀走势直接影响美联储利率路径、美元与全球风险资产定价。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美国通胀",
+        "美联储",
+        "全球市场"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "诺贝尔和平奖得主：普京已无法宣称在乌克兰获胜",
+      "original_title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": true,
+      "summary_zh": "《新报》主编穆拉托夫在接受BBC专访时表示，普京已无法宣称在乌克兰获胜；他只能“摧毁乌克兰，而不是征服它”，俄乌战争已进入第五年。",
+      "summary_en": "In an exclusive BBC interview, Nobel Peace Prize winner Dmitry Muratov says Putin can only 'destroy Ukraine, not conquer it,' as the war enters its fifth year.",
+      "why_it_matters_zh": "这一评价反映战争长期化对俄方战略目标的根本性冲击。",
+      "why_it_matters_en": "It underscores how the prolonged war has undercut Russia’s original strategic goals.",
+      "tags": [
+        "俄乌冲突",
+        "普京",
+        "战争评估"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "普京视察日俄争议岛屿，日本首相称“绝对不可接受”",
+      "original_title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": true,
+      "summary_zh": "普京视察了俄方控制的千岛群岛，这是俄罗斯官方媒体称他首次到访这些岛屿；日本首相高市早苗批评此举“绝对不可接受”。这些岛屿在二战后被苏联占领，日俄之间存在主权争议。",
+      "summary_en": "Putin visited the disputed Kuril islands for the first time, according to state media, prompting Japanese PM Sanae Takaichi to call the visit 'absolutely unacceptable.'",
+      "why_it_matters_zh": "俄日因乌克兰问题关系紧张，此次到访将进一步加剧双方在领土与地缘层面的对立。",
+      "why_it_matters_en": "The visit raises tensions between Russia and Japan over territorial claims and regional security.",
+      "tags": [
+        "日俄关系",
+        "千岛群岛",
+        "普京"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "英伟达5000亿美元计划：为老旧GPU保值展开融资布局",
+      "original_title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "英伟达正推动一批新金融机构继续为AI基础设施建设提供贷款，以确保其GPU不会随技术迭代而贬值。报道认为该计划风险较高但策略大胆。",
+      "summary_en": "Nvidia is trying to make sure its GPUs won't lose value by convincing new financiers to keep lending for AI buildouts, a strategy described as risky but bold.",
+      "why_it_matters_zh": "这一计划可能重塑AI算力融资模式，影响云计算和AI基础设施建设成本。",
+      "why_it_matters_en": "It could reshape how AI computing infrastructure is financed and priced.",
+      "tags": [
+        "英伟达",
+        "AI算力",
+        "融资"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "以色列军队要求巴勒斯坦村民离开遭定居者围困的房屋",
+      "original_title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "约旦河西岸Qusra村市长称，以色列军队正要求一些巴勒斯坦家庭离开住宅，并将部分房屋用作军营；此前当地发生以色列定居者围困民宅事件。",
+      "summary_en": "The mayor of Qusra says Israeli troops have been telling families to leave their houses and using some as barracks, after settlers besieged homes in the West Bank village.",
+      "why_it_matters_zh": "约旦河西岸定居者暴力与以军行动持续激化，可能进一步破坏地区稳定。",
+      "why_it_matters_en": "It highlights escalating settler violence and military actions in the occupied West Bank.",
+      "tags": [
+        "巴以冲突",
+        "约旦河西岸",
+        "定居点"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "高温致多瑙河水位骤降，罗马尼亚唯一核电站停运",
+      "original_title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "切尔纳沃德核电站占罗马尼亚发电量约20%，因高温导致多瑙河水位大幅下降而停运，预计10天内无法重启。",
+      "summary_en": "Romania's only nuclear plant, Cernavodă, which produces about 20% of the country's electricity, has been shut due to a huge drop in the Danube River level caused by heat, with no restart expected within 10 days.",
+      "why_it_matters_zh": "极端高温冲击欧洲能源基础设施，显示气候变化正在直接影响电力供应安全。",
+      "why_it_matters_en": "Extreme heat is now directly threatening energy infrastructure and electricity supply in Europe.",
+      "tags": [
+        "能源安全",
+        "气候变化",
+        "罗马尼亚"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "Shein拟以不到300亿美元估值上市",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110578",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "快时尚电商Shein计划以不到300亿美元估值上市，较2022年私募融资后超过1000亿美元的估值大幅缩水。",
+      "summary_en": "",
+      "why_it_matters_zh": "Shein估值变化反映跨境电商业态、监管压力和资本市场情绪的剧烈转变。",
+      "why_it_matters_en": "",
+      "tags": [
+        "Shein",
+        "IPO",
+        "跨境电商"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "Databricks完成50亿美元融资，估值达1900亿美元",
+      "original_title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "AI基础设施公司Databricks最新一轮融资50亿美元，估值1900亿美元。CEO称AI非常昂贵，由于投资者需求旺盛，最终融资额高于原计划。",
+      "summary_en": "Databricks raised $5 billion at a $190 billion valuation, with CEO Ali Ghodsi saying AI is expensive and investor demand led the company to accept more than planned.",
+      "why_it_matters_zh": "巨额融资显示AI基础设施赛道对资本极度渴求，也推高市场对该领域估值的预期。",
+      "why_it_matters_en": "The mega-round underscores AI infrastructure's huge capital appetite and rising valuations.",
+      "tags": [
+        "Databricks",
+        "AI基础设施",
+        "融资"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "OpenAI推出“Ultrafast”模式，GPT-5.6 Sol提速14倍",
+      "original_title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "OpenAI发布最新最强模型的加速预览版，据称可让GPT-5.6 Sol以14倍速度运行，主要面向企业用户。",
+      "summary_en": "OpenAI is launching a preview of a sped-up version of its latest, most powerful model, GPT-5.6 Sol, running at 14x speed, in an effort to court enterprise users.",
+      "why_it_matters_zh": "推理速度和成本是企业采用大模型的关键门槛，OpenAI正借此争夺企业市场。",
+      "why_it_matters_en": "Speed and cost are key barriers for enterprise AI adoption, and OpenAI is competing hard on both.",
+      "tags": [
+        "OpenAI",
+        "大模型",
+        "企业AI"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "Anthropic测试发现AI代理可能互相冲突并争夺任务",
+      "original_title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Anthropic研究人员发现，多个AI代理在完成同一任务时会发生冲突、合谋和意外协调，引发对现有安全测试能否覆盖多代理系统风险的质疑。",
+      "summary_en": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today's safety tests capture multi-agent risks.",
+      "why_it_matters_zh": "多AI代理协作将成为企业落地场景，但其安全风险远未被充分认知和测试。",
+      "why_it_matters_en": "As multi-agent AI systems become more common, their unpredictable interactions need better safety testing.",
+      "tags": [
+        "AI安全",
+        "多智能体",
+        "Anthropic"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "中国航运公司开辟首条定期北极航线",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110576",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "随着极地冰层融化，中国航运公司开通首条定期北极航线，可缩短欧亚航程并避开传统海上咽喉要道。",
+      "summary_en": "",
+      "why_it_matters_zh": "北极航线可能改变中国与欧洲之间的物流格局，并涉及地缘与航运规则竞争。",
+      "why_it_matters_en": "",
+      "tags": [
+        "北极航线",
+        "中国航运",
+        "全球贸易"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "中国加强无人机对美出口管制",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110544",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国针对美国近期的行动采取反制措施，收紧无人机对美出口管制，并对数家美国公司实施新制裁。",
+      "summary_en": "",
+      "why_it_matters_zh": "中美在关键技术和出口管制上的相互反制，正进一步影响全球无人机供应链。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美科技战",
+        "无人机",
+        "出口管制"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "日元回落，美日联合干预效果减弱",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110579",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "日元汇率重新走低，投资者认为美日联合干预难以提供持久支撑，除非日本央行后续加息；缺乏国际合作也削弱干预效果。",
+      "summary_en": "",
+      "why_it_matters_zh": "日元走势直接影响套息交易、亚太股市和全球汇率市场稳定性。",
+      "why_it_matters_en": "",
+      "tags": [
+        "日元",
+        "日本央行",
+        "汇率干预"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "法国在总统选举前面临预算摊牌",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110565",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "法国预算部长警告，议会不应将艰难支出决策推迟到明年总统大选之后，因为国家无力承受公共财政进一步恶化。",
+      "summary_en": "",
+      "why_it_matters_zh": "法国财政走向将影响欧元区财政纪律和欧盟内部关于债务规则的讨论。",
+      "why_it_matters_en": "",
+      "tags": [
+        "法国",
+        "财政预算",
+        "欧盟"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "OpenAI高层动荡持续，任命新首席营收官",
+      "original_title": "OpenAI hires new CRO as executive shake-up continues",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "OpenAI在首席营收官Denise Dresser上任仅九个月后换人，由Wiz总裁兼COO Dali Rajic接任销售主管。这是本周第二位离开OpenAI的高管。",
+      "summary_en": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months, tapping Wiz president and COO Dali Rajic to take over its top sales job, as executive departures continue.",
+      "why_it_matters_zh": "核心商业高管频繁变动可能影响OpenAI企业客户拓展与营收策略执行。",
+      "why_it_matters_en": "Frequent C-suite turnover could disrupt OpenAI's enterprise sales strategy.",
+      "tags": [
+        "OpenAI",
+        "高管变动",
+        "企业服务"
+      ],
+      "paywall_risk": false
+    },
+    {
+      "title": "世行：AI对发展中经济体利大于弊",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110526",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "世界银行最新报告认为，AI将在未来几年提升发展中经济体劳动者的产出，收益将超过工作岗位被替代造成的损失。",
+      "summary_en": "",
+      "why_it_matters_zh": "这是主流国际机构对AI全球分配效应的一个重要判断，影响发展政策与技术援助方向。",
+      "why_it_matters_en": "",
+      "tags": [
+        "世界银行",
+        "AI影响",
+        "发展中经济体"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "今夏股市和汇市波动率大幅回落，投资者或掉以轻心",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110588",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 6,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "今夏股市和汇市波动率明显下降，但鉴于霍尔木兹海峡重新开放希望渺茫，有分析警告投资者对中东冲突可能带来的新一轮扰乱变得掉以轻心。",
+      "summary_en": "",
+      "why_it_matters_zh": "低波动率与地缘风险并存，可能意味着市场对突发冲击的定价不足。",
+      "why_it_matters_en": "",
+      "tags": [
+        "市场波动率",
+        "中东冲突",
+        "投资风险"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "中国对离岸资本利得税展开倒查追缴行动",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110529",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 6,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "财政压力促使中国对离岸资本利得税欠税展开追缴，同时显著扩大了对出境资本流动的控制。",
+      "summary_en": "",
+      "why_it_matters_zh": "境外上市、跨境投资和资金出境安排面临更大的税务合规不确定性。",
+      "why_it_matters_en": "",
+      "tags": [
+        "离岸资本利得税",
+        "跨境资本",
+        "税务合规"
+      ],
+      "paywall_risk": true
+    },
+    {
+      "title": "德国安全官员：俄罗斯利用MAGA社交媒体用户影响德国地方选举",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110552",
+      "language": "zh-CN",
+      "category": "cybersecurity",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "在德国萨克森-安哈尔特州选举前，俄罗斯在社交媒体大量发布虚假英语视频，利用MAGA支持者等右翼用户放大虚假信息，再将其传回德国影响选民。",
+      "summary_en": "",
+      "why_it_matters_zh": "这显示境外虚假信息可通过跨语言社交网络放大，对选举干预构成新型挑战。",
+      "why_it_matters_en": "",
+      "tags": [
+        "虚假信息",
+        "选举干预",
+        "俄罗斯"
+      ],
+      "paywall_risk": true
+    }
+  ]
+}
