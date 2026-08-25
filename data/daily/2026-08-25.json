@@ -1,0 +1,419 @@
+{
+  "date": "2026-08-25",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-25.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-08-25.html",
+  "count": 20,
+  "items": [
+    {
+      "title": "美国财长称将对伊朗发动“史上最大金融攻势”",
+      "original_title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "美国财政部长贝森特表示，美国将切断与伊朗的所有经济联系，任何在金融上与伊朗合作的国家也将被孤立。此举是特朗普政府以经济手段全面施压伊朗的最新升级。",
+      "summary_en": "US Treasury Secretary Scott Bessent says the US will sever all economic ties with Iran and isolate any nation partnering with Iran financially.",
+      "why_it_matters_zh": "美国对伊朗的“金融断联”将重塑中东地缘政治格局，并直接影响全球能源市场与供应链。",
+      "why_it_matters_en": "The US financial squeeze on Iran could reshape Middle East geopolitics and directly impact global energy markets.",
+      "tags": [
+        "伊朗",
+        "美国制裁",
+        "全球经济"
+      ]
+    },
+    {
+      "title": "一架完全由AI引导的无人机击杀三名乌克兰人",
+      "original_title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "paywall_risk": true,
+      "summary_zh": "乌克兰官员称，俄罗斯一架搭载英伟达芯片的无人机在完全由AI引导的情况下发动袭击，导致三名乌克兰人死亡。这一事件被视为自主武器脱离人类控制的标志性案例。",
+      "summary_en": "Ukrainian officials say a Russian drone with an Nvidia chip conducted an attack guided entirely by AI, killing three Ukrainians, signaling a dystopian future of human-free weaponry.",
+      "why_it_matters_zh": "自主AI武器首次被确认造成实战伤亡，将引发全球关于AI军事化与自主攻击伦理的激烈讨论。",
+      "why_it_matters_en": "The first confirmed AI-guided lethal attack raises urgent questions about autonomous weapons and AI militarization.",
+      "tags": [
+        "AI武器",
+        "俄乌战争",
+        "英伟达"
+      ]
+    },
+    {
+      "title": "美国将叙利亚从支持恐怖主义国家名单中移除",
+      "original_title": "US removes Syria from list of state sponsors of terrorism",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "特朗普政府将叙利亚从美国“支持恐怖主义国家”名单中移除，并已接纳叙利亚新总统、前基地组织关联武装分子艾哈迈德·沙拉。这标志着美国对叙政策的重大转向。",
+      "summary_en": "The Trump administration has removed Syria from the US list of state sponsors of terrorism and embraced its new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "why_it_matters_zh": "美国对叙政策转向可能改变中东力量平衡，影响以色列、土耳其和海湾国家在该地区的博弈。",
+      "why_it_matters_en": "The US policy shift on Syria could alter the Middle East power balance and regional calculations.",
+      "tags": [
+        "叙利亚",
+        "美国外交",
+        "中东"
+      ]
+    },
+    {
+      "title": "英国首相伯纳姆无视俄方威胁承诺支持乌克兰",
+      "original_title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "英国首相伯纳姆在就任后的首次外访中抵达乌克兰，承诺继续支持基辅。此前莫斯科就乌克兰被指使用英国无人机发出“后果”警告。",
+      "summary_en": "UK PM Andy Burnham arrived in Ukraine on his first foreign trip, pledging support for Kyiv despite Russian warnings of consequences over reported use of British drones by Ukraine.",
+      "why_it_matters_zh": "英国新政府延续对乌支持立场，显示北约在政府更替后对俄态度并未松动。",
+      "why_it_matters_en": "The UK's continued backing for Ukraine signals NATO resolve remains intact under new leadership.",
+      "tags": [
+        "英国",
+        "乌克兰",
+        "俄罗斯"
+      ]
+    },
+    {
+      "title": "美国海军陆战队以伊朗战事为由取消与韩国联合演习",
+      "original_title": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "paywall_risk": true,
+      "summary_zh": "韩国方面表示，美方已于6月通知取消一项高规格联合军演；特朗普本月还缩短了另一场联合演习。外界分析认为美军资源正因伊朗战事向中东倾斜。",
+      "summary_en": "The US canceled a high-profile military drill with South Korea in June due to Iran war demands, and Trump shortened another exercise this month, indicating a shift of US military resources toward the Middle East.",
+      "why_it_matters_zh": "美军在亚太的军事存在被削弱，可能影响盟友对美安全承诺的信心及地区力量平衡。",
+      "why_it_matters_en": "Reduced US military presence in Asia could undermine allies' confidence in American security commitments.",
+      "tags": [
+        "美韩军演",
+        "伊朗冲突",
+        "印太战略"
+      ]
+    },
+    {
+      "title": "加拿大如何反制才能伤及美国经济与特朗普选情",
+      "original_title": "How Canada could hit back to hurt the US economy - and Trump",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o",
+      "language": "en",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "加拿大约70%的商品出口至美国。在美加贸易争端不断升级的背景下，该分析探讨了加方可能采取的报复手段，包括限制关键矿产和能源出口、对科技巨头反制等。",
+      "summary_en": "Canada sells about 70% of its goods to the US. This analysis explores Canada's leverage in the spiraling trade dispute, including restrictions on critical minerals, energy exports, and retaliation against US tech giants.",
+      "why_it_matters_zh": "美加贸易战升级将冲击北美供应链，影响全球大宗商品价格和市场信心。",
+      "why_it_matters_en": "Escalating US-Canada trade tensions could disrupt North American supply chains and global market confidence.",
+      "tags": [
+        "美加贸易",
+        "关税",
+        "加拿大"
+      ]
+    },
+    {
+      "title": "美加企业担忧贸易战：“我一半的生意会消失”",
+      "original_title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o",
+      "language": "en",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "随着美加之间报复性进口关税不断加码，两国企业主正面临巨大不确定性和焦虑。有加拿大企业主表示，若50%关税落地，其一半业务将消失。",
+      "summary_en": "Business owners in both Canada and the US are navigating uncertainty as tit-for-tat import taxes escalate, with one Canadian owner saying half their business would vanish.",
+      "why_it_matters_zh": "关税战对实体经济的冲击正在显现，中小企业生存与就业将面临直接威胁。",
+      "why_it_matters_en": "The tariff war is hitting the real economy, threatening jobs and small business survival.",
+      "tags": [
+        "美加贸易",
+        "中小企业",
+        "关税"
+      ]
+    },
+    {
+      "title": "美国拟打造核动力商船队 挑战中国造船主导地位",
+      "original_title": "",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110698",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "paywall_risk": true,
+      "summary_zh": "投资者包括日本三井、三菱和住友的英国公司Core Power与特朗普政府签署公私合作伙伴协议，将于2028年开始建造首艘核动力商船。该计划旨在挑战中国在全球造船业的主导地位。",
+      "summary_en": "",
+      "why_it_matters_zh": "核动力商船若落地，将改变全球航运业竞争格局，直接挑战中国造船与航运优势。",
+      "why_it_matters_en": "",
+      "tags": [
+        "核动力商船",
+        "造船业",
+        "中美竞争"
+      ]
+    },
+    {
+      "title": "投资者缩减对美英加息的押注",
+      "original_title": "",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110680",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "paywall_risk": true,
+      "summary_zh": "经济数据走弱压倒了对油价上涨的担忧，交易员预计美联储将在今年剩余时间维持利率不变，英国央行未来一年也不太可能加息超过两次。",
+      "summary_en": "",
+      "why_it_matters_zh": "主要央行利率预期变化将影响全球资产定价、资本流动及新兴市场和中国出口表现。",
+      "why_it_matters_en": "",
+      "tags": [
+        "美联储",
+        "英国央行",
+        "利率"
+      ]
+    },
+    {
+      "title": "中国开始放行英伟达H200芯片",
+      "original_title": "",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110654",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "paywall_risk": true,
+      "summary_zh": "知情人士称，字节跳动和腾讯近几周已收到小批量英伟达H200芯片。这一进展将为力争追赶美国竞争对手的中国AI企业添加助力，但放行规模依然有限。",
+      "summary_en": "",
+      "why_it_matters_zh": "高性能AI芯片对华出口出现松动迹象，可能加速中国大模型竞争并影响全球AI产业格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英伟达",
+        "H200",
+        "AI芯片",
+        "中国AI"
+      ]
+    },
+    {
+      "title": "宇树科技上市首日一度大涨600%",
+      "original_title": "",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110656",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "paywall_risk": true,
+      "summary_zh": "在政府支持和投资者热情的双重作用下，机器人公司宇树科技上市首日股价一度飙升600%。中国最新一批科技公司的估值正处于历史高位。",
+      "summary_en": "",
+      "why_it_matters_zh": "宇树科技IPO表现反映中国机器人赛道资本热度，但估值高位也暗藏泡沫风险。",
+      "why_it_matters_en": "",
+      "tags": [
+        "宇树科技",
+        "IPO",
+        "机器人"
+      ]
+    },
+    {
+      "title": "英伟达联合华尔街巨头将算力金融化 5000亿美元计划引争议",
+      "original_title": "Nvidia's new financial strategy does not compute",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Apollo、贝莱德、黑石、Brookfield、高盛和KKR正与英伟达合作，筹集5000亿美元将算力转变为可融资的资产类别。分析认为这一金融创新策略在逻辑上存在疑问。",
+      "summary_en": "Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are working with Nvidia to raise $500 billion to turn compute into an asset class, though the financial logic is questionable.",
+      "why_it_matters_zh": "算力金融化若成功将重塑AI基础设施投融资模式，若失败则可能引发大规模资本错配。",
+      "why_it_matters_en": "Compute financialization could reshape AI infrastructure investment, but failure could trigger massive capital misallocation.",
+      "tags": [
+        "英伟达",
+        "算力",
+        "华尔街"
+      ]
+    },
+    {
+      "title": "消息称Hugging Face正洽谈以130亿美元被收购",
+      "original_title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "据报道，AI开源社区Hugging Face已收到估值约130亿美元的收购要约。但由于创始人重视社区责任，交易能否最终达成存在疑问。",
+      "summary_en": "Hugging Face has reportedly fielded acquisition offers valuing the company at around $13B, though founders' sense of responsibility to the community raises doubts about a sale.",
+      "why_it_matters_zh": "这家AI开源基础设施平台若被收购，可能改变全球AI开源生态的治理与发展方向。",
+      "why_it_matters_en": "Acquisition of a key open-source AI platform could reshape the global AI ecosystem.",
+      "tags": [
+        "Hugging Face",
+        "AI开源",
+        "并购"
+      ]
+    },
+    {
+      "title": "OpenAI踩下刹车：放缓AI研发 强化安全措施",
+      "original_title": "OpenAI hit the brakes. Now what?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "在IPO临近、Anthropic和中国开源模型竞争压力之下，OpenAI却宣布放缓部分AI开发进度，暂停两周以加强安全保障。市场竞争与安全责任之间的张力值得关注。",
+      "summary_en": "Facing an IPO, intense competition from Anthropic, and Chinese and open-weight rivals, OpenAI slowed some AI development and paused for two weeks to tighten security and safeguards.",
+      "why_it_matters_zh": "前沿AI公司在速度与安全之间的取舍，将影响整个行业的监管风向和竞争节奏。",
+      "why_it_matters_en": "Frontier labs' trade-off between safety and speed could influence AI regulation and competitive dynamics.",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "IPO"
+      ]
+    },
+    {
+      "title": "前沿AI实验室仍未说明如何控制失控模型",
+      "original_title": "Frontier AI labs still won't say how they'd contain a rogue model",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "一项新研究发现，领先AI实验室对如何控制失控模型几乎没有公开的应对方案。随着AI系统展现出意外且潜在危险的行为，业界对准备不足的担忧正在加剧。",
+      "summary_en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising concerns about preparedness as AI systems exhibit unexpected and potentially dangerous behavior.",
+      "why_it_matters_zh": "AI失控应对方案的缺失，构成潜在的网络安全和公共安全风险。",
+      "why_it_matters_en": "The lack of containment plans for rogue AI poses potential cybersecurity and public safety risks.",
+      "tags": [
+        "AI安全",
+        "模型失控",
+        "前沿实验室"
+      ]
+    },
+    {
+      "title": "AI助手Instinct被指权限过大 引发隐私与安全担忧",
+      "original_title": "Instinct's powerful AI assistant is raising privacy and security concerns",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 6,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "早期测试者称赞Instinct AI助手的强大能力，但其广泛的系统访问权限、宽泛的服务条款以及代表用户执行操作的能力，引发了隐私和安全方面的担忧。",
+      "summary_en": "Early testers praise Instinct's AI assistant, but its sweeping access, broad terms, and ability to act on users' behalf raise privacy and security concerns.",
+      "why_it_matters_zh": "AI助手权限过大可能成为新型数据泄露和恶意滥用的攻击面。",
+      "why_it_matters_en": "Overly broad AI assistant permissions could create new vectors for data breaches and abuse.",
+      "tags": [
+        "AI助手",
+        "隐私",
+        "安全"
+      ]
+    },
+    {
+      "title": "加密货币交易所神秘倒闭：老板失踪成行业顽疾",
+      "original_title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 5,
+      "relevance_score": 5,
+      "is_top_news": false,
+      "paywall_risk": true,
+      "summary_zh": "一家欧洲加密货币交易所的神秘倒闭，帮助解释了为什么该行业至今仍未摆脱“犯罪分子磁铁”的声誉。继任者失踪事件再次凸显行业监管漏洞。",
+      "summary_en": "The mysterious collapse of a European cryptocurrency exchange helps explain why the industry hasn't shaken its reputation as a magnet for criminals.",
+      "why_it_matters_zh": "加密货币行业持续暴雷反映监管缺位，对投资者保护和金融安全构成威胁。",
+      "why_it_matters_en": "Repeated crypto collapses highlight regulatory gaps threatening investor protection and financial security.",
+      "tags": [
+        "加密货币",
+        "金融犯罪",
+        "监管"
+      ]
+    },
+    {
+      "title": "中国称欧盟对京东收购Ceconomy的调查构成“不当域外管辖”",
+      "original_title": "",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110669",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "paywall_risk": true,
+      "summary_zh": "中国司法部已禁止任何组织、个人协助欧盟对京东收购德国Ceconomy的调查，并警告称“中方将坚决依法反制”。中欧在跨境并购审查上的管辖权冲突公开化。",
+      "summary_en": "",
+      "why_it_matters_zh": "中欧监管管辖权对抗升级，可能阻碍中国企业海外并购，并影响中欧经贸关系走向。",
+      "why_it_matters_en": "",
+      "tags": [
+        "京东",
+        "Ceconomy",
+        "欧盟",
+        "并购审查"
+      ]
+    },
+    {
+      "title": "香港长江和记提请仲裁 向巴拿马索赔15亿美元",
+      "original_title": "",
+      "source": "FT中文",
+      "url": "https://www.ftchinese.com/story/001110668",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "paywall_risk": true,
+      "summary_zh": "长江和记称巴拿马将其驱逐出巴拿马运河两个港口，导致“投资损失”，因此提请仲裁索赔15亿美元。这是中国企业因海外投资受阻而启动国际仲裁的最新案例。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国企业在拉美战略性资产上受挫并诉诸仲裁，凸显中企海外投资面临的地缘政治风险。",
+      "why_it_matters_en": "",
+      "tags": [
+        "长江和记",
+        "巴拿马",
+        "国际仲裁"
+      ]
+    },
+    {
+      "title": "特斯拉在华召回近300万辆汽车 涉及隐藏式门把手",
+      "original_title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o",
+      "language": "en",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "特斯拉在中国召回近300万辆汽车，原因是隐藏式门把手可能存在安全隐患。小鹏、小米和吉利等中国车企也受到此次召回影响。",
+      "summary_en": "Tesla is recalling nearly three million vehicles in China over hidden door handle safety concerns. Chinese carmakers XPeng, Xiaomi, and Geely are also affected.",
+      "why_it_matters_zh": "在华车企大规模召回显示中国市场安全监管趋严，对外资及本土品牌均构成合规压力。",
+      "why_it_matters_en": "The massive recall highlights tightening auto safety regulation in China, adding compliance pressure on both foreign and local brands.",
+      "tags": [
+        "特斯拉",
+        "汽车召回",
+        "中国市场"
+      ]
+    }
+  ]
+}
