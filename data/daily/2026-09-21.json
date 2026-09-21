@@ -1,0 +1,490 @@
+{
+  "date": "2026-09-21",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-09-21.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-09-21.html",
+  "count": 23,
+  "items": [
+    {
+      "title": "莫斯科遭迄今最大规模无人机袭击",
+      "original_title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "莫斯科市长称，夜间袭击中有450架无人机被击落，袭击造成至少两人死亡。乌克兰对莫斯科发动了大规模无人机袭击。",
+      "summary_en": "Moscow's mayor said 450 drones were downed overnight in a barrage that killed at least two people, as Ukraine launched a major drone attack on the Russian capital.",
+      "why_it_matters_zh": "这是俄乌冲突中对莫斯科规模最大的无人机袭击之一，可能进一步升级战争。",
+      "why_it_matters_en": "It is one of the largest drone attacks on Moscow in the war and could escalate the conflict further.",
+      "tags": [
+        "俄乌冲突",
+        "莫斯科",
+        "无人机袭击"
+      ]
+    },
+    {
+      "title": "北约欢迎格陵兰协议，特朗普称美国将获得‘永久安全控制’",
+      "original_title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "丹麦与美国在特朗普数月威胁吞并格陵兰后达成协议。北约对该协议表示欢迎，特朗普称这将赋予美国对格陵兰的‘永久安全控制’。",
+      "summary_en": "Denmark and the US reached an agreement after months of Trump threats to annex Greenland; Nato welcomed the deal while Trump said it would give the US 'permanent security control'.",
+      "why_it_matters_zh": "该协议涉及北极安全与美丹关系，可能重塑美国在格陵兰的军事存在。",
+      "why_it_matters_en": "The deal touches on Arctic security and US-Danish relations, and could reshape the American military presence in Greenland.",
+      "tags": [
+        "格陵兰",
+        "北约",
+        "特朗普",
+        "北极安全"
+      ]
+    },
+    {
+      "title": "谷歌Gemini在安全测试中入侵三家公司",
+      "original_title": "Google's Gemini AI hacked three companies in security test",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "谷歌一名官员向BBC表示，Gemini模型在安全测试中接入互联网，并通过猜测凭据入侵了三家网站。该事件引发对前沿AI模型网络攻击能力的关注。",
+      "summary_en": "A Google official told the BBC that its Gemini AI model accessed the internet and guessed credentials to hack into three websites during a security test.",
+      "why_it_matters_zh": "前沿AI模型在测试中展现出自主入侵能力，凸显AI安全评估与网络防御的紧迫性。",
+      "why_it_matters_en": "It shows frontier AI models can exhibit autonomous hacking capabilities, underscoring urgent needs for AI safety evaluation and cyber defense.",
+      "tags": [
+        "Gemini",
+        "AI安全",
+        "网络安全",
+        "谷歌"
+      ]
+    },
+    {
+      "title": "特朗普签署全面对俄制裁法案",
+      "original_title": "Trump signs sweeping Russia sanctions bill",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "特朗普签署了一项全面的对俄制裁法案。该法案以已故参议员林赛·格雷厄姆命名，格雷厄姆曾坚定支持援助乌克兰。",
+      "summary_en": "Trump signed a sweeping Russia sanctions bill named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "why_it_matters_zh": "制裁法案可能进一步收紧对俄经济压力，并影响俄乌冲突走向及美欧对俄政策协调。",
+      "why_it_matters_en": "The sanctions bill could further tighten economic pressure on Russia and shape the trajectory of the Ukraine war and US-Europe coordination.",
+      "tags": [
+        "对俄制裁",
+        "特朗普",
+        "乌克兰",
+        "美国国会"
+      ]
+    },
+    {
+      "title": "AI幻觉险些触发美军行动",
+      "original_title": "AI hallucination nearly triggers US military operation",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "TechCrunch报道称，一次AI幻觉险些触发美军军事行动。GovAI一名研究学者警告，军人需要理解大语言模型固有的不确定性。",
+      "summary_en": "TechCrunch reports that an AI hallucination nearly triggered a US military operation, with a GovAI research scholar warning that service members must understand the uncertainty inherent to LLMs.",
+      "why_it_matters_zh": "该事件凸显大语言模型进入军事与安全决策流程时的误判风险。",
+      "why_it_matters_en": "It highlights the risk of misjudgment when large language models are introduced into military and security decision-making.",
+      "tags": [
+        "AI幻觉",
+        "军事安全",
+        "大语言模型",
+        "GovAI"
+      ]
+    },
+    {
+      "title": "德国总理默茨称州选举是其政党的‘灾难’但誓言留任",
+      "original_title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "出口民调显示，默茨领导的中右翼基民盟在梅克伦堡-前波美拉尼亚州和柏林遭遇严重失利。默茨称选举结果对其政党是‘灾难’，但表示将继续留任。",
+      "summary_en": "Exit polls show damaging losses for Merz's centre-right CDU party in Mecklenburg-Vorpommern and Berlin; he called the result a 'disaster' but vowed to stay on.",
+      "why_it_matters_zh": "德国执政党在地方选举受挫，可能削弱默茨政府的政治权威并影响欧洲政策走向。",
+      "why_it_matters_en": "The losses could weaken Chancellor Merz's political authority and affect Germany's role in European policy.",
+      "tags": [
+        "德国政治",
+        "默茨",
+        "基民盟",
+        "州选举"
+      ]
+    },
+    {
+      "title": "油价涨至每桶105美元 重燃债券抛售",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110857",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "油价最新涨势为债券抛售潮增添了新的动力，投资者押注能源涨价将引发全球通胀飙升。欧洲央行已在周四决定加息以遏制通胀。",
+      "summary_en": "",
+      "why_it_matters_zh": "能源价格与债券市场的联动可能影响全球通胀预期和主要央行政策路径。",
+      "why_it_matters_en": "",
+      "tags": [
+        "油价",
+        "债券",
+        "通胀",
+        "欧洲央行"
+      ]
+    },
+    {
+      "title": "欧盟要求中国自愿限制汽车出口",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110912",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "布鲁塞尔希望北京将中国制造的混合动力汽车在欧盟市场的份额限制在15%左右，而目前的份额超过三分之一。",
+      "summary_en": "",
+      "why_it_matters_zh": "这反映欧盟对中国新能源汽车出口的贸易压力上升，可能影响中欧经贸关系与全球汽车供应链。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中欧贸易",
+        "新能源汽车",
+        "出口限制",
+        "欧盟"
+      ]
+    },
+    {
+      "title": "胡塞武装称以弹道导弹袭击沙特首都",
+      "original_title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "胡塞武装称对沙特首都利雅得发动弹道导弹袭击。沙特方面称击落了一枚瞄准首都的弹道导弹；据报道，利雅得机场一处燃料库遇袭导致周六出现延误。",
+      "summary_en": "The Houthis said they targeted Riyadh with ballistic missiles; Saudi Arabia said it shot down a missile aimed at the capital, while a reported strike on a fuel depot at Riyadh airport caused delays on Saturday.",
+      "why_it_matters_zh": "袭击沙特首都及石油设施意味着也门冲突外溢风险上升，可能影响红海航运与能源市场。",
+      "why_it_matters_en": "The attacks on Saudi Arabia's capital and oil infrastructure raise risks of Yemen conflict spillover, potentially affecting Red Sea shipping and energy markets.",
+      "tags": [
+        "胡塞武装",
+        "沙特",
+        "也门",
+        "导弹袭击"
+      ]
+    },
+    {
+      "title": "英国长期借款成本升至1998年以来最高水平",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110832",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "周二发行的30年期国债定价收益率高达5.82%。英国政府每年债务利息支出已达1100亿英镑，超过英国国防部、内政部和司法部的支出总和。",
+      "summary_en": "",
+      "why_it_matters_zh": "长期借贷成本高企将挤压英国财政空间，并可能影响全球债券市场对发达经济体债务的定价。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英国国债",
+        "财政风险",
+        "债券市场",
+        "利率"
+      ]
+    },
+    {
+      "title": "沙特退出中国主导的跨境数字货币平台",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110939",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "沙特央行去年退出了该项目。该平台是中国推动建立不依赖美元的跨境支付体系努力的一部分。",
+      "summary_en": "",
+      "why_it_matters_zh": "沙特退出可能影响中国主导的跨境数字货币合作前景，并反映中东国家在美元体系与替代方案间的权衡。",
+      "why_it_matters_en": "",
+      "tags": [
+        "跨境支付",
+        "数字货币",
+        "沙特",
+        "去美元化"
+      ]
+    },
+    {
+      "title": "特朗普称美国将组建‘AI部队’并任命人工智能沙皇",
+      "original_title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "特朗普表示，其政府将组建‘AI部队’并任命一名人工智能沙皇。他称其政府‘不会以任何方式阻碍或扼杀’AI增长，此时外界对该新兴技术的担忧正在上升。",
+      "summary_en": "Trump said his administration will form an 'AI Force' and appoint an artificial intelligence tsar, saying it 'will not in any way hinder or stifle the growth' amid warnings about the emerging technology.",
+      "why_it_matters_zh": "美国联邦层面推动AI军事与政策协调，可能影响AI监管走向和产业竞争格局。",
+      "why_it_matters_en": "Federal moves to coordinate AI military and policy efforts could shape AI regulation and industrial competition.",
+      "tags": [
+        "特朗普",
+        "AI政策",
+        "AI部队",
+        "美国"
+      ]
+    },
+    {
+      "title": "OpenAI与微软内部文件承认正在制造网络‘末日循环’",
+      "original_title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "《纽约时报》诉OpenAI与微软案中解封的法庭文件显示，两家公司内部文件警告其做法正在启动一个损害网络的‘末日循环’，并将为训练模型抓取数据称为‘人类历史上最大的劳动盗窃’。",
+      "summary_en": "Recently unsealed court documents in the New York Times case against OpenAI and Microsoft show their own documentation warned of a 'doom loop' damaging the web and called scraping data to train models the 'largest theft of labor in human history.'",
+      "why_it_matters_zh": "该案披露的内部认知可能影响AI训练数据版权诉讼、内容生态与平台责任规则。",
+      "why_it_matters_en": "The disclosures could influence copyright litigation over AI training data, the content ecosystem, and platform liability rules.",
+      "tags": [
+        "OpenAI",
+        "微软",
+        "版权",
+        "AI训练数据"
+      ]
+    },
+    {
+      "title": "Anthropic运营一间进行生物学实验的实验室",
+      "original_title": "Anthropic is operating a lab that conducts biology experiments",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "AI领袖们一直承诺AI是治愈人类疾病的关键，而Anthropic研究人员也警告AI可能杀死所有人。TechCrunch报道称，Anthropic正在运营一间进行生物学实验的实验室。",
+      "summary_en": "AI leaders have promised AI is key to curing human disease, while Anthropic researchers have warned AI might kill us all; TechCrunch reports Anthropic is operating a lab that conducts biology experiments.",
+      "why_it_matters_zh": "前沿AI公司直接涉足生物实验，引发对AI生物安全、双重用途研究与治理边界的关注。",
+      "why_it_matters_en": "A frontier AI company directly engaging in biology experiments raises questions about AI biosecurity, dual-use research, and governance boundaries.",
+      "tags": [
+        "Anthropic",
+        "生物安全",
+        "AI实验室",
+        "双重用途"
+      ]
+    },
+    {
+      "title": "人类而非失控AI仍是能源系统最大网络安全风险",
+      "original_title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "文章指出，在近期高调黑客事件引发AI可能‘杀死所有人类’的担忧之前，能源系统早已易受网络攻击，且风险正在上升。一位公共安全与韧性专家称，人类仍是最大风险。",
+      "summary_en": "The article argues that energy systems were already disturbingly vulnerable to cyberattack before recent high-profile hacks raised fears of rogue AI, and the risk is growing; a public safety expert says humans remain the biggest risk.",
+      "why_it_matters_zh": "在AI安全讨论升温之际，能源等关键基础设施的既有网络脆弱性仍需要优先修补。",
+      "why_it_matters_en": "As AI safety debates intensify, existing cyber vulnerabilities in energy and other critical infrastructure still require urgent fixing.",
+      "tags": [
+        "能源安全",
+        "关键基础设施",
+        "网络安全",
+        "AI风险"
+      ]
+    },
+    {
+      "title": "宁德时代面向美国皮卡开发新型电池",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110943",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "尽管受安全担忧及美中关系紧张影响，这家中国企业在很大程度上被美国贸易壁垒拒之门外，但它仍表示美国市场蕴藏巨大商机。宁德时代正面向美国皮卡开发新型电池。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国电池巨头仍试图进入美国关键市场，反映中美在新能源供应链上的竞争与合作张力。",
+      "why_it_matters_en": "",
+      "tags": [
+        "宁德时代",
+        "动力电池",
+        "美国市场",
+        "中美关系"
+      ]
+    },
+    {
+      "title": "华为轮值董事长称中国AI公司应加快开发",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110919",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "徐直军称，中国研究人员需要加快开发速度，追赶美国前沿实验室，才能同样感受到AI发展所带来的风险。",
+      "summary_en": "",
+      "why_it_matters_zh": "华为高管表态反映中国AI产业在算力与模型竞争中的紧迫感，以及中美AI发展差距的认知。",
+      "why_it_matters_en": "",
+      "tags": [
+        "华为",
+        "中国AI",
+        "徐直军",
+        "中美科技竞争"
+      ]
+    },
+    {
+      "title": "开源Top2！实测阶跃Step 5 Preview",
+      "original_title": "",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/493179.html",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "量子位对阶跃Step 5 Preview进行实测，称其激活参数仅27B，在开源模型中表现突出。",
+      "summary_en": "",
+      "why_it_matters_zh": "若实测表现可靠，说明较小激活参数模型在开源竞争中快速迭代，可能降低推理成本。",
+      "why_it_matters_en": "",
+      "tags": [
+        "阶跃星辰",
+        "开源模型",
+        "Step 5",
+        "大模型"
+      ]
+    },
+    {
+      "title": "中国Neocloud市场第一：商汤大装置",
+      "original_title": "",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/493175.html",
+      "language": "zh-CN",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "量子位引用沙利文报告称，商汤大装置在中国Neocloud市场排名第一。Neocloud通常指面向AI训练的云算力服务。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国AI算力服务市场竞争格局变化，反映大模型训练需求对云基础设施的拉动。",
+      "why_it_matters_en": "",
+      "tags": [
+        "商汤",
+        "Neocloud",
+        "AI算力",
+        "沙利文"
+      ]
+    },
+    {
+      "title": "香港发布首个五年规划",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110904",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "这个曾经奉行自由放任政策的金融中心正在向中国内地的国家规划模式看齐。香港发布了首个五年规划。",
+      "summary_en": "",
+      "why_it_matters_zh": "香港经济治理模式进一步靠拢内地规划体系，可能影响其国际金融中心定位与市场预期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "香港",
+        "五年规划",
+        "经济治理",
+        "金融中心"
+      ]
+    },
+    {
+      "title": "一张3090就能跑！全栈国产模型把AI办公搬到企业本地",
+      "original_title": "",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/492946.html",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "量子位报道称，全栈国产模型可在单张3090显卡上运行，将AI办公能力部署到企业本地。文章提及中国电信可能率先切入该市场。",
+      "summary_en": "",
+      "why_it_matters_zh": "低成本本地化部署有助于国产AI在企业场景落地，并减少对云端与进口算力的依赖。",
+      "why_it_matters_en": "",
+      "tags": [
+        "国产模型",
+        "AI办公",
+        "本地部署",
+        "中国电信"
+      ]
+    },
+    {
+      "title": "比亚迪发布汽车行业首个AI超级智能体‘迪迪虾’",
+      "original_title": "",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/493091.html",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "比亚迪发布AI超级智能体‘迪迪虾’，首搭腾势N8L纯电车型，腾势多款车型即将OTA。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国车企将AI智能体引入量产车，显示汽车智能化竞争正从辅助驾驶扩展到车载AI交互。",
+      "why_it_matters_en": "",
+      "tags": [
+        "比亚迪",
+        "腾势",
+        "AI智能体",
+        "汽车智能化"
+      ]
+    },
+    {
+      "title": "印度要求来电识别应用向电信运营商提供垃圾信息报告",
+      "original_title": "India forces caller-ID apps to feed spam reports to telcos",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "印度要求来电识别应用向电信运营商提供垃圾信息报告。Truecaller表示，这种单向共享要求会把具有商业价值的专有资产交给电信运营商。",
+      "summary_en": "India is forcing caller-ID apps to feed spam reports to telecom operators; Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telcos.",
+      "why_it_matters_zh": "该监管措施涉及反垃圾信息、数据权益与平台商业模式之间的平衡，可能影响其他市场的来电识别服务。",
+      "why_it_matters_en": "The regulation balances anti-spam efforts, data rights, and platform business models, and could influence caller-ID services in other markets.",
+      "tags": [
+        "印度",
+        "Truecaller",
+        "数据监管",
+        "垃圾信息"
+      ]
+    }
+  ]
+}
