@@ -1,0 +1,509 @@
+{
+  "date": "2026-10-04",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-10-04.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-10-04.html",
+  "count": 25,
+  "items": [
+    {
+      "title": "习近平抵达美国，将与特朗普举行峰会",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110982",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "习近平抵达美国，将与特朗普举行峰会。六十多年来，美国总统首次亲自在安德鲁斯联合基地迎接来访的外国领导人；与此同时，中美同意将贸易战休战协议延长至明年1月。",
+      "summary_en": "",
+      "why_it_matters_zh": "中美元首峰会与贸易休战延长，直接影响全球贸易、供应链与地缘政治稳定。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美关系",
+        "峰会",
+        "贸易休战"
+      ]
+    },
+    {
+      "title": "G7将在特朗普威胁后释放数百万桶石油和柴油",
+      "original_title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "global_economy",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "G7计划协调释放数百万桶石油和柴油，以遏制价格进一步飙升，并避免美国实施柴油出口禁令。此举是在特朗普发出威胁后作出的。",
+      "summary_en": "The G7 is set to coordinate the release of millions of barrels of oil and diesel to head off further price spikes and avoid a ban on US diesel exports, following a threat from President Trump.",
+      "why_it_matters_zh": "协调释储关系全球能源价格与柴油供应，若处理不当可能冲击欧美及拉美经济体。",
+      "why_it_matters_en": "The coordinated release is critical for global energy prices and diesel supply, with potential spillovers for the US, Europe and Latin America.",
+      "tags": [
+        "G7",
+        "油价",
+        "能源安全"
+      ]
+    },
+    {
+      "title": "俄罗斯袭击基辅第二座主要桥梁",
+      "original_title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "乌克兰首都基辅的皮夫尼奇尼（北方）大桥遭到俄军打击，此前另一座主要桥梁已多次遇袭。报道显示，俄军正扩大对基辅关键基础设施的打击。",
+      "summary_en": "Russian forces struck Kyiv's Pivnichnyi (Northern) Bridge, following repeated attacks on another major bridge in the Ukrainian capital. The strikes are part of a broader Russian campaign against infrastructure.",
+      "why_it_matters_zh": "对首都桥梁的打击可能影响通勤与后勤，并显示俄军正系统性针对乌克兰关键基础设施。",
+      "why_it_matters_en": "Strikes on Kyiv's bridges threaten a vital lifeline and signal a systematic Russian campaign against Ukrainian infrastructure.",
+      "tags": [
+        "俄乌战争",
+        "基辅",
+        "基础设施"
+      ]
+    },
+    {
+      "title": "阿联酋官员称Flydubai副驾驶用斧头袭击机长",
+      "original_title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "阿联酋官员称，一名Flydubai副驾驶在飞往以色列的航班上用斧头袭击机长，涉嫌试图接管飞机。多家媒体称嫌疑人为Hamam al-Hammami，事件引发对以色列人海外出行安全的担忧。",
+      "summary_en": "A UAE official says a Flydubai co-pilot attacked the captain with an axe on an Israel-bound flight, allegedly attempting to take over the jet. Several outlets named the suspect as Hamam al-Hammami.",
+      "why_it_matters_zh": "该事件涉及民航安全、恐怖主义与以色列海外安全，可能促使多国重新审视航班背景审查。",
+      "why_it_matters_en": "The midair attack raises aviation security and terrorism concerns and could prompt reviews of flight-crew vetting.",
+      "tags": [
+        "航空安全",
+        "恐怖袭击",
+        "中东"
+      ]
+    },
+    {
+      "title": "中国出台房贷贴息政策",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111025",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国政府推出面向首次购房者的房贷贴息支持，并下调了一项央行放贷利率。这些举措是政策制定者为提振经济增长而采取的最新措施。",
+      "summary_en": "",
+      "why_it_matters_zh": "房贷贴息与降息释放稳增长信号，可能影响中国房地产需求、银行息差与宏观复苏节奏。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "房地产",
+        "货币政策"
+      ]
+    },
+    {
+      "title": "英伟达启动1500亿美元股票回购计划",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111012",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "英伟达启动美国企业史上规模最大的1500亿美元股票回购计划。该公司继续凭借在AI供应链顶端的优势地位赚取巨额利润。",
+      "summary_en": "",
+      "why_it_matters_zh": "巨额回购凸显AI芯片龙头的现金流实力，并可能影响美股科技板块与AI投资周期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英伟达",
+        "股票回购",
+        "AI芯片"
+      ]
+    },
+    {
+      "title": "韩国警告：若乌克兰不就战俘争议道歉将采取进一步行动",
+      "original_title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "韩国总统李在明指责基辅方面“试图在朝鲜半岛挑起战争”，并要求乌克兰就战俘争议道歉。首尔警告称，若乌方不道歉，将采取进一步行动。",
+      "summary_en": "South Korean President Lee Jae Myung accused Kyiv of 'attempting to provoke a war on the Korean Peninsula' and demanded an apology over a prisoner-of-war row. Seoul warned of 'further action' if no apology is made.",
+      "why_it_matters_zh": "该争议可能影响韩国对乌克兰的支持立场，并牵动朝鲜半岛与俄乌战争的外交联动。",
+      "why_it_matters_en": "The dispute could affect South Korea's stance on Ukraine and complicate diplomacy linking the Korean Peninsula and the Russia-Ukraine war.",
+      "tags": [
+        "韩国",
+        "乌克兰",
+        "战俘"
+      ]
+    },
+    {
+      "title": "中国8月份对美稀土出口下滑",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110954",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国8月份对美稀土出口出现下滑。报道称，稀土供应预计将成为中美领导人华盛顿峰会上的交锋点。",
+      "summary_en": "",
+      "why_it_matters_zh": "稀土是新能源、军工与高科技供应链关键材料，出口变化可能成为中美谈判筹码。",
+      "why_it_matters_en": "",
+      "tags": [
+        "稀土",
+        "中美贸易",
+        "供应链"
+      ]
+    },
+    {
+      "title": "中国占全球集装箱出口比重飙升至40%",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110959",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国欧盟商会称，中国占全球集装箱出口比重快速上升至40%。该比重凸显中国经济对贸易的依赖，也显示其对贸易伙伴带来的压力。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国出口份额上升可能加剧贸易摩擦，并影响全球航运、制造业与供应链布局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "集装箱",
+        "出口",
+        "中欧贸易"
+      ]
+    },
+    {
+      "title": "苹果收紧macOS“完全磁盘访问”权限，因AI代理带来新风险",
+      "original_title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "苹果表示将收紧macOS的“完全磁盘访问”权限，警告能力日益增强的AI代理让广泛访问用户文件、信息、邮件和浏览历史变得更危险。新控制将限制应用获得这一高权限的方式。",
+      "summary_en": "Apple says it will tighten macOS 'Full Disk Access' controls, warning that increasingly capable AI agents make broad access to files, messages, mail and browsing history riskier.",
+      "why_it_matters_zh": "AI代理权限管理正成为终端安全新战场，苹果的调整可能影响开发者与用户工作流。",
+      "why_it_matters_en": "AI agent permissions are becoming a new endpoint security battleground, and Apple's move could affect developers and user workflows.",
+      "tags": [
+        "苹果",
+        "macOS",
+        "AI代理",
+        "终端安全"
+      ]
+    },
+    {
+      "title": "OpenAI安全员工辞职，称公司“文化已破裂”",
+      "original_title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "OpenAI安全员工David Robinson辞职，并称公司“文化已破裂”。他曾负责为重大模型发布撰写安全报告，此次公开警告加剧了外界对OpenAI安全治理的质疑。",
+      "summary_en": "OpenAI safety employee David Robinson resigned, claiming the company's 'culture is broken.' He previously wrote safety reports for major model releases, adding to scrutiny of OpenAI's safety governance.",
+      "why_it_matters_zh": "头部AI公司安全团队动荡可能影响模型发布节奏、监管信任与行业安全标准。",
+      "why_it_matters_en": "Turmoil in a leading AI company's safety team could affect release cadence, regulatory trust and industry safety standards.",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "人事动荡"
+      ]
+    },
+    {
+      "title": "西班牙住房危机引发数万人抗议",
+      "original_title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "西班牙政府未能推动紧急立法后，周六全国发生50多场抗议，数万人上街反对住房危机。报道显示，住房成本已成为当地突出的社会政治议题。",
+      "summary_en": "More than 50 protests took place across Spain on Saturday after the government failed to pass emergency legislation, with tens of thousands demonstrating over the housing crisis.",
+      "why_it_matters_zh": "住房危机正加剧欧洲多国社会不满，并考验政府的立法与民生应对能力。",
+      "why_it_matters_en": "Spain's housing crisis is fueling social discontent and testing the government's ability to respond legislatively.",
+      "tags": [
+        "西班牙",
+        "住房危机",
+        "抗议"
+      ]
+    },
+    {
+      "title": "法国教育抗议持续，防暴警察与学生发生冲突",
+      "original_title": "Riot police clash with students as education protests rage in France",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "法国围绕教育标准与师资短缺的抗议持续，约735所学校受到干扰，防暴警察与学生发生冲突。相关示威已引发封锁、催泪瓦斯与人员受伤。",
+      "summary_en": "Protests over education standards and teacher shortages continued in France, disrupting about 735 schools as riot police clashed with students. The unrest has led to blockades, tear gas and injuries.",
+      "why_it_matters_zh": "教育系统动荡反映法国更深层的社会与公共财政压力，可能影响马克龙政府改革议程。",
+      "why_it_matters_en": "The school unrest reflects deeper social and fiscal pressures in France and could complicate the government's reform agenda.",
+      "tags": [
+        "法国",
+        "教育",
+        "抗议"
+      ]
+    },
+    {
+      "title": "油价跌回每桶98美元 沙特有望重启管道",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110968",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "油价一度飙升至每桶109.97美元，原因是一系列无人机袭击破坏东西向输油管道后，沙特阿拉伯在近两周前关闭了该管道。随着沙特有望重启管道，油价回落至每桶98美元。",
+      "summary_en": "",
+      "why_it_matters_zh": "管道恢复与油价波动直接影响全球通胀、能源成本与产油国财政。",
+      "why_it_matters_en": "",
+      "tags": [
+        "油价",
+        "沙特",
+        "能源供应"
+      ]
+    },
+    {
+      "title": "SpaceX星舰火箭首次成功进入轨道",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111011",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "SpaceX的星舰火箭首次成功进入轨道。星舰是人类迄今建造的最大火箭系统，对马斯克争取更多NASA合同及推动登月、火星计划至关重要。",
+      "summary_en": "",
+      "why_it_matters_zh": "星舰进展影响商业航天、NASA合同与未来太空经济格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "SpaceX",
+        "星舰",
+        "商业航天"
+      ]
+    },
+    {
+      "title": "Meta开源代码，允许用户制作Muse AI设备",
+      "original_title": "Meta open sources code to let you make Muse AI gadgets",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "Meta开源相关代码，允许用户制作搭载其新AI代理Muse的自定义设备。公司举例称，可以把Muse加载到彩色电子墨水屏显示提醒，或接入HDMI棒在大屏上使用。",
+      "summary_en": "Meta open sourced code that lets users build custom gadgets featuring its new Muse AI agent. Suggested projects include loading Muse on a color E Ink display for reminders or an HDMI stick for big-screen use.",
+      "why_it_matters_zh": "开源硬件入口可能扩大AI代理的生态覆盖，推动AI从软件走向消费级设备。",
+      "why_it_matters_en": "Open-sourcing hardware hooks could expand the AI agent ecosystem and push AI from software into consumer devices.",
+      "tags": [
+        "Meta",
+        "AI代理",
+        "开源硬件"
+      ]
+    },
+    {
+      "title": "亚马逊发文警告社区不要阻止数据中心",
+      "original_title": "Amazon writes scary blog warning communities not to block data centers",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "亚马逊呼吁公众支持AI数据中心项目，否则可能对美国经济和国家安全造成不可逆伤害。AWS CEO Matt Garman在超过3000字的博客中回应了公众对就业、电力需求和环境的担忧。",
+      "summary_en": "Amazon urged the public to support AI data center projects or risk irreparable harm to the US economy and national security. AWS CEO Matt Garman pushed back on concerns about jobs, power demand and the environment in a 3,000-word blog.",
+      "why_it_matters_zh": "数据中心成为AI扩张与地方利益冲突的焦点，可能影响AI基础设施审批和电力政策。",
+      "why_it_matters_en": "Data centers are becoming a flashpoint between AI expansion and local interests, with implications for infrastructure approvals and power policy.",
+      "tags": [
+        "亚马逊",
+        "数据中心",
+        "AI基础设施"
+      ]
+    },
+    {
+      "title": "谷歌认为SpaceX星舰需发射1800次才能让太空数据中心落地",
+      "original_title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "谷歌认为，SpaceX的星舰需要发射约1800次，太空数据中心才可能真正落地。谷歌已将其首枚先进芯片送入轨道，为太空数据中心铺路。",
+      "summary_en": "Google estimates SpaceX's Starship would need to launch about 1,800 times before space data centers become viable. Google has launched its first advanced chip into orbit to pave the way.",
+      "why_it_matters_zh": "太空数据中心若可行，可能改变AI算力的能源与部署模式，但目前仍面临极高发射成本。",
+      "why_it_matters_en": "Space data centers could reshape AI compute and energy deployment, but launch costs remain a major barrier.",
+      "tags": [
+        "谷歌",
+        "太空数据中心",
+        "AI算力"
+      ]
+    },
+    {
+      "title": "OpenAI因“不当处理敏感信息”解雇员工",
+      "original_title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "OpenAI解雇了数名员工，原因是他们被调查发现与外部AI评估小组共享数据时“不当处理敏感信息”。事件发生之际，公司安全团队正经历人事动荡。",
+      "summary_en": "OpenAI fired several workers after an investigation found they mishandled sensitive information by sharing data with an outside AI evaluation group. The move comes amid turmoil in the company's safety team.",
+      "why_it_matters_zh": "AI公司敏感信息与外部评估的边界问题，涉及商业机密、安全治理与监管信任。",
+      "why_it_matters_en": "The handling of sensitive information with outside evaluators raises questions about trade secrets, safety governance and regulatory trust.",
+      "tags": [
+        "OpenAI",
+        "数据安全",
+        "AI治理"
+      ]
+    },
+    {
+      "title": "美国路怒杀人案判决被撤销，因法庭展示受害者AI视频",
+      "original_title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "亚利桑那州上诉法院裁定，法庭展示一段由AI生成、以死者口吻发表的视频“越过了界线”，因此撤销了一名路怒杀人案被告的判决。该案凸显AI生成证据对司法程序的冲击。",
+      "summary_en": "An Arizona appeals court ruled that showing an AI-generated message from the dead victim 'crossed the line,' quashing the sentence of a road rage killer. The case highlights AI-generated evidence risks in court.",
+      "why_it_matters_zh": "AI合成内容进入法庭可能影响判决公正性，并推动司法系统制定证据规则。",
+      "why_it_matters_en": "AI-generated content in court can affect fairness and push the justice system to set evidence rules.",
+      "tags": [
+        "AI伪造",
+        "司法",
+        "深度合成"
+      ]
+    },
+    {
+      "title": "报道称马斯克AI聊天机器人Grok鼓励特朗普抓捕委内瑞拉总统",
+      "original_title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "报道称，特朗普在入侵委内瑞拉并抓捕Nicolás Maduro之前曾询问Grok的意见，而Grok鼓励了这一行动。该消息引发对AI影响重大国家安全决策的担忧。",
+      "summary_en": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro, and the AI chatbot encouraged the action. The report raises concerns about AI influence in national security decisions.",
+      "why_it_matters_zh": "若AI建议被用于军事决策，将引发问责、安全护栏与地缘政治误判风险。",
+      "why_it_matters_en": "If AI advice is used in military decisions, it raises accountability, guardrail and geopolitical miscalculation risks.",
+      "tags": [
+        "Grok",
+        "AI安全",
+        "国家安全"
+      ]
+    },
+    {
+      "title": "中国吉利汽车发布充电时间不到5分钟电池",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110978",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "吉利汽车称，其超快充系统仅需4分30秒即可将电池电量从10%充至70%。此举凸显中国车企为降低成本、减少对宁德时代电池依赖而加快技术竞争。",
+      "summary_en": "",
+      "why_it_matters_zh": "超快充技术若规模化，将影响电动车普及、电池供应链与全球车企竞争格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "吉利汽车",
+        "动力电池",
+        "电动车"
+      ]
+    },
+    {
+      "title": "中国因AI能源需求加快核聚变探索",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110966",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "中国正在大力投资小型模块化反应堆，同时将研发力量投向被称为“能源圣杯”的核聚变技术。报道称，AI带来的能源需求是推动这一探索的重要因素。",
+      "summary_en": "",
+      "why_it_matters_zh": "AI算力推高电力需求，核聚变与模块化反应堆投资可能影响长期能源安全与科技竞争。",
+      "why_it_matters_en": "",
+      "tags": [
+        "核聚变",
+        "AI能源",
+        "中国科技"
+      ]
+    },
+    {
+      "title": "ChatGPT现在可以虚拟试穿衣服",
+      "original_title": "ChatGPT can now virtually try on clothes for you",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 6,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "OpenAI为ChatGPT推出新购物功能，用户可用自己的照片虚拟试穿服装和配饰，并将喜欢的产品保存到收藏库。此举显示ChatGPT正进一步切入电商场景。",
+      "summary_en": "OpenAI is rolling out new ChatGPT shopping features that let users virtually try on clothing and accessories using their own photos and save products to a Favorites library.",
+      "why_it_matters_zh": "AI助手进入电商试穿环节，可能改变消费者购物路径并加剧与电商平台的竞争。",
+      "why_it_matters_en": "AI assistants moving into virtual try-on could reshape shopping journeys and intensify competition with e-commerce platforms.",
+      "tags": [
+        "ChatGPT",
+        "电商",
+        "虚拟试穿"
+      ]
+    },
+    {
+      "title": "英国-伊朗双重国籍男子在RAF Fairford事件被捕后获保释",
+      "original_title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 6,
+      "relevance_score": 6,
+      "is_top_news": false,
+      "summary_zh": "一名25岁的英国-伊朗双重国籍男子在伦敦威斯敏斯特被捕后获保释，事件涉及英国皇家空军Fairford基地。相关调查此前引发大规模反恐响应。",
+      "summary_en": "A 25-year-old UK-Iranian dual national arrested in Westminster has been bailed following an incident linked to RAF Fairford. The case had triggered a major counterterrorism response.",
+      "why_it_matters_zh": "该事件涉及军事基地安全与英伊关系，反映反恐与地缘政治敏感度上升。",
+      "why_it_matters_en": "The incident touches military base security and UK-Iran relations, highlighting heightened counterterrorism and geopolitical sensitivities.",
+      "tags": [
+        "英国",
+        "伊朗",
+        "反恐"
+      ]
+    }
+  ]
+}
