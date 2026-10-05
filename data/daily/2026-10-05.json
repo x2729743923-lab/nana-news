@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-05",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-10-05.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-10-05.html",
+  "count": 20,
+  "items": [
+    {
+      "title": "习近平抵达美国，将与特朗普举行峰会",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110982",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 10,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "习近平抵达美国，将与特朗普举行峰会；六十多年来，美国总统首次亲自在安德鲁斯联合基地迎接来访的外国领导人。与此同时，中美同意将贸易战休战协议延长至明年1月。",
+      "summary_en": "",
+      "why_it_matters_zh": "中美元首峰会与贸易休战延长关系全球两个最大经济体的关系走向与市场预期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美关系",
+        "元首峰会",
+        "贸易战",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "巴西大选进入第二轮，右翼候选人弗拉维奥·博索纳罗首轮领先",
+      "original_title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "巴西总统选举首轮无人获得超过50%选票，将进入10月25日第二轮；右翼候选人弗拉维奥·博索纳罗在首轮得票领先。",
+      "summary_en": "Brazil's presidential election will go to a run-off on October 25 after no candidate won more than 50% of the vote; right-wing candidate Flávio Bolsonaro led the first round.",
+      "why_it_matters_zh": "巴西是拉美最大经济体，选举结果将影响地区政治与对美关系。",
+      "why_it_matters_en": "Brazil is Latin America's largest economy, and the outcome will shape regional politics and ties with Washington.",
+      "tags": [
+        "巴西",
+        "选举",
+        "拉美政治"
+      ]
+    },
+    {
+      "title": "美国空军从英国费尔福德基地撤走全部轰炸机",
+      "original_title": "US air force removes all bombers from British military base RAF Fairford",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "美国空军声明称，部署在英国皇家空军费尔福德基地的所有轰炸机已“重新部署回美国本土基地”。",
+      "summary_en": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+      "why_it_matters_zh": "美军从英国前沿基地撤离战略轰炸机，值得关注其部署调整与安全态势。",
+      "why_it_matters_en": "The withdrawal of U.S. strategic bombers from a key UK forward base is worth watching for changes in deployment posture and security conditions.",
+      "tags": [
+        "美国",
+        "英国",
+        "军事部署"
+      ]
+    },
+    {
+      "title": "特朗普公布“超级智能部队”以监督AI政策",
+      "original_title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 9,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "特朗普公布“超级智能部队”以监督AI政策，并任命国家情报总监为该工作组负责人；此举正值外界对AI安全的担忧上升。",
+      "summary_en": "President Trump unveiled a \"Super Intelligence Force\" to oversee AI policy and named his national intelligence chief as the taskforce's head, as worries over AI grow.",
+      "why_it_matters_zh": "白宫将AI政策提升至国家安全与情报层面，可能影响美国AI监管和产业方向。",
+      "why_it_matters_en": "Elevating AI policy to the intelligence and national security level could reshape U.S. AI regulation and industry direction.",
+      "tags": [
+        "美国",
+        "AI监管",
+        "国家安全"
+      ]
+    },
+    {
+      "title": "基辅桥梁遭俄无人机袭击，德国总理同日突访乌克兰",
+      "original_title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "乌克兰基辅的北桥（Pivnichyi Bridge）遭俄军无人机袭击，视频显示车辆通行时发生大火球；德国总理同日突访乌克兰。",
+      "summary_en": "Footage shows a drone hitting Kyiv's Pivnichyi (Northern) Bridge, creating a large fireball, as Germany's chancellor made a surprise visit to Ukraine.",
+      "why_it_matters_zh": "俄军持续打击基辅基础设施，德国总理突访凸显欧洲对乌支持与战争升级风险。",
+      "why_it_matters_en": "Continued Russian strikes on Kyiv's infrastructure and the German chancellor's surprise visit underscore Europe's support for Ukraine and escalation risks.",
+      "tags": [
+        "俄乌战争",
+        "无人机",
+        "德国"
+      ]
+    },
+    {
+      "title": "也门政府宣布发动全面战争，以从胡塞武装手中夺回土地",
+      "original_title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "也门政府宣布发动全面战争，以从胡塞武装手中夺回土地；此前胡塞武装与沙特领导的联盟互相发动袭击。",
+      "summary_en": "Yemen's president announced an all-out war to reclaim land from the Houthis, amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "why_it_matters_zh": "也门冲突升级可能影响红海航运与中东安全。",
+      "why_it_matters_en": "Escalation in Yemen could affect Red Sea shipping and Middle East security.",
+      "tags": [
+        "也门",
+        "胡塞武装",
+        "中东安全"
+      ]
+    },
+    {
+      "title": "埃塞俄比亚反叛武装撤出提格雷地区首府",
+      "original_title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "埃塞俄比亚提格雷地区反叛武装从首府默克莱撤出；两名当地居民告诉BBC，亲政府部队已控制该市。",
+      "summary_en": "Ethiopian rebel forces withdrew from Tigray's regional capital Mekelle; two residents told the BBC that pro-government forces had taken control of the city.",
+      "why_it_matters_zh": "提格雷冲突动向关系非洲之角是否会爆发更广泛地区战争。",
+      "why_it_matters_en": "The shift in Tigray risks broader regional war in the Horn of Africa.",
+      "tags": [
+        "埃塞俄比亚",
+        "提格雷",
+        "非洲之角"
+      ]
+    },
+    {
+      "title": "中国出台房贷贴息政策",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111025",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国政府为首次购房者提供支持，并下调一项央行放贷利率，以提振经济增长。",
+      "summary_en": "",
+      "why_it_matters_zh": "房地产是中国经济关键拖累项，贴息与降息显示政策层继续加码稳增长。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "房地产",
+        "货币政策",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "英伟达启动1500亿美元股票回购计划",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111012",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "英伟达启动美国企业史上规模最大的1500亿美元股票回购计划；该公司继续凭借AI供应链顶端优势赚取巨额利润。",
+      "summary_en": "",
+      "why_it_matters_zh": "巨额回购显示AI算力龙头现金流与盈利预期强劲，也影响美股与AI投资周期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英伟达",
+        "AI芯片",
+        "股票回购",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "SpaceX星舰火箭首次成功进入轨道",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111011",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "SpaceX星舰火箭首次成功进入轨道；星舰是人类迄今建造的最大火箭系统，对马斯克争取NASA合同及载人登月、火星目标至关重要。",
+      "summary_en": "",
+      "why_it_matters_zh": "星舰进展影响商业航天、NASA深空计划与重型发射竞争。",
+      "why_it_matters_en": "",
+      "tags": [
+        "SpaceX",
+        "星舰",
+        "商业航天",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "油价跌回每桶98美元，沙特有望重启管道",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110968",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "油价回落至每桶98美元，此前一度飙升至109.97美元；在无人机袭击破坏东西向输油管道后，沙特近两周前关闭该管道，目前有望重启。",
+      "summary_en": "",
+      "why_it_matters_zh": "油价与管道恢复关系全球通胀、能源安全和中东局势。",
+      "why_it_matters_en": "",
+      "tags": [
+        "油价",
+        "沙特",
+        "能源安全",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "OpenAI安全员工辞职并发出警告",
+      "original_title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "OpenAI安全员工David Robinson辞职，并公开警告；他此前负责为主要模型发布撰写安全报告，并在《大西洋月刊》发文。",
+      "summary_en": "David Robinson, who used to write safety reports for every major model release at OpenAI, resigned and is now speaking out in an editorial in The Atlantic.",
+      "why_it_matters_zh": "前沿AI公司安全团队人事动荡，关系AI安全治理与监管压力。",
+      "why_it_matters_en": "Turnover in frontier AI safety teams matters for AI safety governance and regulatory pressure.",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "人事变动"
+      ]
+    },
+    {
+      "title": "谷歌因AI提交量激增冻结开源漏洞赏金计划",
+      "original_title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "谷歌因AI提交量“显著上升”而冻结其开源漏洞赏金计划；报道称AI生成的垃圾提交正淹没漏洞赏金项目。",
+      "summary_en": "Google froze its open source bug bounty program due to a \"significant rise\" in AI submissions, with AI slop overwhelming bug bounty programs.",
+      "why_it_matters_zh": "AI生成内容正在冲击开源安全生态与漏洞报告质量。",
+      "why_it_matters_en": "AI-generated submissions are straining open source security workflows and bug bounty quality.",
+      "tags": [
+        "谷歌",
+        "漏洞赏金",
+        "AI生成内容",
+        "网络安全"
+      ]
+    },
+    {
+      "title": "中国8月份对美稀土出口下滑",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110954",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国8月份对美稀土出口下滑；预计稀土供应将成为中美领导人华盛顿峰会上的交锋点。",
+      "summary_en": "",
+      "why_it_matters_zh": "稀土是中美科技与贸易博弈关键杠杆，出口变化影响供应链安全。",
+      "why_it_matters_en": "",
+      "tags": [
+        "稀土",
+        "中美贸易",
+        "供应链",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "美驻华大使：特朗普曾问中国要不要买美国武器",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110999",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "美国驻华大使庞德伟称，特朗普曾问中国要不要买美国武器；他否认特朗普为安抚中国而推迟140亿美元对台军售案，并称美国对台政策没有改变。",
+      "summary_en": "",
+      "why_it_matters_zh": "涉及中美、对台军售与安全议题，可能影响双边关系与地区安全。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美关系",
+        "对台军售",
+        "美国外交",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "谁在回购市场大举借款？",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111022",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "全球回购市场总规模已达22万亿美元；文章探讨主要贷款方与借款方，以及过去十年该市场大幅增长的驱动因素。",
+      "summary_en": "",
+      "why_it_matters_zh": "回购市场是全球金融体系短期融资核心，其规模与杠杆变化值得关注。",
+      "why_it_matters_en": "",
+      "tags": [
+        "回购市场",
+        "全球金融",
+        "流动性",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "苹果将限制Mac磁盘访问，因AI代理“显著”增加风险",
+      "original_title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "苹果将在Mac上新增“完全磁盘访问”限制，以应对AI代理带来的风险；苹果称将确保只有真正需要该权限的应用获得授权。",
+      "summary_en": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, saying it wants to ensure only apps that genuinely need the access can get it.",
+      "why_it_matters_zh": "AI代理能力增强后，操作系统权限模型与用户数据安全面临新挑战。",
+      "why_it_matters_en": "More capable AI agents are forcing OS makers to rethink permission models and user data security.",
+      "tags": [
+        "苹果",
+        "AI代理",
+        "macOS安全"
+      ]
+    },
+    {
+      "title": "亚马逊回应数据中心反弹，称已不再使用保密协议",
+      "original_title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "亚马逊回应数据中心引发的社区反弹，称已不再使用保密协议；AWS CEO试图缓解外界对数据中心的普遍疑虑。",
+      "summary_en": "Amazon responded to data center backlash, saying it no longer uses NDAs; the CEO of AWS tried to push back against widespread suspicion of data centers.",
+      "why_it_matters_zh": "AI算力扩张带来数据中心选址、社区关系与信息披露争议。",
+      "why_it_matters_en": "AI compute expansion is fueling disputes over data center siting, community relations, and disclosure.",
+      "tags": [
+        "亚马逊",
+        "数据中心",
+        "AI算力"
+      ]
+    },
+    {
+      "title": "中国占全球集装箱出口比重飙升至40%",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110959",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国占全球集装箱出口比重飙升至40%；中国欧盟商会称，这一快速上升突显中国经济对贸易的依赖，也突显其给贸易伙伴带来的威胁。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国出口份额继续上升，可能加剧与贸易伙伴的摩擦并影响全球航运格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国外贸",
+        "集装箱",
+        "全球贸易",
+        "付费墙风险"
+      ]
+    },
+    {
+      "title": "中国吉利汽车发布充电时间不到5分钟电池",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110978",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "吉利汽车发布超快充电池，称仅需4分30秒即可将电量从10%充至70%；此举凸显中国车企为降低成本而寻求减少对宁德时代电池的依赖。",
+      "summary_en": "",
+      "why_it_matters_zh": "中国电动车企在快充与供应链自主上推进，可能改变全球电动车竞争格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "吉利",
+        "电动车",
+        "快充电池",
+        "付费墙风险"
+      ]
+    }
+  ]
+}
