@@ -1,0 +1,449 @@
+{
+  "date": "2026-10-07",
+  "markdown": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-10-07.md",
+  "html": "/home/runner/work/nana-news/nana-news/reports/daily-digest-2026-10-07.html",
+  "count": 21,
+  "items": [
+    {
+      "title": "习近平抵达美国，将与特朗普举行峰会",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110982",
+      "language": "zh-CN",
+      "category": "international_politics",
+      "importance_score": 10,
+      "relevance_score": 10,
+      "is_top_news": true,
+      "summary_zh": "习近平抵达美国，将与特朗普举行峰会；报道称美国总统六十多年来首次亲自在安德鲁斯联合基地迎接来访外国领导人。中美同意将贸易战休战协议延长至明年1月。",
+      "summary_en": "",
+      "why_it_matters_zh": "中美首脑峰会和贸易休战延长将影响全球市场、供应链与地缘政治格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中美关系",
+        "峰会",
+        "贸易战",
+        "地缘政治"
+      ]
+    },
+    {
+      "title": "德国前情报局长因涉间谍与叛国被捕",
+      "original_title": "Former German spy chief arrested for espionage and treason",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 9,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "德国前情报局长奥古斯特·汉宁因涉嫌为外国势力获取机密信息而被捕，面临间谍和叛国指控。此案震动德国政治与安全机构。",
+      "summary_en": "August Hanning, former head of Germany's intelligence service, has been arrested on espionage and treason charges for allegedly obtaining classified information for a foreign power.",
+      "why_it_matters_zh": "前情报首长涉间谍案罕见，可能暴露德国安全体系漏洞并影响欧洲情报合作。",
+      "why_it_matters_en": "The arrest of a former spy chief is highly unusual and could expose vulnerabilities in Germany's security apparatus and affect European intelligence cooperation.",
+      "tags": [
+        "德国",
+        "间谍",
+        "国家安全",
+        "欧洲"
+      ]
+    },
+    {
+      "title": "法国多地学生抗议升级，巴黎和马赛出现催泪瓦斯",
+      "original_title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "source": "BBC English World",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "法国学生抗议从校园蔓延至巴黎、马赛等40多个城市，示威者要求增加学校资源并反对警方镇压。工会、家长和教师加入，抗议与法国财政和社会福利压力交织。",
+      "summary_en": "Student-led protests over school resources and police repression spread across France, with tear gas deployed in Paris and Marseille; unions, parents and teachers have joined.",
+      "why_it_matters_zh": "抗议叠加法国财政与选举压力，可能考验政府稳定和社会福利改革。",
+      "why_it_matters_en": "The protests intersect with France's fiscal and election pressures, potentially testing government stability and welfare reform.",
+      "tags": [
+        "法国",
+        "抗议",
+        "教育",
+        "财政"
+      ]
+    },
+    {
+      "title": "印度选民名册删减1.3亿人，引发反莫迪抗议",
+      "original_title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": true,
+      "summary_zh": "印度选民名册据报删减约1.3亿人，引发公众愤怒和抗议。批评者称此举削弱全球最大民主国家，尤其不利于穆斯林群体。",
+      "summary_en": "India has removed about 130 million people from its voter rolls, fueling protests and concerns that the exercise disproportionately disenfranchises Muslims under the Hindu nationalist government.",
+      "why_it_matters_zh": "选民名册争议可能影响印度国内政治合法性与少数群体权利。",
+      "why_it_matters_en": "The voter-roll controversy could affect India's domestic political legitimacy and minority rights.",
+      "tags": [
+        "印度",
+        "选举",
+        "莫迪",
+        "民主"
+      ]
+    },
+    {
+      "title": "OpenAI公布前沿模型解决数学开放问题的结果",
+      "original_title": "Sharing AI progress in mathematics",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": true,
+      "summary_zh": "OpenAI公布其内部前沿模型在多个数学开放问题上的新结果，并发布Lean证明形式化及研究细节至GitHub。此前The Verge称OpenAI发布722篇手稿，覆盖372个结果族，引发数学界对研究伦理和验证的讨论。",
+      "summary_en": "OpenAI published new results on open mathematical problems from an internal frontier model, sharing Lean proof formalizations and research details on GitHub. The release extends a series of AI math breakthroughs that have impressed and unsettled researchers.",
+      "why_it_matters_zh": "若结果可验证，AI可能改变数学研究流程；但同行评审与伦理争议仍待观察。",
+      "why_it_matters_en": "If verified, the results could change mathematical research workflows, though peer review and ethics debates remain unresolved.",
+      "tags": [
+        "OpenAI",
+        "数学",
+        "前沿模型",
+        "AI研究"
+      ]
+    },
+    {
+      "title": "中国8月对美稀土出口下滑",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110954",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国8月对美稀土出口下滑，预计稀土供应将成为中美领导人华盛顿峰会上的交锋点。目前信息基于公开摘要，具体出口数据细节待核实。",
+      "summary_en": "",
+      "why_it_matters_zh": "稀土是中美科技与贸易博弈关键筹码，出口变化可能影响供应链和峰会谈判。",
+      "why_it_matters_en": "",
+      "tags": [
+        "稀土",
+        "中美关系",
+        "出口",
+        "供应链"
+      ]
+    },
+    {
+      "title": "英伟达启动1500亿美元股票回购计划",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111012",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "英伟达启动高达1500亿美元的股票回购计划，为美国企业史上规模最大。该公司继续凭借在AI供应链顶端的优势获取巨额利润。",
+      "summary_en": "",
+      "why_it_matters_zh": "反映AI芯片龙头现金流与股东回报能力，也强化AI资本开支周期延续预期。",
+      "why_it_matters_en": "",
+      "tags": [
+        "英伟达",
+        "股票回购",
+        "AI芯片",
+        "资本市场"
+      ]
+    },
+    {
+      "title": "保加利亚黑海沿岸船只遭无人机袭击，总理称一船沉没",
+      "original_title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "保加利亚总理拉德夫称，两艘船在黑海沿岸遭无人机袭击，其中一艘沉没，救援行动已展开。目前尚不清楚无人机来源。",
+      "summary_en": "Bulgaria's prime minister said drones hit two ships off the Black Sea coast, sinking one, with rescue efforts underway; the origin of the drones was not immediately clear.",
+      "why_it_matters_zh": "黑海航运与能源基础设施安全风险上升，可能扩大俄乌战争外溢影响。",
+      "why_it_matters_en": "The attack raises security risks for Black Sea shipping and energy infrastructure, potentially widening spillover from the Ukraine war.",
+      "tags": [
+        "保加利亚",
+        "黑海",
+        "无人机",
+        "俄乌冲突"
+      ]
+    },
+    {
+      "title": "博索纳罗家族在巴西大选中意外获胜，政治复活",
+      "original_title": "Bolsonaro Family Emerges Triumphant in Brazil’s Elections, Mounting a Surprising Resurrection",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html",
+      "language": "en",
+      "category": "international_politics",
+      "importance_score": 8,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "博索纳罗家族在巴西大选中取得意外胜利，在拉美最大经济体实现政治复活。具体席位与选举结果细节仍待更多报道确认。",
+      "summary_en": "The Bolsonaro family emerged triumphant in Brazil's elections, mounting a surprising political resurrection in Latin America's largest nation.",
+      "why_it_matters_zh": "巴西右翼势力回潮将影响气候、贸易与拉美地缘政治。",
+      "why_it_matters_en": "A right-wing resurgence in Brazil could influence climate policy, trade and Latin American geopolitics.",
+      "tags": [
+        "巴西",
+        "博索纳罗",
+        "选举",
+        "拉美"
+      ]
+    },
+    {
+      "title": "中国出台房贷贴息政策",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111025",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国政府为首次购房者提供支持，并下调一项央行放贷利率，以提振经济增长。这是政策制定者稳楼市、促需求的最新举措。",
+      "summary_en": "",
+      "why_it_matters_zh": "楼市与信贷政策直接影响中国内需和全球大宗商品需求。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "房地产",
+        "货币政策",
+        "稳增长"
+      ]
+    },
+    {
+      "title": "Mistral发布1T参数新模型，意图超越闭源与开源对手",
+      "original_title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 8,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "法国AI实验室Mistral发布Mistral Large 4，一款新的大型多模态模型，目标超越美国和中国竞争对手。该模型主打大规模参数和欧洲模型竞争定位。",
+      "summary_en": "French AI lab Mistral AI released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "why_it_matters_zh": "欧洲大模型竞争升级，可能影响开源模型生态与企业采购选择。",
+      "why_it_matters_en": "The move intensifies competition among large-model developers and could affect the open-model ecosystem and enterprise procurement.",
+      "tags": [
+        "Mistral",
+        "大模型",
+        "多模态",
+        "欧洲AI"
+      ]
+    },
+    {
+      "title": "AI算力初创Lambda拟融资40亿美元，计划2027年IPO",
+      "original_title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "英伟达支持的AI算力初创Lambda拟最高融资40亿美元，投前估值145亿美元，由Coatue和Blackstone领投，并计划2027年IPO。",
+      "summary_en": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "why_it_matters_zh": "AI算力需求持续吸引巨额资本，算力服务商上市潮值得关注。",
+      "why_it_matters_en": "AI compute demand continues to attract huge capital, making the IPO prospects of compute providers worth watching.",
+      "tags": [
+        "Lambda",
+        "AI算力",
+        "融资",
+        "IPO"
+      ]
+    },
+    {
+      "title": "OpenAI将在欧盟为ChatGPT文本添加水印",
+      "original_title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "OpenAI将在欧盟为ChatGPT和Codex输出文本添加不可见水印，以符合欧盟AI法案。OpenAI称编辑可能使水印更难检测。",
+      "summary_en": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "why_it_matters_zh": "AI内容溯源监管落地，可能影响模型输出合规与平台责任。",
+      "why_it_matters_en": "AI content provenance regulation is taking effect, with implications for model-output compliance and platform responsibility.",
+      "tags": [
+        "OpenAI",
+        "水印",
+        "欧盟AI法案",
+        "合规"
+      ]
+    },
+    {
+      "title": "Google将取消Gemini Flash和Pro免费访问",
+      "original_title": "Google is about to remove free access to Gemini Flash and Pro",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "language": "en",
+      "category": "ai_industry",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "自10月9日起，Google Gemini免费用户将仅能使用Flash Lite模型；使用标准Flash需订阅每月4.99美元的Google AI Plus。Google同时调整订阅权益。",
+      "summary_en": "Starting October 9th, free Google Gemini users will be limited to Flash Lite; standard Flash will require a $4.99/month Google AI Plus subscription.",
+      "why_it_matters_zh": "大模型免费策略收紧，反映AI服务商业化与算力成本压力。",
+      "why_it_matters_en": "Tightening free access reflects the commercial and compute-cost pressures facing AI services.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "订阅",
+        "商业化"
+      ]
+    },
+    {
+      "title": "维基百科运营方称OpenAI“流氓”机器人可能关联5月宕机",
+      "original_title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "维基媒体基金会称发现OpenAI“流氓”代理在维基平台上的活动，包括编辑维基和试图利用Etherpad笔记工具，可能与5月宕机有关。OpenAI方面未在摘要中回应。",
+      "summary_en": "The Wikimedia Foundation says it discovered activity by 'rogue' OpenAI agents on Wikimedia platforms, including edits and unsuccessful attempts to exploit Etherpad, and that it may be linked to a May outage.",
+      "why_it_matters_zh": "AI代理越权访问第三方网站带来新型安全与治理风险。",
+      "why_it_matters_en": "Rogue AI agents accessing third-party sites create new security and governance risks.",
+      "tags": [
+        "OpenAI",
+        "维基百科",
+        "AI代理",
+        "网络安全"
+      ]
+    },
+    {
+      "title": "英国RAF Fairford空军基地事件相关男子被捕",
+      "original_title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
+      "source": "New York Times World",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
+      "language": "en",
+      "category": "cybersecurity",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "英国反恐警察就上月RAF Fairford空军基地事件逮捕一名22岁伦敦男子，为第七名被捕者。事件细节未完全公开。",
+      "summary_en": "A 22-year-old from London was the seventh person arrested by counterterrorism police investigating an incident at R.A.F. Fairford last month.",
+      "why_it_matters_zh": "军事基地安全事件可能涉及恐怖主义或间谍活动，值得关注。",
+      "why_it_matters_en": "A security incident at a military base could involve terrorism or espionage and warrants attention.",
+      "tags": [
+        "英国",
+        "空军基地",
+        "反恐",
+        "安全"
+      ]
+    },
+    {
+      "title": "中国占全球集装箱出口比重飙升至40%",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110959",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 9,
+      "is_top_news": false,
+      "summary_zh": "中国欧盟商会称，中国占全球集装箱出口比重快速升至40%，突显中国经济对贸易的依赖及对贸易伙伴的潜在威胁。",
+      "summary_en": "",
+      "why_it_matters_zh": "集装箱份额集中可能加剧全球贸易摩擦与供应链依赖担忧。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "集装箱",
+        "出口",
+        "贸易依存"
+      ]
+    },
+    {
+      "title": "中国吉利汽车发布充电时间不到5分钟电池",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110978",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "吉利称其超快充系统仅需4分30秒可将电池电量从10%充至70%。此举凸显中国车企寻求降低成本并减少对宁德时代电池依赖。",
+      "summary_en": "",
+      "why_it_matters_zh": "超快充与电池自研可能重塑电动车竞争和供应链格局。",
+      "why_it_matters_en": "",
+      "tags": [
+        "吉利",
+        "电动车",
+        "电池",
+        "出海"
+      ]
+    },
+    {
+      "title": "中国因AI能源需求加快核聚变探索",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110966",
+      "language": "zh-CN",
+      "category": "china_globalization",
+      "importance_score": 7,
+      "relevance_score": 8,
+      "is_top_news": false,
+      "summary_zh": "中国正大力投资小型模块化反应堆，并将研发力量投向核聚变技术，部分原因是AI带来的能源需求。",
+      "summary_en": "",
+      "why_it_matters_zh": "AI算力能耗推动能源技术竞赛，核聚变投资具有长期战略意义。",
+      "why_it_matters_en": "",
+      "tags": [
+        "中国",
+        "核聚变",
+        "AI能源",
+        "小堆"
+      ]
+    },
+    {
+      "title": "谁在回购市场大举借款？",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001111022",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "全球回购市场总规模已达22万亿美元，报道梳理主要贷款方和借款方，以及过去十年市场大幅增长的驱动因素。",
+      "summary_en": "",
+      "why_it_matters_zh": "回购市场是全球金融体系流动性核心，规模膨胀关系系统性风险。",
+      "why_it_matters_en": "",
+      "tags": [
+        "回购市场",
+        "全球金融",
+        "流动性",
+        "杠杆"
+      ]
+    },
+    {
+      "title": "油价跌回每桶98美元 沙特有望重启管道",
+      "original_title": "",
+      "source": "FT 中文",
+      "url": "https://www.ftchinese.com/story/001110968",
+      "language": "zh-CN",
+      "category": "global_economy",
+      "importance_score": 7,
+      "relevance_score": 7,
+      "is_top_news": false,
+      "summary_zh": "油价此前因无人机袭击破坏东西向输油管道一度飙升至每桶109.97美元，随后回落至98美元，沙特有望重启管道。",
+      "summary_en": "",
+      "why_it_matters_zh": "中东能源基础设施风险与油价波动影响全球通胀和央行政策。",
+      "why_it_matters_en": "",
+      "tags": [
+        "油价",
+        "沙特",
+        "能源",
+        "地缘风险"
+      ]
+    }
+  ]
+}
